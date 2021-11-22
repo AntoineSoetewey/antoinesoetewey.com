@@ -1,0 +1,4 @@
+<time datetime="{{ .Date }}">
+  {{ .Date.Format (.Site.Params.dateform | default "2006-01-02") }}
+</time>
+{{- /* Trim EOF */ -}}

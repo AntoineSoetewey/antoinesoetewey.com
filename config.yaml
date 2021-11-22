@@ -8,11 +8,11 @@ author:
   bio: 'Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain'
   image: img/author.jpg
   links:
-    - twitter: https://twitter.com/
-    - facebook: https://facebook.com/
-    - linkedin: https://linkedin.com/
-    - youtube: https://youtube.com/
-  name: Congo
+    - twitter: https://twitter.com/statsandr
+    - facebook: https://www.facebook.com/antoine.soetewey
+    - linkedin: https://www.linkedin.com/in/antoinesoetewey/
+    # - youtube: https://youtube.com/
+  name: Antoine Soetewey
 taxonomies:
   tag: tags
 params:
