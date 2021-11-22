@@ -17,9 +17,7 @@ If you wish to support my work and help me to continue developing open source pr
 
 ### Blog
 
-<ul>
-  <li><a href="https://statsandr.com/">Stats and R</a>: a blog about statistics and its applications in R, using the {blogdown} R package and Hugo</li>
-</ul>
+- [Stats and R](https://statsandr.com/): a blog about statistics and its applications in R, using the {blogdown} R package and Hugo
 
 ### Shiny apps and dashboards
 
@@ -38,28 +36,22 @@ If you wish to support my work and help me to continue developing open source pr
 
 ### R package
 
-<ul>
-<li><a href="/files/years-of-life-lost-yll.pdf">yll</a>: an R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> to compute the standard and the average years of life lost</li>
-</ul>
+- [{yll}](/files/years-of-life-lost-yll.pdf): an R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> to compute the standard and the average years of life lost
 
 ### Others
-  <ul>
-  <li><a href="/files/booklist.html">Booklist</a></li>
-  <li><a href="/files/visited-places.html">World map of visited countries</a></li>
-  <li><a href="/files/CV_timeline_antoinesoetewey.html">CV timeline</a></li>
-  </ul>
+
+- [Booklist](/files/booklist.html)
+- [World map of visited countries](/files/visited-places.html)
+- [CV timeline](/files/CV_timeline_antoinesoetewey.html)
 
 ## Web development
 
-  <ul>
-  <li>My <a href="/">personal website</a> using R, Hugo, blogdown and GitHub</li>
-  <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R, using the {blogdown} R package and Hugo</li>
-  <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks, also using R and Hugo</li>
-  <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
-  </ul>
+- My [personal website](/) using R, Hugo, blogdown and GitHub
+- My [blog](https://statsandr.com/) about statistics and its applications in R, using the {blogdown} R package and Hugo
+- [easystat.be](https://easystat.be/) to provide more information about my teaching tasks, also using R and Hugo
+- [Website](https://www.docteurelsavancaster.com/){target="_blank"} of a doctor using Wordpress</li>
+
 
 ## GitHub
 
-<ul>
-<li><a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub profile</a></li>
-</ul>
+- [GitHub profile](https://github.com/AntoineSoetewey){target="_blank"}
