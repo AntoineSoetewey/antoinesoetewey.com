@@ -1,50 +1,7 @@
 theme: congo
-languageCode: en-US
-defaultContentLanguage: en
-title: Antoine Soetewey
-enableEmoji: yes
-summaryLength: 0
-author:
-  bio: 'Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain'
-  image: img/author.jpg
-  links:
-    - twitter: https://twitter.com/statsandr
-    - facebook: https://www.facebook.com/antoine.soetewey
-    - linkedin: https://www.linkedin.com/in/antoinesoetewey/
-    # - youtube: https://youtube.com/
-  name: Antoine Soetewey
 taxonomies:
   tag: tags
 params:
-  article:
-    editAppendPath: yes
-    editURL: https://github.com/jpanther/congo/tree/dev/exampleSite/content/
-    showBreadcrumbs: yes
-    showEdit: yes
-  homepage:
-    layout: custom
-    mainSections: samples
-    showRecent: yes
   list:
     groupByYear: no
     showBreadcrumbs: yes
-menu:
-  main:
-    - name: Docs
-      pageRef: docs
-      weight: 10
-    - name: Samples
-      pageRef: samples
-      weight: 20
-    - name: Users
-      pageRef: users
-      weight: 30
-    - name: GitHub
-      url: https://github.com/jpanther/congo
-      weight: 40
-markup:
-  goldmark:
-    renderer:
-      unsafe: yes
-  highlight:
-    noClasses: no
