@@ -37,7 +37,7 @@
   
 [[main]]
   name = "cv"
-  url = "https://www.antoinesoetewey.com/cv.pdf"
+  url = "/cv.pdf"
   weight = 60
   
 [[main]]
