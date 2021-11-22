@@ -1,5 +1,5 @@
 ---
-description: Prenez rendez-vous avec Antoine Soetewey
+description: Book an appointment with Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false

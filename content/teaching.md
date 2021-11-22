@@ -1,5 +1,5 @@
 ---
-description: Some real-life Congo examples.
+description: See Antoine Soetewey's teaching tasks and positions
 draft: false
 showAuthor: false
 showDate: false
@@ -31,9 +31,9 @@ I am or have been the teaching assistant for the following courses at UCLouvain:
 I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service:
 
 <ul>
-    <li><b><a href="https://sites.uclouvain.be/smcs-gateway/view.php?id=339&l=fr" target="_blank" rel="noopener">Introduction to data analysis with R</a></b></li>
-    <li><b><a href="http://www.uclouvain.be/formation-continue-JDA" target="_blank" rel="noopener">Junior data analyst</a></b></li>
-    <li><b><a href="https://sites.uclouvain.be/smcs-gateway/view-catalogue.php?id=49&l=fr" target="_blank" rel="noopener">Practice of statistics with R</a></b></li>
+    <li><a href="https://sites.uclouvain.be/smcs-gateway/view.php?id=339&l=fr" target="_blank" rel="noopener">Introduction to data analysis with R</a></li>
+    <li><a href="http://www.uclouvain.be/formation-continue-JDA" target="_blank" rel="noopener">Junior data analyst</a></li>
+    <li><a href="https://sites.uclouvain.be/smcs-gateway/view-catalogue.php?id=49&l=fr" target="_blank" rel="noopener">Practice of statistics with R</a></li>
 </ul>
 
 ## Tutoring & consulting

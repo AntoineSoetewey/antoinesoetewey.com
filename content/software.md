@@ -1,5 +1,5 @@
 ---
-description: Code and software edited and maintained by Antoine Soetewey
+description: Code, software and open source projects created and maintained by Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false
@@ -11,7 +11,7 @@ title: Software
 
 Below you will find various projects sorted by programming language or skill.
 
-If you wish to support my work and help me to continue developing open source projects, you can sponsor me through the <a href="https://github.com/sponsors/AntoineSoetewey" target="_blank" rel="noopener">GitHub sponsor program</a> or by <a href="https://www.buymeacoffee.com/statsandr" target="_blank" rel="noopener">buying me a book</a>.
+If you want to help me to continue developing open source projects, see how you can [support my work](https://statsandr.com/support/).
 
 ## R
 
@@ -46,12 +46,16 @@ If you wish to support my work and help me to continue developing open source pr
 
 ## Web development
 
-- My [personal website](/) using R, Hugo, blogdown and GitHub
-- My [blog](https://statsandr.com/) about statistics and its applications in R, using the {blogdown} R package and Hugo
-- [easystat.be](https://easystat.be/) to provide more information about my teaching tasks, also using R and Hugo
-- [Website](https://www.docteurelsavancaster.com/){target="_blank"} of a doctor using Wordpress</li>
+<ul>
+  <li>My <a href="/">personal website</a> using Jekyll and GitHub</li>
+  <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R, using the {blogdown} R package and Hugo</li>
+  <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks, also using R and Hugo</li>
+  <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
+</ul>
 
 
 ## GitHub
 
-- [GitHub profile](https://github.com/AntoineSoetewey){target="_blank"}
+<ul>
+<li><a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub profile</a></li>
+</ul>

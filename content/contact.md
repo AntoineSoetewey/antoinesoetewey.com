@@ -1,5 +1,5 @@
 ---
-description: Contactez Antoine Soetewey
+description: Contact Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false

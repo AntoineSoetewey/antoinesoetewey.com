@@ -1,5 +1,5 @@
 ---
-description: Research of Antoine Soetewey
+description: Research, publications and talks of Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false
@@ -21,6 +21,7 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
 <ul>
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. <i>et al</i>. Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>Eur. Actuar. J.</i> (2020). DOI: <a href="http://link.springer.com/article/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">10.1007/s13385-020-00254-x</a></li>
 </ul>
+
 For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
 
 ## Talks & posters
@@ -40,21 +41,21 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Press & media
 
 <ul>
-    <li>The right to be forgotten - Are we all equal when it comes to insurance?</a> (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">link</a>]</li>
-    <li>How can we predict the evolution of COVID 19 in Belgium?</a> (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
-    <li>Evolution of COVID-19 hospital admissions in Belgium</a> (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
+    <li>The right to be forgotten - Are we all equal when it comes to insurance? (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">link</a>]</li>
+    <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
+    <li>Evolution of COVID-19 hospital admissions in Belgium (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
 ## Associations & affiliations
 
 <ul>
-<li>Member of the Royal Statistical Society of Belgium</li>
+<li>Member of the Royal Statistical Society of Belgium (<a href="https://rssb.be/" target="_blank" rel="noopener">RSSB</a>)</li>
 </ul>
 
 ## PhD & Master's theses
 
 <ul>
-<li>Life and health actuarial pricing: a biostatistics approach</a> <i>(in progress)</i>. PhD in Statistics, UCLouvain [<a href="/files/Thesis_abstract_EN.pdf">PDF</a>]</li>
-<li>Combining professional and survey forecasts for macroeconomic data</a> (2016). M.Sc. in Econometrics, Maastricht University. ISBN: ​978-3659660801 [<a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1483904672&amp;sr=1-1" target="_blank" rel="noopener">Amazon</a>, <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">PDF</a>]</li>
-<li>Negativity bias and framing effect in charity donations: a field experiment</a> (2014). M.Sc. in Economics, KU Leuven [<a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">PDF</a>]</li>
+<li>Life and health actuarial pricing: a biostatistics approach <i>(in progress)</i>. PhD in Statistics, UCLouvain [<a href="/files/Thesis_abstract_EN.pdf">PDF</a>]</li>
+<li>Combining professional and survey forecasts for macroeconomic data (2016). M.Sc. in Econometrics, Maastricht University. ISBN: 978-3659660801 [<a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1483904672&amp;sr=1-1" target="_blank" rel="noopener">Amazon</a>, <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">PDF</a>]</li>
+<li>Negativity bias and framing effect in charity donations: a field experiment (2014). M.Sc. in Economics, KU Leuven [<a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">PDF</a>]</li>
 </ul>
