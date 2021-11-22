@@ -11,4 +11,6 @@ Hello, my name is Antoine Soetewey. I am a PhD student in statistics at UCLouvai
 
 I also write and [code](/software/) about statistics and R on my [blog](https://statsandr.com/).
 
-Learn more [about me](/about/), check my [CV](/cv.pdf), or send me an [email](/contact/) to get in touch.
+{{< button href="/about/" target="_self" >}}
+Learn more
+{{< /button >}}

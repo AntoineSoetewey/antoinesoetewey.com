@@ -16,6 +16,8 @@ summaryLength = 0
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
+googleAnalytics = "UA-86997981-1"
+
 [author]
   name = "Antoine Soetewey"
   image = "img/author.jpg"
