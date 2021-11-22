@@ -12,17 +12,17 @@
 
 [[main]]
   name = "about"
-  pageRef = "about/"
+  url = "/about/"
   weight = 10
 
 [[main]]
   name = "teaching"
-  pageRef = "teaching"
+  url = "/teaching/"
   weight = 20
 
 [[main]]
   name = "research"
-  pageRef = "research"
+  url = "/research/"
   weight = 30
   
 [[main]]
@@ -32,7 +32,7 @@
   
 [[main]]
   name = "code"
-  pageRef = "software"
+  url = "/software/"
   weight = 50
   
 [[main]]
@@ -42,15 +42,5 @@
   
 [[main]]
   name = "contact"
-  pageRef = "contact"
+  url = "/contact/"
   weight = 70
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-# [[footer]]
-#   name = "terms"
-#   pageRef = "terms"
-#   weight = 10

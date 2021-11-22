@@ -1,18 +1,15 @@
 ---
-date: "2020-08-14"
 description: Some real-life Congo examples.
 draft: false
 showAuthor: false
 showDate: false
 showEdit: false
 showReadingTime: false
-slug: rdv
-title: Rendez-vous
+slug: teaching
+title: Teaching
 ---
 
-<h2>
-Teaching assistant positions
-</h2>
+## Teaching assistant positions
 
 I am or have been the teaching assistant for the following courses at UCLouvain:
 
@@ -29,9 +26,7 @@ I am or have been the teaching assistant for the following courses at UCLouvain:
     <li>2017 - 2018: <b>Further statistics</b>&nbsp;-&nbsp;<a href="https://uclouvain.be/en-cours-2020-linge1214.html" target="_blank" rel="noopener">LINGE1214</a></li>
 </ul>
 
-<h2>
-Workshops & trainings
-</h2>
+## Workshops & trainings
 
 I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service:
 
@@ -41,10 +36,8 @@ I am also instructor for the following university certificates, as part of UCLou
     <li><b><a href="https://sites.uclouvain.be/smcs-gateway/view-catalogue.php?id=49&l=fr" target="_blank" rel="noopener">Practice of statistics with R</a></b></li>
 </ul>
 
-<h2>
-Tutoring & consulting
-</h2>
+## Tutoring & consulting
 
-<p>Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or academic/work related projects.</p>
+Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or academic/work related projects.
 
-<p>See more information on <a href="https://easystat.be/">easystat.be</a> and feel free to contact me for further questions or to organize the first class.</p>
+See more information on [easystat.be](https://easystat.be/) and feel free to contact me for further questions or to organize the first class.

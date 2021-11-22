@@ -5,11 +5,11 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "ocean"
+colorScheme = "ocean2"
 darkMode = "auto"
 darkToggle = true
 # logo = "img/logo.jpg"
-# description = "My awesome website"
+description = "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -18,23 +18,23 @@ darkToggle = true
   showRecent = false
 
 [article]
-  showDate = true
+  showDate = false
   dateFormat = "2 January 2006"
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
-  showDraftLabel = true
+  showDraftLabel = false
   showEdit = false
   editURL = "https://github.com/AntoineSoetewey/antoinesoetewey.com/"
   editAppendPath = true
   showHeadingAnchors = true
-  showPagination = true
-  showReadingTime = true
+  showPagination = false
+  showReadingTime = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
   showSummary = false
-  groupByYear = true
+  groupByYear = false
 
 [taxonomy]
   showTermCount = true

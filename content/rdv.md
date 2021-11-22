@@ -1,6 +1,5 @@
 ---
-date: "2020-08-14"
-description: Some real-life Congo examples.
+description: Prenez rendez-vous avec Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false

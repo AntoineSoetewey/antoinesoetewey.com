@@ -14,12 +14,18 @@ enableRobotsTXT = true
 
 summaryLength = 0
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
 [author]
   name = "Antoine Soetewey"
   image = "img/author.jpg"
   bio = "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain"
   links = [
-    { email = "mailto:ant.soetewey@gmail.com" },
+    { github = "https://github.com/AntoineSoetewey" },
+    { linkedin = "https://linkedin.com/in/username" },
+    { twitter = "https://twitter.com/username" },
+    { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" }
+  #   { email = "/contact/" },
   #   { link = "https://link-to-some-website.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
@@ -27,12 +33,10 @@ summaryLength = 0
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
   #   { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/AntoineSoetewey" }
   #   { gitlab = "https://gitlab.com/username" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
@@ -43,6 +47,5 @@ summaryLength = 0
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   ]

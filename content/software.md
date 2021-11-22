@@ -1,6 +1,5 @@
 ---
-date: "2020-08-14"
-description: Some real-life Congo examples.
+description: Code and software edited and maintained by Antoine Soetewey
 draft: false
 showAuthor: false
 showDate: false
@@ -10,24 +9,20 @@ slug: software
 title: Software
 ---
 
-<p>Below you will find various projects sorted by programming language or skill.</p>
+Below you will find various projects sorted by programming language or skill.
 
-<p>If you wish to support my work and help me to continue developing open source projects, you can sponsor me through the <a href="https://github.com/sponsors/AntoineSoetewey" target="_blank" rel="noopener">GitHub sponsor program</a> or by <a href="https://www.buymeacoffee.com/statsandr" target="_blank" rel="noopener">buying me a book</a>.</p>
+If you wish to support my work and help me to continue developing open source projects, you can sponsor me through the <a href="https://github.com/sponsors/AntoineSoetewey" target="_blank" rel="noopener">GitHub sponsor program</a> or by <a href="https://www.buymeacoffee.com/statsandr" target="_blank" rel="noopener">buying me a book</a>.
 
-<h2>
-  R
-</h2>
+## R
 
-<h3>
-  Blog
-</h3>
+### Blog
+
 <ul>
   <li><a href="https://statsandr.com/">Stats and R</a>: a blog about statistics and its applications in R, using the {blogdown} R package and Hugo</li>
 </ul>
 
-<h3>
-  Shiny apps and dashboards
-</h3>
+### Shiny apps and dashboards
+
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a>: a guide on how to compute probabilities for the main probability distributions - how to read statistical tables (see accompanying <a href="https://statsandr.com/blog/a-guide-on-how-to-read-statistical-tables/">blog post</a>)</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a>: an app to perform inferential statistics - confidence interval and hypothesis testing for mean(s), proportion(s) and variance(s) (see accompanying <a href="https://statsandr.com/blog/a-shiny-app-for-inferential-statistics-by-hand/">blog post</a>)</li>
@@ -40,31 +35,31 @@ title: Software
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Word cloud</a> as part of text mining analysis (see accompanying <a href="https://statsandr.com/blog/draw-a-word-cloud-with-a-shiny-app/">blog post</a>)</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Correlogram</a>: example of a correlations matrix to highlight the most correlated variables of a dataset (see accompanying <a href="https://statsandr.com/blog/correlogram-in-r-how-to-highlight-the-most-correlated-variables-in-a-dataset/">blog post</a>)</li>
 </ul>
-<h3>
-  R package</h3>
+
+### R package
+
 <ul>
 <li><a href="/files/years-of-life-lost-yll.pdf">yll</a>: an R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> to compute the standard and the average years of life lost</li>
 </ul>
 
-<h3>
-  Others</h3>
+### Others
   <ul>
   <li><a href="/files/booklist.html">Booklist</a></li>
   <li><a href="/files/visited-places.html">World map of visited countries</a></li>
   <li><a href="/files/CV_timeline_antoinesoetewey.html">CV timeline</a></li>
   </ul>
 
-<h2>
-  Web development</h2>
+## Web development
+
   <ul>
-  <li>My <a href="/">personal website</a> using Jekyll and GitHub</li>
+  <li>My <a href="/">personal website</a> using R, Hugo, blogdown and GitHub</li>
   <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R, using the {blogdown} R package and Hugo</li>
   <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks, also using R and Hugo</li>
   <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
   </ul>
 
-<h2>
-GitHub</h2>
+## GitHub
+
 <ul>
 <li><a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub profile</a></li>
 </ul>

@@ -1,7 +1,8 @@
 theme: congo
 taxonomies:
   tag: tags
-params:
-  list:
-    groupByYear: no
-    showBreadcrumbs: yes
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
