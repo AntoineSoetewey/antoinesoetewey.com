@@ -57,5 +57,5 @@ If you want to help me to continue developing open source projects, see how you 
 ## GitHub
 
 <ul>
-<li><a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub profile</a></li>
+<li><a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub profile {{< icon "github" >}}</a></li>
 </ul>
