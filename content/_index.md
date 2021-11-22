@@ -9,7 +9,7 @@ PhD student and teaching assistant in statistics at UCLouvain
 
 Hello, my name is Antoine Soetewey. I am a PhD student in statistics at UCLouvain. In parallel with my [research](/research/), I am [teaching assistant](/teaching/) for several courses in statistics and probability, and I give private [lessons](https://easystat.be/) to students and academics.
 
-I also write and [code](/software/) about statistics and R on my [blog](https://statsandr.com/).
+I also write about statistics and [code](/software/) in R on my [blog](https://statsandr.com/).
 
 {{< button href="/about/" target="_self" >}}
 Learn more
