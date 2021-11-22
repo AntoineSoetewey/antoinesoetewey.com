@@ -12,7 +12,7 @@
 
 [[main]]
   name = "about"
-  pageRef = "about"
+  pageRef = "about/"
   weight = 10
 
 [[main]]
@@ -27,7 +27,7 @@
   
 [[main]]
   name = "blog"
-  pageRef = "https://statsandr.com/"
+  url = "https://statsandr.com/"
   weight = 40
   
 [[main]]
@@ -37,7 +37,7 @@
   
 [[main]]
   name = "cv"
-  pageRef = "cv"
+  url = "https://www.antoinesoetewey.com/cv.pdf"
   weight = 60
   
 [[main]]
@@ -50,7 +50,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-[[footer]]
-  name = "terms"
-  pageRef = "terms"
-  weight = 10
+# [[footer]]
+#   name = "terms"
+#   pageRef = "terms"
+#   weight = 10
