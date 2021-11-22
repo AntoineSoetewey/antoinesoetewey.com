@@ -24,7 +24,7 @@ googleAnalytics = "UA-86997981-1"
   bio = "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
-    { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },
+    { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
     { twitter = "https://twitter.com/statsandr" },
     { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" }
   #   { email = "/contact/" },
