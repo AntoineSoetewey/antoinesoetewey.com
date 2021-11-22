@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <article class="max-w-prose">
+    <header>
+      {{ if .Site.Params.article.showBreadcrumbs | default false }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+      <h1 class="mt-0 text-4xl font-extrabold text-neutral-800 dark:text-neutral">
+        {{ .Title | emojify }}
+      </h1>
+      <div class="mt-8 mb-12 text-base text-neutral-400 dark:text-neutral-500">
+        {{ partial "article-meta.html" (dict "context" . "scope" "single") }}
+      </div>
+    </header>
+    <section class="prose dark:prose-light">
+      {{ .Content | emojify }}
+    </section>
+    <footer class="pt-8">
+      {{ partial "author.html" . }}
+      {{ partial "sharing-links.html" . }}
+      {{ partial "article-pagination.html" . }}
+    </footer>
+    {{ if templates.Exists "partials/comments.html" }}
+      {{ partial "comments.html" . }}
+    {{ end }}
+  </article>
+{{ end }}
