@@ -11,19 +11,39 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
-  pageRef = "/"
+  name = "about"
+  pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "Teaching"
-  pageRef = "/teaching/"
+  name = "teaching"
+  pageRef = "teaching"
   weight = 20
 
 [[main]]
-  name = "Research"
-  pageRef = "/research/"
+  name = "research"
+  pageRef = "research"
   weight = 30
+  
+[[main]]
+  name = "blog"
+  pageRef = "https://statsandr.com/"
+  weight = 40
+  
+[[main]]
+  name = "code"
+  pageRef = "software"
+  weight = 50
+  
+[[main]]
+  name = "cv"
+  pageRef = "cv"
+  weight = 60
+  
+[[main]]
+  name = "contact"
+  pageRef = "contact"
+  weight = 70
 
 
 # -- Footer Menu --
@@ -31,10 +51,6 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "terms"
+  pageRef = "terms"
   weight = 10
-[[footer]]
-  name = "Test"
-  pageRef = "tags"
-  weight = 20
