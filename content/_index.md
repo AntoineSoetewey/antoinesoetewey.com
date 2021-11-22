@@ -7,20 +7,8 @@ title: 'Antoine Soetewey'
 PhD student and teaching assistant in statistics at UCLouvain
 {{< /lead >}}
 
-[about](/about/)
+Hello, my name is Antoine Soetewey. I am a PhD student in statistics at UCLouvain. In parallel with my [research](/research/), I am [teaching assistant](/teaching/) for several courses in statistics and probability.
 
-[teaching](/teaching/)
+I also write and [code](/software/) about statistics and R on my [blog](https://statsandr.com/).
 
-[research](/research/)
-
-[blog](https://statsandr.com/)
-
-[code](/software/)
-
-[cv](https://www.antoinesoetewey.com/cv.pdf)
-
-[contact](/contact/)
-
-[sitemap](/sitemap/)
-
-[files](/files/booklist.html)
+Learn more [about me](/about/), check my [CV](https://www.antoinesoetewey.com/cv.pdf), or send me an [email](/contact/) to get in touch.
