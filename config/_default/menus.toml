@@ -31,19 +31,9 @@
   weight = 40
   
 [[main]]
-  name = "code"
-  url = "/software/"
-  weight = 50
-  
-[[main]]
-  name = "cv"
-  url = "/cv.pdf"
-  weight = 60
-  
-[[main]]
   name = "contact"
   url = "/contact/"
-  weight = 70
+  weight = 50
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
