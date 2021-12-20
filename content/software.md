@@ -50,6 +50,7 @@ If you want to help me to continue developing open source projects, see how you 
   <li>This <a href="/">personal website</a> using the {blogdown} R package, Hugo and GitHub</li>
   <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R, using the {blogdown} R package, Hugo and GitHub</li>
   <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks, also using R and Hugo</li>
+  <li>A <a href="https://lespo2102.netlify.app/">website</a> dedicated to one of the course for which I am teaching assistant, using R and the {distill} package</li>
   <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
 </ul>
 
