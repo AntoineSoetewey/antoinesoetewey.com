@@ -6,3 +6,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
