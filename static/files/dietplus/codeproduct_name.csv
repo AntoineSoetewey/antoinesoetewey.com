@@ -1,0 +1,106 @@
+"shop_code","id","product_type_id","code_product","barcode","name","price_ttc","price_ht","tav","activated"
+"C00046",1,3,"CA1160A","3700525900805","CT-103 Chitosan",12.6,11.94,5.5,1
+"C00046",2,2,"CA1148V","3050001148000","BT-202 Booster",14.3,13.55,5.5,1
+"C00046",3,3,"CA1159A","3710525900583","NP-114 Modérateur d'appetit",12.7,12.04,5.5,1
+"C00046",4,2,"CA1161V","3050001149021","DG-204 Digest",12.5,11.85,5.5,1
+"C00046",5,2,"CA1162V","3050001149014","CF-306 Confort féminin",13.5,12.8,5.5,1
+"C00046",6,2,"CA1163B","3050001149007","SE-319 Sérénité",12.6,11.94,5.5,1
+"C00046",7,3,"CA1165A","3050001165007","MP-115 Minceur plus",13.2,12.51,5.5,1
+"C00046",8,2,"CA1166V","3700625900668","MV-215 Multivitamines",13.5,12.8,5.5,1
+"C00046",9,2,"CA1167V","3050001167001","PH-216 pH Balance",21.5,20.38,5.5,1
+"C00046",10,3,"CA1201A","3050001201019","DR-105 Dépuratif & draineur flacon",21.9,20.76,5.5,1
+"C00046",11,3,"CA1202A","3050002202015","BG-103 Brûleur flacon",24,22.75,5.5,1
+"C00046",12,3,"CA1301A","3050001301016","DR-104 Dépuratif & Draineur ampoule",25.4,24.08,5.5,1
+"C00046",13,3,"CA1302A","3050002302012","BG-102 Brûleur ampoules",27.1,25.69,5.5,1
+"C00046",14,3,"CA1303A","3050001303218","MC-218 Minceur 3 en 1",31.7,30.05,5.5,1
+"C00046",15,1,"AC1163T","3050003193022","Thé Silhouette +",6.7,6.35,5.5,1
+"C00046",16,1,"AC3193B","3050003191011","BISCUITS SAVEUR BEURRE",9.1,8.63,5.5,1
+"C00046",17,1,"BT4001G","3050004000008","Gel minceur 150ml",27,22.5,20,1
+"C00046",18,1,"AC1160T","3050003193008","Tisane DIGEST'",9.8,9.29,5.5,1
+"C00046",19,1,"AC1201B","1000000000021","Boules de soja chocolat",3.3,3.13,5.5,1
+"C00046",20,1,"AC1161T","3050003193015","Tisane CIRCULATION",9.8,9.29,5.5,1
+"C00046",21,1,"AC1202B","1000000000022","Boules de soja BBQ",3.3,3.13,5.5,1
+"C00046",22,1,"AC1203B","1000000000023","Boules de soja Oignons",3.3,3.13,5.5,1
+"C00046",23,1,"AC1204B","1000000000024","Noix de soja BBQ",2.9,2.75,5.5,1
+"C00046",24,1,"AC3105B","3050003104004","Céréales choco",6.95,6.59,5.5,1
+"C00046",25,1,"AC3107B","3050003106008","Céréales nature",5.8,5.5,5.5,1
+"C00046",26,1,"AC3104B","3050003191004","Barre minceur Hyperprotéinée",15.2,14.41,5.5,1
+"C00046",27,1,"AC3192B","3050003191028","BISCUITS SAVEUR CHOCOLAT",9.1,8.63,5.5,1
+"C00046",28,1,"PP2217B","3050002217019","Pâtes bolognaises",6.55,6.21,5.5,1
+"C00046",29,1,"PP2218B","3050002218023","Chili con carne",6.55,6.21,5.5,1
+"C00046",30,1,"PP2224B","3050002224031","Poulet curry et son riz",6.55,6.21,5.5,1
+"C00046",31,1,"PP2272B","3050002272049","Lasagnes",6.55,6.21,5.5,1
+"C00046",32,1,"AC3106B","3050003105001","Céréales fruits rouges",6.95,6.59,5.5,1
+"C00046",33,6,"BOXDT","none","BOX Detox",88.7,84.08,5.5,1
+"C00046",34,6,"BOXH","none","BOX HOMME",99.9,94.69,5.5,1
+"C00046",35,6,"BOXV","none","BOX VACANCES",75.5,71.56,5.5,1
+"C00046",36,6,"BOXVP","none","BOX Ventre Plat",90.8,86.07,5.5,1
+"C00046",37,3,"CA1147","3050003230109","Spray anti-fringale",21,19.91,5.5,1
+"C00046",38,1,"PP2216","3050002216012","Poisson sauce oseille ",6.55,6.21,5.5,1
+"C00046",39,4,"ACCS009","none","SAC EN TISSU",0,0,20,1
+"C00046",40,4,"ART0082","3050001000001","livre recettes",2.5,2.08,20,1
+"C00046",41,4,"GOOM002","none","GOBELET DIETPLUS",1.5,1.25,20,1
+"C00046",42,4,"GOOM003","none","MUG DIETPLUS",0,0,20,1
+"C00046",43,4,"GOOM004","none","MAGNET DIETPLUS",0,0,20,1
+"C00046",44,6,"BOXFP","none","BOX Fêtes",65.2,61.8,5.5,1
+"C00046",45,6,"BOXFS","none","BOX Fêtes suivi",95.12,90.16,5.5,1
+"C00046",46,4,"AR00067","3050001000018","LIVRE DE RECETTES ATTAQUE",2.5,2.08,20,1
+"C00046",47,4,"AR00068","3050001000025","LIVRE DE RECETTES ACTIVE",2.5,2.08,20,1
+"C00046",48,4,"AR00069","3050001000032","LIVRE DE RECETTES STABILISATION",2.5,2.08,20,1
+"C00046",49,5,"FASTAB","none","Stabilisation nouvelle étape",0,0,20,1
+"C00046",50,5,"FASTABFE","none","Stabilisation c'est la fête, c'est les vacances",0,0,20,1
+"C00046",51,5,"FASTABPA","none","Stabilisation le temp d'une pause",0,0,20,1
+"C00046",52,5,"FASTABPR","none","Stabilisation préserver vos acquis",0,0,20,1
+"C00046",53,5,"FASVAC","none","Les vacances",0,0,20,1
+"C00046",54,4,"GOOM006","3050001000117","CARNET DIETPLUS",5.48,4.57,20,1
+"C00046",55,1,"CERCHOC","3050003109009","Nouvelles Céréales chocolat",7.7,7.3,5.5,1
+"C00046",56,1,"CERFRUI","3050003108002","Nouvelles Céréales fruits rouges",7.7,7.3,5.5,1
+"C00046",57,1,"CERNATU","3050003107005","Nouvelles Céréales nature",6.5,6.16,5.5,1
+"C00046",58,4,"AR00004","none","clé usb",0,0,20,1
+"C00046",59,4,"GOOM005","none","PILULIER DIETPLUS ",3,2.5,20,1
+"C00046",60,4,"GOOS001","none","stylo",0,0,20,1
+"C00046",61,5,"FIC0003","none","réussir",0,0,20,1
+"C00046",62,5,"FIC0004","none","hydratation",0,0,20,1
+"C00046",63,5,"FIC0005","none","calories",0,0,20,1
+"C00046",64,5,"FIC0006","none","étiquetage ",0,0,20,1
+"C00046",65,5,"FIC0007","none","acidité",0,0,20,1
+"C00046",66,5,"FIC0008","none","le sucre",0,0,20,1
+"C00046",67,5,"FIC0009","none","abandon",0,0,20,1
+"C00046",68,5,"FIC0010","none","transit",0,0,20,1
+"C00046",69,5,"FIC0011","none","surpoids",0,0,20,1
+"C00046",70,5,"FIC0012","none","rétention d'eau",0,0,20,1
+"C00046",71,5,"FIC0013","none","aliments",0,0,20,1
+"C00046",72,5,"RECUP01","none","récup smoothie ",0,0,20,1
+"C00046",73,5,"RECUP02","none","récup concombre",0,0,20,1
+"C00046",74,5,"RECUP03","none","récup citron/pamplemousse",0,0,20,1
+"C00046",75,5,"RECUP04","none","récup courgette",0,0,20,1
+"C00046",76,5,"RECUP05","none","récup endives",0,0,20,1
+"C00046",77,5,"RECUP06","none","récup blanche",0,0,20,1
+"C00046",78,5,"RECUP07","none","récup carottes",0,0,20,1
+"C00046",79,5,"RECUP08","none","récup gingembre",0,0,20,1
+"C00046",80,5,"RECUP09","none","récup betteraves",0,0,20,1
+"C00046",81,5,"RECUP10","none","récup tomates",0,0,20,1
+"C00046",82,6,"BOXDIG","none","BOX Digest",45.47,43.1,5.5,1
+"C00046",83,6,"BOXESC","none","BOX Essentielle Choco",54.8,51.94,5.5,1
+"C00046",84,6,"BOXESN","none","BOX Essentielle Nature",49.73,47.14,5.5,1
+"C00046",85,6,"BOXESR","none","BOX Essentielle Fruits Rouges",54.8,51.94,5.5,1
+"C00046",86,6,"BOXHAR","none","BOX Harmonie",46.12,43.72,5.5,1
+"C00046",87,6,"BOXSER","none","BOX Sérénité",32.7,31,5.5,1
+"C00046",88,6,"BOXSIL","none","BOX Silhouette",76.82,64.02,20,1
+"C00046",89,6,"BOXVIT","none","BOX Vitalité",52.9,50.14,5.5,1
+"C00060",53,10,"GOOM007","3050001000186","GOBELET CARTON ",0.35,0.29,20,1
+"C00067",90,3,"SPRAF","3050003230101","Spray anti-fringale",20.9,19.81,5.5,0
+"C00067",91,1,"AC3191B","3050003191004","Barre minceur Hyperprotéinée",14.75,13.98,5.5,0
+"C00067",92,1,"GLPSO","3050002216012","Poisson sauce oseille ",5.95,5.64,5.5,0
+"C00067",93,1,"SPANFR","3050003230101","Spray anti fringale",20.9,19.81,5.5,0
+"C00079",94,1,"AC1159B","none","Herbal Tea Multivitamines",0,0,5.5,0
+"C00079",95,1,"AC3190B","none","Biscuits secs MIX - 7 sortes",0,0,5.5,0
+"C00135",81,4,"MAGDIE","none","MAGNET DIETPLUS",1.2,1,20,0
+"C00151",45,4,"GOBDIE","none","GOBELET DIETPLUS",1.5,1.25,20,0
+"C00151",49,4,"LIVREC","3050001000001","LIVRE RECETTES",2.5,2.08,20,0
+"C00151",51,4,"MUGDIE","none","MUG DIETPLUS",7.2,6,20,0
+"C00151",57,4,"SACTIS","none","SAC EN TISSU",3.46,2.88,20,0
+"C00151",92,4,"NEW1","3050001000117","CARNET DIETPLUS",5.48,4.57,20,1
+"CL00158",99,4,"FT5","none","Frais de transport",5,4.17,20,1
+"CL00267",30,4,"GOODM82","none","VASO PLASTICO DIETPLUS",4.5,3.72,21,1
+"CL00267",32,4,"ART 0082","3050001000001","LIBRO DE RECETAS",2.5,2.07,21,1
