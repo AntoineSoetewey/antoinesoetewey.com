@@ -54,6 +54,7 @@ If you want to help me to continue developing open source projects, see how you 
   <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
 </ul>
 
+Feel free to [contact me](/contact/) if you need help in building your own website.
 
 ## GitHub
 

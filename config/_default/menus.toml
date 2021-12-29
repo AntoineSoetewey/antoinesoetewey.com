@@ -24,16 +24,21 @@
   name = "research"
   url = "/research/"
   weight = 30
+
+[[main]]
+  name = "code"
+  url = "/software/"
+  weight = 40
   
 [[main]]
   name = "blog"
   url = "https://statsandr.com/"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = "contact"
   url = "/contact/"
-  weight = 50
+  weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
