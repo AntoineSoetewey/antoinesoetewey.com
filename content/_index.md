@@ -1,5 +1,5 @@
 ---
-description: Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain
+description: Personal website of Antoine Soetewey, PhD student and teaching assistant in statistics at UCLouvain
 title: 'Antoine Soetewey'
 ---
 
