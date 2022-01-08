@@ -18,6 +18,8 @@ For you robots out there is an [XML version](/sitemap.xml) available for digesti
 - [About](/about/)
 - [Appointment](/rdv/)
 - [Contact](/contact/)
+- [CV](/cv/)
+- [Homepage](/)
 - [Research](/research/)
 - [Sitemap](/sitemap/)
 - [Software](/software/)
