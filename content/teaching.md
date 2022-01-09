@@ -28,16 +28,15 @@ I am or have been the teaching assistant for the following courses at UCLouvain:
 
 ## Workshops & trainings
 
-I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service:
+I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>):
 
-<ul>
-    <li><a href="https://sites.uclouvain.be/smcs-gateway/view.php?id=339&l=fr" target="_blank" rel="noopener">Introduction to data analysis with R</a></li>
-    <li><a href="http://www.uclouvain.be/formation-continue-JDA" target="_blank" rel="noopener">Junior data analyst</a></li>
-    <li><a href="https://sites.uclouvain.be/smcs-gateway/view-catalogue.php?id=49&l=fr" target="_blank" rel="noopener">Practice of statistics with R</a></li>
-</ul>
+- Introduction to data analysis with R
+- Junior data analyst
+- Practice of statistics with R
 
 ## Tutoring & consulting
 
-Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or academic/work related projects.
+Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or work related projects.
 
-See more information on [easystat.be](https://easystat.be/) and feel free to contact me for further questions or to organize the first class.
+- **Students** and academics, see more information at [easystat.be](https://easystat.be/).
+- **Professionals** or companies, see more information at [datanalyze.be](https://datanalyze.be/).
