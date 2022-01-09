@@ -15,7 +15,7 @@ In parallel with my doctoral thesis, I am [teaching assistant](/teaching/) for s
 
 Given my experience, I also support:
 
-- **University students** and academics in their studies through the success of their exam or the statistical part of their thesis, thanks to tailor-made courses and personalized support in statistics and probability. See more information at [easystat.be](https://easystat.be/).
+- **Students** and academics in their studies through the success of their exam or the statistical part of their thesis, thanks to tailor-made courses and personalized support in statistics and probability. See more information at [easystat.be](https://easystat.be/).
 - **Professionals** and companies in their research, data analysis and informed decision-making by bringing a statistical dimension to their projects, regardless of the sector, core business or size of the company. See more information at [datanalyze.be](https://datanalyze.be/).
 
 If you need help in statistics, data analysis or R for your academic or work related projects, feel free to contact me via the corresponding website!
