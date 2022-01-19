@@ -44,6 +44,7 @@ googleAnalytics = "UA-86997981-1"
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { twitch = "https://twitch.tv/username" },
