@@ -9,7 +9,6 @@ defaultContentLanguage = "en"
 title = "Antoine Soetewey"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-enableEmoji = true
 enableRobotsTXT = true
 
 summaryLength = 0
