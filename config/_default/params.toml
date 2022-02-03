@@ -9,9 +9,6 @@ colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 showAppearanceSwitcher = true
-# logo = "img/logo.jpg"
-# mainSections = ["section1", "section2"]
-# robots = ""
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
