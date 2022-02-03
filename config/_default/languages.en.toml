@@ -6,13 +6,11 @@ weight = 1
 rtl = false
 
 title = "Antoine Soetewey"
-# logo = "img/logo.jpg"
-description = "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain"
-# copyright = "Copy, _right?_ :thinking_face:"
+description = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
 
 dateFormat = "2 January 2006"
 
-nalytics = "UA-86997981-1"
+googleAnalytics = "UA-86997981-1"
 
 [author]
   name = "Antoine Soetewey"
