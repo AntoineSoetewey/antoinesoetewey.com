@@ -6,10 +6,15 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "ocean2"
-darkMode = "auto"
-darkToggle = true
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+showAppearanceSwitcher = true
+enableSearch = false
+showScrollToTop = true
+article.showTaxonomies = false
+article.showTableOfContents = false
+list.showTableOfContents = false
 # logo = "img/logo.jpg"
-description = "Personal website of Antoine Soetewey. PhD student and teaching assistant in statistics at UCLouvain"
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -19,7 +24,6 @@ description = "Personal website of Antoine Soetewey. PhD student and teaching as
 
 [article]
   showDate = false
-  dateFormat = "2 January 2006"
   showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = false

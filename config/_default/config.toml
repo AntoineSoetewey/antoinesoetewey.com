@@ -6,46 +6,11 @@ baseURL = "https://antoinesoetewey.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Antoine Soetewey"
-# copyright = "Copy, _right?_ :thinking_face:"
-
 enableRobotsTXT = true
-
+paginate = 10
 summaryLength = 0
 
-googleAnalytics = "UA-86997981-1"
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
-[author]
-  name = "Antoine Soetewey"
-  image = "img/author.jpg"
-  bio = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
-  links = [
-    { github = "https://github.com/AntoineSoetewey" },
-    { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
-    { twitter = "https://twitter.com/statsandr" },
-    { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" }
-  #   { email = "/contact/" },
-  #   { link = "https://link-to-some-website.com/" },
-  #   { codepen = "https://codepen.io/username" },
-  #   { dev = "https://dev.to/username" },
-  #   { discord = "https://discord.gg/invitecode" },
-  #   { dribbble = "https://dribbble.com/username" },
-  #   { facebook = "https://facebook.com/username" },
-  #   { foursquare = "https://foursquare.com/username" },
-  #   { gitlab = "https://gitlab.com/username" },
-  #   { instagram = "https://instagram.com/username" },
-  #   { keybase = "https://keybase.io/username" },
-  #   { lastfm = "https://lastfm.com/user/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
-  #   { medium = "https://medium.com/username" },
-  #   { pinterest = "https://pinterest.com/username" },
-  #   { reddit = "https://reddit.com/user/username" },
-  #   { slack = "https://workspace.url/team/userid" },
-  #   { snapchat = "https://snapchat.com/add/username" },
-  #   { soundcloud = "https://soundcloud.com/username" },
-  #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
-  #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { tiktok = "https://tiktok.com/@username" },
-  #   { twitch = "https://twitch.tv/username" },
-  #   { youtube = "https://youtube.com/username" },
-  ]
+googleAnalytics = "UA-86997981-1"
