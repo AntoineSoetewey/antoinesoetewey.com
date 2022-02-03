@@ -13,6 +13,8 @@ In parallel with my [research](/research/), I am [teaching](/teaching/) assistan
 
 When I find the time, I [code](/software/) in R on my [blog](https://statsandr.com/).
 
+<br>
+
 {{< button href="/about/" target="_self" >}}
 Learn more
 {{< /button >}}

@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 baseURL = "https://antoinesoetewey.com/"
-languageCode = "en"
+# languageCode = "en"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
