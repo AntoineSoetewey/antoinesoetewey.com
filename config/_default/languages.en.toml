@@ -10,8 +10,6 @@ description = "Personal website of Antoine Soetewey. PhD candidate and teaching 
 
 dateFormat = "2 January 2006"
 
-googleAnalytics = "UA-86997981-1"
-
 [author]
   name = "Antoine Soetewey"
   image = "img/author.jpg"
