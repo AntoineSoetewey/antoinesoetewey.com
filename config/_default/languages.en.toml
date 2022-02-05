@@ -7,7 +7,7 @@ rtl = false
 
 title = "Antoine Soetewey"
 description = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
-
+# copyright = "Antoine Soetewey"
 dateFormat = "2 January 2006"
 
 [author]
