@@ -8,7 +8,7 @@
 colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 enableSearch = false
 showScrollToTop = true
 
