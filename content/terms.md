@@ -38,7 +38,7 @@ All of this information is not linked to anything that is personally identifiabl
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. [antoinesoetewey.com](/) has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
-If you wish to <a href="https://cookies.insites.com/disable-cookies/" target="_blank" rel="noopener">disable cookies</a>, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+If you wish to <a href="https://www.cookiesandyou.com/disable-cookies/" target="_blank" rel="noopener">disable cookies</a>, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
 
 <!---#### Amazon
 

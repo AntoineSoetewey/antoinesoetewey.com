@@ -22,7 +22,7 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. <i>et al</i>. Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>Eur. Actuar. J.</i> (2020). DOI: <a href="https://link.springer.com/article/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">10.1007/s13385-020-00254-x</a></li>
 </ul>
 
-For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine_Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
+For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
 
 ## Talks & posters
 
