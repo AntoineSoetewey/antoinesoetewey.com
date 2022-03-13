@@ -28,9 +28,6 @@
           {{ .Site.Author.name | markdownify | emojify }}
         {{- end }}
       </p>
-      {{/* Theme attribution */}}
-      {{ if .Site.Params.attribution | default true }}
-      {{ end }}
     </div>
     {{/* Appearance switch */}}
     {{ if .Site.Params.showAppearanceSwitcher | default false }}
