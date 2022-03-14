@@ -1,11 +1,6 @@
 ---
 description: Book an appointment with Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: rdv
+layout: "simple"
 title: Rendez-vous
 ---
 

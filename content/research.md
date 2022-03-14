@@ -1,11 +1,6 @@
 ---
 description: Research, publications and talks of Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: research
+layout: "simple"
 title: Research
 ---
 

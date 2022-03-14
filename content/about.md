@@ -1,11 +1,6 @@
 ---
 description: Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: about
+layout: "simple"
 title: About
 ---
 

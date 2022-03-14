@@ -1,11 +1,6 @@
 ---
 description: Sitemap of the personal website of Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: sitemap
+layout: "simple"
 title: Sitemap
 ---
 

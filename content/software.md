@@ -1,11 +1,6 @@
 ---
 description: Code, software and open source projects created and maintained by Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: software
+layout: "simple"
 title: Software
 ---
 

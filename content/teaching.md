@@ -1,11 +1,6 @@
 ---
 description: See Antoine Soetewey's teaching tasks and positions
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: teaching
+layout: "simple"
 title: Teaching
 ---
 

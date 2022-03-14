@@ -1,11 +1,6 @@
 ---
 description: Contact Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: contact
+layout: "simple"
 title: Contact
 ---
 

@@ -1,11 +1,6 @@
 ---
 description: CV of Antoine Soetewey
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: cv
+layout: "simple"
 title: CV
 ---
 
