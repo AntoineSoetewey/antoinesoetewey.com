@@ -1,11 +1,6 @@
 ---
 description: Terms and policies for Antoine Soetewey's personal website
-draft: false
-showAuthor: false
-showDate: false
-showEdit: false
-showReadingTime: false
-slug: terms
+layout: "simple"
 title: Terms & policies
 ---
 
