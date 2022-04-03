@@ -6,7 +6,7 @@ title: Teaching
 
 ## Teaching assistant positions
 
-I am or have been the teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
+I am or have been teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
 
 <ul>
     <li>2021 - Present: <b>Biostatistics and information's critical analysis</b></li>
