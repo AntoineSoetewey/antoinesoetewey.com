@@ -23,6 +23,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Talks & posters
 
 <ul>
+    <li>Workshop on behalf of the 30th anniversary of the UCLouvain's Institute of Statistics: "Statistics and its role in societal challenges"</a> (2022). UCLouvain, Belgium [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
     <li>Hackathon of the 28th annual meeting of the Royal Statistical Society of Belgium</a> (2021). ULiège, Belgium [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
     <li>Young Researchers Day</a> (2021). UCLouvain, Belgium [<a href="/files/YRD_2021.pdf">slides</a>]</li>
     <li>15th Clinical epidemiology conference (EPICLIN) (2021). Marseille, France [<a href="/files/Poster_EPICLIN_2021.pdf">poster</a>, awarded best poster by the scientific committee]</li>
