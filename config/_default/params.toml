@@ -11,6 +11,7 @@ autoSwitchAppearance = true
 showAppearanceSwitcher = false
 enableSearch = false
 showScrollToTop = true
+attribution = false
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
