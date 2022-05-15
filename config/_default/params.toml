@@ -10,7 +10,7 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 showAppearanceSwitcher = false
 enableSearch = false
-showScrollToTop = true
+showScrollToTop = false
 attribution = false
 
 [homepage]
