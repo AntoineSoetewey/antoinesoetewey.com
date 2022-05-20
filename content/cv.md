@@ -34,8 +34,8 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
   + Statistical and data analysis consulting for professionals, academics and students
   - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
 - (2018 -- Present) **Private tutor in statistics and consultant in data science**
-  + Private tutor for students and academics. See more information at [easystat.be](ttps://easystat.be/)
-  + Data science consultant for professionals and companies. See more information at [datanalyze.be](https://datanalyze.be/)
+  + Private tutor for students and academics. See [easystat.be](ttps://easystat.be/)
+  + Data science consultant for professionals and companies. See [datanalyze.be](https://datanalyze.be/)
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization
 
