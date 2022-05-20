@@ -9,7 +9,6 @@ Download CV
 {{< /button >}}
 
 <br>
-<br>
 
 ## Summary
 
