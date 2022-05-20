@@ -26,8 +26,8 @@
   weight = 30
 
 [[main]]
-  name = "code"
-  url = "/software/"
+  name = "cv"
+  url = "/cv/"
   weight = 40
   
 [[main]]
