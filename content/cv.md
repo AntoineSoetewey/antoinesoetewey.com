@@ -23,7 +23,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
   + Thesis: *Combining professional and survey forecasts for macroeconomic data* (supervisor: Prof. Nalan Basturk)
 - (2013 -- 2015) **MSc in economics** -- KULeuven, Belgium
   + Thesis: *Negativity bias and framing effect in charity donations: a field experiment* (supervisor: Prof. Jo Swinnen)
-- (Aug -- Sep 2014) **Faculty exchange** -- University of Illinois at Urbana-Champaign, USA
+- (Aug -- Dec 2014) **Faculty exchange** -- University of Illinois at Urbana-Champaign, USA
 - (2010 -- 2013) **BSc in economics & management sciences** -- UCLouvain, Belgium
 
 ## Teaching and consulting experience
