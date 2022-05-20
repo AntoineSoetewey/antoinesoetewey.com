@@ -20,15 +20,22 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 - (2017 -- Present) **PhD in statistics** -- UCLouvain, Belgium
   + Thesis: *Life and health actuarial pricing: a biostatistics approach* (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
   + All publications, posters and talks available at [antoinesoetewey.com/research](https://antoinesoetewey.com/research/)
-
 - (2015 -- 2016) **MSc in econometrics & operations research** -- Maastricht University, Netherlands 
   + Thesis: *Combining professional and survey forecasts for macroeconomic data* (supervisor: Prof. Nalan Basturk)
-
 - (2013 -- 2015) **MSc in economics** -- KULeuven, Belgium
   + Thesis: *Negativity bias and framing effect in charity donations: a field experiment* (supervisor: Prof. Jo Swinnen)
-
 - (Aug -- Sep 2014) **Faculty exchange** -- University of Illinois at Urbana-Champaign, USA
-
 - (2010 -- 2013) **BSc in economics & management sciences** -- UCLouvain, Belgium
 
+## Teaching and consulting experience
+
+- (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
+  + See all courses at [antoinesoetewey.com/teaching](https://antoinesoetewey.com/teaching/)
+- (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS
+  + Statistical and data analysis consulting for professionals, academics and students
+  - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
+- (2018 -- Present) **Private tutor in statistics and consultant in data science** -- Self-employed
+  + Private tutor for students and academics. See more information at [easystat.be](ttps://easystat.be/)
+  + Data science consultant for professionals and companies. See more information at [datanalyze.be](https://datanalyze.be/)
+  
 
