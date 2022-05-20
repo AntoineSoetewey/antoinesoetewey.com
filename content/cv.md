@@ -26,7 +26,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 - (Aug -- Dec 2014) **Faculty exchange** -- University of Illinois at Urbana-Champaign, USA
 - (2010 -- 2013) **BSc in economics & management sciences** -- UCLouvain, Belgium
 
-## Teaching and consulting experience
+## Experience
 
 - (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
   + See all courses at [antoinesoetewey.com/teaching](https://antoinesoetewey.com/teaching/)
