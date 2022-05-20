@@ -6,7 +6,7 @@ title: About
 
 I am a PhD candidate in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My [research interests](/research/) focus on survival analysis and bio-statistical procedures applied to cancer patients.
 
-In parallel with my doctoral thesis, I am [teaching assistant](/teaching/) for several courses in statistics and probability at bachelor and master's level. I also provide trainings/workshops and consulting in data science, statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Statistical Methodology and Computing Service. See more in my [CV](/cv.pdf).
+In parallel with my doctoral thesis, I am [teaching assistant](/teaching/) for several courses in statistics and probability at bachelor and master's level. I also provide trainings/workshops and consulting in data science, statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Statistical Methodology and Computing Service. See more in my [CV](/cv/).
 
 Given my experience, I also support:
 
