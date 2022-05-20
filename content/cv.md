@@ -43,7 +43,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 
 ### Software
 
-- R (RStudio, R Markdown, Shiny), GitHub/GitLab, LaTeX
+- R (RStudio, R Markdown & Quarto, R Shiny), GitHub/GitLab, LaTeX
 - See all projects at [antoinesoetewey.com/software](https://antoinesoetewey.com/software/)
 
 ### Languages
