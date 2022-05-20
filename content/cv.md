@@ -18,7 +18,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 
 - (2017 -- Present) **PhD in statistics** -- UCLouvain, Belgium
   + Thesis: *Life and health actuarial pricing: a biostatistics approach* (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
-  + All publications, posters and talks available at [antoinesoetewey.com/research](https://antoinesoetewey.com/research/)
+  + See all [publications, posters and talks](https://antoinesoetewey.com/research/)
 - (2015 -- 2016) **MSc in econometrics & operations research** -- Maastricht University, Netherlands 
   + Thesis: *Combining professional and survey forecasts for macroeconomic data* (supervisor: Prof. Nalan Basturk)
 - (2013 -- 2015) **MSc in economics** -- KULeuven, Belgium
@@ -29,7 +29,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 ## Experience
 
 - (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
-  + See all courses at [antoinesoetewey.com/teaching](https://antoinesoetewey.com/teaching/)
+  + See all [courses](https://antoinesoetewey.com/teaching/)
 - (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS
   + Statistical and data analysis consulting for professionals, academics and students
   - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
@@ -44,7 +44,7 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 ### Software
 
 - R (RStudio, R Markdown & Quarto, R Shiny), GitHub/GitLab, LaTeX
-- See all projects at [antoinesoetewey.com/software](https://antoinesoetewey.com/software/)
+- See all [projects](https://antoinesoetewey.com/software/)
 
 ### Languages
 
