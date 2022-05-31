@@ -34,7 +34,7 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 
 - (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
   + See all [courses](https://antoinesoetewey.com/teaching/)
-- (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS
+- (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS, Belgium
   + Statistical and data analysis consulting for professionals, academics and students
   - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
 - (2018 -- Present) **Private tutor in statistics and consultant in data science**
