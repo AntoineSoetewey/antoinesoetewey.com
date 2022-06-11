@@ -12,7 +12,11 @@ Download CV
 
 ## Summary
 
-I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level and I provide trainings and workshops in data science, statistics and R programming for UCLouvain’s technology platform for Statistical Methodology and Computing Service. In my spare time, I write about statistics and code in R via my blog [statsandr.com](https://statsandr.com/).
+I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on bio-statistical procedures applied to cancer patients.
+
+In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and master’s level and I provide trainings and workshops in data science, statistics and R programming for UCLouvain’s technology platform for Statistical Methodology and Computing Service.
+
+In my spare time, I write about statistics and code in R via my blog [statsandr.com](https://statsandr.com/).
 
 ## Education
 
@@ -38,6 +42,12 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
     + "Introduction to data analysis with R"
     + "Junior data analyst"
     + "Practice of statistics with R"
+- (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS, Belgium
+  + Statistical and data analysis consulting for professionals, academics and students
+  - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
+- (2018 -- Present) **Private tutor in statistics and consultant in data science**
+  + Private tutor for students and academics. See [easystat.be](ttps://easystat.be/)
+  + Data science consultant for professionals and companies. See [datanalyze.be](https://datanalyze.be/)
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization
 
