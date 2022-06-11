@@ -30,12 +30,14 @@ I am a PhD candidate in statistics at UCLouvain in Belgium, within the Institute
 
 - (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
   + See all [courses](https://antoinesoetewey.com/teaching/)
-- (2018 -- Present) **Consultant and instructor in statistics & R programming** -- SMCS
-  + Statistical and data analysis consulting for professionals, academics and students
-  - Instructor for UCLouvain's university certificates "Introduction to data analysis with R", "Junior data analyst" and "Practice of statistics with R"
-- (2018 -- Present) **Private tutor in statistics and consultant in data science**
-  + Private tutor for students and academics. See [easystat.be](ttps://easystat.be/)
-  + Data science consultant for professionals and companies. See [datanalyze.be](https://datanalyze.be/)
+- (2018 -- Present) **Consultant and instructor in statistics, R programming and data science**
+  + Statistical and data analysis consulting for:
+    + academics and students (see [easystat.be](ttps://easystat.be/))
+    + professionals and companies (see [datanalyze.be](https://datanalyze.be/))
+  + Instructor for UCLouvain's university certificates ([SMCS](http://www.uclouvain.be/smcs)):
+    + "Introduction to data analysis with R"
+    + "Junior data analyst"
+    + "Practice of statistics with R"
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization
 
