@@ -36,7 +36,7 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
   + See all [courses](https://antoinesoetewey.com/teaching/)
 - (2018 -- Present) **Consultant and instructor in statistics, R programming and data science**
   + Statistical and data analysis consulting for:
-    + academics and students (see [easystat.be](ttps://easystat.be/))
+    + academics and students (see [easystat.be](https://easystat.be/))
     + professionals and companies (see [datanalyze.be](https://datanalyze.be/))
   + Instructor for UCLouvain's university certificates ([SMCS](http://www.uclouvain.be/smcs)):
     + "Introduction to data analysis with R"
