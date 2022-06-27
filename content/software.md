@@ -42,12 +42,12 @@ If you want to help me to continue developing open source projects, see how you 
 ## Web development
 
 <ul>
-  <li>This <a href="/">personal website</a> using the {blogdown} R package, Hugo and GitHub</li>
-  <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R, using the {blogdown} R package, Hugo and GitHub</li>
-  <li><a href="https://datanalyze.be/">datanalyze.be</a> for companies or professionals who need help to analyze their data, using R and Hugo</li>
-  <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks, also using R and Hugo</li>
-  <li>A <a href="https://lespo2102.netlify.app/">website</a> dedicated to one of the course for which I am teaching assistant, using the {distill} R package</li>
-  <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor using Wordpress</li>
+  <li>This <a href="/">personal website</a></li>
+  <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R</li>
+  <li><a href="https://datanalyze.be/">datanalyze.be</a> for companies or professionals who need help to analyze their data</li>
+  <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks</li>
+  <li>A <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">website</a> dedicated to one of the course for which I am teaching assistant</li>
+  <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
 </ul>
 
 Feel free to [contact me](/contact/) if you need help in building your own website.
