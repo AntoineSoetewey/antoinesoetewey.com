@@ -47,7 +47,7 @@ If you want to help me to continue developing open source projects, see how you 
   <li><a href="https://datanalyze.be/">datanalyze.be</a> for companies or professionals who need help to analyze their data</li>
   <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks</li>
   <li>A <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">website</a> dedicated to one of the course for which I am teaching assistant</li>
-  <li><a href="https://www.docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
+  <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
 </ul>
 
 Feel free to [contact me](/contact/) if you need help in building your own website.
