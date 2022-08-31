@@ -11,7 +11,7 @@ I am or have been teaching assistant for the following courses at [UCLouvain](ht
 <ul>
     <li>2022 - Present: <b>Statistics and data sciences with R: Advanced programming</b> (LDATS2030)</li>
     <li>2022 - Present: <b>Economics and management statistics</b> (LECGE1224)</li>
-    <li>2022 - Present: <b>Advanced survival models</b> (LSTAT2230)</li>
+    <li>2022 - Present: <b>Analysis of survival and duration data</b> (LSTAT2220)</li>
     <li>2021 - Present: <b>Biostatistics and information's critical analysis</b> (LVETE1262)</li>
     <li>2019 - Present: <b>Discrete data analysis</b> (LSTAT2100)</li>
     <li>2017 - Present: <b>Statistical processing of data</b> (WFARM1247)</li>
