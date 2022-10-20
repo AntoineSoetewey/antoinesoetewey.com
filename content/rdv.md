@@ -1,9 +1,13 @@
 ---
 description: Book an appointment with Antoine Soetewey
 layout: "simple"
-title: Rendez-vous
+title: Appointment
 ---
 
-Si vous désirez prendre rendez-vous, veuillez <a href="https://calendly.com/antoinesoetewey" target="_blank" rel="noopener">cliquer ici</a>.
+If you would like to make an appointment:
 
-*If you would like to make an appointment, please <a href="https://calendly.com/antoinesoetewey" target="_blank" rel="noopener">click here</a>.*
+<center>
+{{< button href="https://calendly.com/antoinesoetewey" target="_blank" >}}
+Click here to make an appointment
+{{< /button >}}
+</center>
