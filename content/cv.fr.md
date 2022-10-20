@@ -21,12 +21,12 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 ## Education
 
 - (2017 -- Présent) **Doctorat en statistique** -- UCLouvain, Belgique
-  + Thèse: *Life and health actuarial pricing: a biostatistics approach* (superviseurs: Prof. Catherine Legrand et Prof. Michel Denuit)
+  + Thèse: *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
   + Voir toutes les [publications, posters et conférences](/fr/research/)
 - (2015 -- 2016) **Master en économétrie & recherche opérationnelle** -- Maastricht University, Pays-Bas 
-  + Mémoire: *Combining professional and survey forecasts for macroeconomic data* (superviseur: Prof. Nalan Basturk)
+  + Mémoire: *Combining professional and survey forecasts for macroeconomic data* (superviseuse : Prof. Nalan Basturk)
 - (2013 -- 2015) **Master en économie** -- KULeuven, Belgique
-  + Mémoire: *Negativity bias and framing effect in charity donations: a field experiment* (superviseur: Prof. Jo Swinnen)
+  + Mémoire: *Negativity bias and framing effect in charity donations: a field experiment* (superviseur : Prof. Jo Swinnen)
   + Echange universitaire d'un semestre, University of Illinois at Urbana-Champaign (USA)
 - (2010 -- 2013) **Bachelier en économie & science de gestion** -- UCLouvain, Belgique
 
