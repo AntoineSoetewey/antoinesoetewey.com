@@ -34,7 +34,7 @@ I am also instructor for the following university certificates, as part of UCLou
 
 ## Tutoring & consulting
 
-Given my experience as teaching assistant at university level, I provide private lessons in statistics, probability, R and data science. I can also help you in performing statistical data analyses for your thesis or work related projects:
+Given my experience as teaching assistant at university level, I provide private lessons in statistics, probability, R and data science. I can also help you in performing statistical data analyses for your thesis or your professional projects:
 
 - **Students and researchers**, see more information at [easystat.be](https://easystat.be/)
 - **Professionals and companies**, see more information at [datanalyze.be](https://datanalyze.be/)
