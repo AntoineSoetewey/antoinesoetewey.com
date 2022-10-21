@@ -1,57 +1,57 @@
 ---
-description: Code, software and open source projects created and maintained by Antoine Soetewey
+description: Code, logiciels et projets open source créés et maintenus par Antoine Soetewey
 layout: "simple"
-title: Software
+title: Logiciel
 ---
 
-Below you will find various projects sorted by programming language or skill.
+Vous trouverez ci-dessous divers projets classés par langage de programmation ou par compétence.
 
-If you want to help me to continue developing open source projects, see how you can [support my work](https://statsandr.com/support/).
+Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [soutenir mes projets](https://statsandr.com/support/).
 
 ## R
 
 ### Blog
 
-- [Stats and R](https://statsandr.com/): a blog about statistics and its applications in R, using the {blogdown} R package and Hugo
+- [Stats and R](https://statsandr.com/): un blog sur les statistiques et leurs applications en R, utilisant le package R {blogdown} et Hugo
 
-### Shiny apps and dashboards
-
-<ul>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a>: a guide on how to compute probabilities for the main probability distributions - how to read statistical tables (see accompanying <a href="https://statsandr.com/blog/a-guide-on-how-to-read-statistical-tables/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a>: an app to perform inferential statistics - confidence interval and hypothesis testing for mean(s), proportion(s) and variance(s) (see accompanying <a href="https://statsandr.com/blog/a-shiny-app-for-inferential-statistics-by-hand/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a>: an app for simple linear regression - parameters estimation and visualization (see accompanying <a href="https://statsandr.com/blog/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">A practical guide on asset allocation</a>, based on the book <i>A Random Walk Down Wall Street</i> by Burton G. Malkiel (see accompanying <a href="https://statsandr.com/blog/practical-guide-on-optimal-asset-allocation/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Mortgage calculator</a> to compute monthly payments and amortization table (see accompanying <a href="https://statsandr.com/blog/mortgage-calculator-r-shiny/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Running pace calculator</a> to find your necessary pace and the splits based on your running distance and time (see accompanying <a href="https://statsandr.com/blog/running-pace-calculator/">blog post</a>)</li>
-    <li><a href="/files/google-analytics-dashboard">Custom Google Analytics dashboard</a> provides an overview of the evolution of page views and the most popular posts for my blog statsandr.com (see accompanying <a href="https://statsandr.com/blog/track-blog-performance-in-r/">blog post</a>)</li>
-    <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard: the case of Belgium</a> provides an overview of the COVID-19 epidemic for Belgium (see accompanying <a href="https://statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Word cloud</a> as part of text mining analysis (see accompanying <a href="https://statsandr.com/blog/draw-a-word-cloud-with-a-shiny-app/">blog post</a>)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Correlogram</a>: example of a correlations matrix to highlight the most correlated variables of a dataset (see accompanying <a href="https://statsandr.com/blog/correlogram-in-r-how-to-highlight-the-most-correlated-variables-in-a-dataset/">blog post</a>)</li>
-</ul>
-
-### R package
-
-- [{yll}](/files/years-of-life-lost-yll.pdf): an R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> to compute the standard and the average years of life lost
-
-### Others
-
-- [Booklist](/files/booklist.html)
-- [World map of visited countries](/files/visited-places.html)
-- [CV timeline](/files/CV_timeline_antoinesoetewey.html)
-
-## Web development
+### Applications Shiny et dashboards
 
 <ul>
-  <li>This <a href="/">personal website</a></li>
-  <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R</li>
-  <li><a href="https://datanalyze.be/">datanalyze.be</a> for companies or professionals who need help to analyze their data</li>
-  <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks</li>
-  <li>A <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">website</a> dedicated to one of the course for which I am teaching assistant</li>
-  <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a> : un guide sur comment calculer les probabilités pour les principales distributions de probabilité - comment lire les tables statistiques ?</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a> : une application pour effectuer des statistiques inférentielles - intervalle de confiance et test d'hypothèse pour les moyennes, les proportions et les variances.</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a> : une application pour la régression linéaire simple - estimation et visualisation des paramètres</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">Un guide pratique de la répartition des actifs</a>, basé sur le livre <i>"A Random Walk Down Wall Street"</i> de Burton G. Malkiel</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Simulateur de prêt hypothécaire</a> pour calculer les paiements mensuels et le tableau d'amortissement</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Calculateur d'allure de course</a> pour trouver votre allure nécessaire et les fractionnements en fonction de votre distance et de votre temps de course</li>
+    <li><a href="/files/google-analytics-dashboard">Le tableau de bord personnalisé de Google Analytics</a> qui fournit un aperçu de l'évolution des pages vues et des articles les plus populaires pour mon blog [statsandr.com](https://statsandr.com/)</li>
+    <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard : le cas de la Belgique</a> qui fournit un aperçu de l'épidémie de COVID-19 pour la Belgique</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Nuage de mots</a> dans le cadre d'une analyse de text mining</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>.
 </ul>
 
-Feel free to [contact me](/contact/) if you need help in building your own website.
+### Package R
+
+- [{yll}](/files/years-of-life-lost-yll.pdf) : un package R accessible via <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> pour calculer le nombre d'années de vie perdues
+
+### Divers
+
+- [Liste de lecture](/files/booklist.html)
+- [Carte du monde des pays visités](/files/visited-places.html)
+- [CV en ligne du temps](/files/CV_timeline_antoinesoetewey.html)
+
+## Développement web
+
+<ul>
+  <li>Ce <a href="/fr/">site web personnel</a></li>
+  <li>Mon <a href="https://statsandr.com/">blog</a> sur les statistiques et leurs applications dans R</li>
+  <li><a href="https://datanalyze.be/fr/">datanalyze.be</a> pour les entreprises ou les professionnels qui ont besoin d'aide dans l'analyse de leurs données</li>
+  <li><a href="https://easystat.be/">easystat.be</a> pour fournir plus d'informations sur mes tâches d'enseignement</li>
+  <li>Un <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">site web</a> consacré à l'un des cours pour lequel je suis assistant</li>
+  <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Site web</a> d'un médecin généraliste</li>
+</ul>
+
+N'hésitez pas à me [contacter](/fr/contact/) si vous avez besoin d'aide pour créer et mettre en ligne votre propre site web.
 
 ## GitHub
 
-See more projects I am working on at <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub {{< icon "github" >}}</a>.
+Voir d'autres projets sur lesquels je travaille sur <a href="https://github.com/AntoineSoetewey" target="_blank" rel="noopener">GitHub {{< icon "github" >}}</a>.
