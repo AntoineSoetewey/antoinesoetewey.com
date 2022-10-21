@@ -23,7 +23,7 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
     <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">Un guide pratique de la répartition des actifs</a>, basé sur le livre <i>"A Random Walk Down Wall Street"</i> de Burton G. Malkiel</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Simulateur de prêt hypothécaire</a> pour calculer les paiements mensuels et le tableau d'amortissement</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Calculateur d'allure de course</a> pour trouver votre allure nécessaire et les fractionnements en fonction de votre distance et de votre temps de course</li>
-    <li><a href="/files/google-analytics-dashboard">Le tableau de bord personnalisé de Google Analytics</a> qui fournit un aperçu de l'évolution des pages vues et des articles les plus populaires pour mon blog [statsandr.com](https://statsandr.com/)</li>
+    <li><a href="/files/google-analytics-dashboard">Le tableau de bord personnalisé de Google Analytics</a> qui fournit un aperçu de l'évolution des pages vues et des articles les plus populaires pour mon blog <a href="https://statsandr.com/">statsandr.com</a></li>
     <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard : le cas de la Belgique</a> qui fournit un aperçu de l'épidémie de COVID-19 pour la Belgique</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Nuage de mots</a> dans le cadre d'une analyse de text mining</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>
