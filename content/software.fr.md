@@ -12,14 +12,14 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
 
 ### Blog
 
-- [Stats and R](https://statsandr.com/): un blog sur les statistiques et leurs applications en R, utilisant le package R {blogdown} et Hugo
+- [Stats and R](https://statsandr.com/) : un blog sur les statistiques et leurs applications en R, utilisant le package R {blogdown} et Hugo
 
 ### Applications Shiny et dashboards
 
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a> : un guide sur comment calculer les probabilités pour les principales distributions de probabilité - comment lire les tables statistiques ?</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a> : une application pour effectuer des statistiques inférentielles - intervalle de confiance et test d'hypothèse pour les moyennes, les proportions et les variances.</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a> : une application pour la régression linéaire simple - estimation et visualisation des paramètres</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a> : une application pour effectuer des statistiques inférentielles - intervalle de confiance et test d'hypothèse pour les moyennes, les proportions et les variances</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a> : une application pour l'estimation et la visualisation des paramètres dans le cadre de la régression linéaire simple</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">Un guide pratique de la répartition des actifs</a>, basé sur le livre <i>"A Random Walk Down Wall Street"</i> de Burton G. Malkiel</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Simulateur de prêt hypothécaire</a> pour calculer les paiements mensuels et le tableau d'amortissement</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Calculateur d'allure de course</a> pour trouver votre allure nécessaire et les fractionnements en fonction de votre distance et de votre temps de course</li>

@@ -19,7 +19,7 @@ If you want to help me to continue developing open source projects, see how you 
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a>: a guide on how to compute probabilities for the main probability distributions - how to read statistical tables?</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-201/">Statistics 201</a>: an app to perform inferential statistics - confidence interval and hypothesis testing for mean(s), proportion(s) and variance(s)</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a>: an app for simple linear regression - parameters estimation and visualization</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/statistics-202/">Statistics 202</a>: an app for parameters estimation and visualization in the context of simple linear regression</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">A practical guide on asset allocation</a>, based on the book <i>A Random Walk Down Wall Street</i> by Burton G. Malkiel</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Mortgage calculator</a> to compute monthly payments and amortization table</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Running pace calculator</a> to find your necessary pace and the splits based on your running distance and time</li>
