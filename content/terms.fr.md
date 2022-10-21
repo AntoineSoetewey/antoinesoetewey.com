@@ -1,70 +1,70 @@
 ---
-description: Terms and policies for Antoine Soetewey's personal website
+description: Conditions et politiques du site personnel d'Antoine Soetewey
 layout: "simple"
-title: Terms & policies
+title: Conditions et politiques
 ---
 
-This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
+Ceci est mon site web personnel écrit et édité par moi. Votre utilisation de ce site, sous toutes ses formes, constitue une acceptation de ces termes et politiques. Cette page est revue et révisée de temps en temps.
 
-All content provided is for informational purposes only. The articles and posts on this website are my own and do not necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
+Tout le contenu est fourni à des fins d'information uniquement. Les articles et les messages publiés sur ce site sont les miens et ne représentent pas nécessairement les positions, les stratégies ou les opinions de mon employeur ou de ses filiales. Je ne fais aucune déclaration quant à l'exactitude ou à l'exhaustivité des informations trouvées ici ou en suivant des liens. Je ne serai pas responsable des erreurs ou omissions dans ces informations ni de la disponibilité de ces informations. Je ne serai pas responsable des pertes, blessures ou dommages résultant de l'affichage ou de l'utilisation de ces informations.
 
-## Privacy policy
+## Politique de confidentialité
 
-At [antoinesoetewey.com](/), the privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Sur [antoinesoetewey.com](/fr/), la confidentialité de mes visiteurs est extrêmement importante. La présente politique de confidentialité décrit les types d'informations personnelles qui sont reçues et collectées et la manière dont elles sont utilisées.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Avant tout, je ne communiquerai jamais votre adresse électronique ou toute autre information personnelle à quiconque sans votre consentement direct.
 
-### Log files
+### Fichiers log
 
-Like many other websites, [antoinesoetewey.com](/) uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Comme beaucoup d'autres sites web, [antoinesoetewey.com](/fr/) utilise des fichiers log pour nous aider à savoir quand, d'où et à quelle fréquence le trafic arrive sur ce site. Les informations contenues dans ces fichiers log comprennent :
 
-- Internet Protocol addresses (IP)
-- Types of browser
-- Internet Service Provider (ISP)
-- Date and time stamp
-- Referring and exit pages
-- Number of clicks
+- Les adresses de protocole Internet (IP)
+- Types de navigateur
+- Fournisseur d'accès Internet (FAI)
+- Horodatage (date et heure)
+- Pages de référence et de sortie
+- Nombre de clicks
 
-All of this information is not linked to anything that is personally identifiable.
+Toutes ces informations ne sont pas liées à des éléments permettant de vous identifier personnellement.
 
-### Cookies and web beacons
+### Cookies et balises web
 
-[antoinesoetewey.com](/) uses a cookie to trigger the loading of cached CSS on future page loads.
+[antoinesoetewey.com](/fr/) utilise un cookie pour déclencher le chargement du CSS en cache lors des prochains chargements de pages.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. [antoinesoetewey.com](/) has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Des annonceurs tiers peuvent également placer et lire des cookies sur votre navigateur et/ou utiliser des balises web pour collecter des informations. [antoinesoetewey.com](/fr/) n'a aucun accès ni aucun contrôle sur ces cookies. Vous devez consulter les politiques de confidentialité respectives de tous les serveurs publicitaires tiers pour plus d'informations sur leurs pratiques et sur la manière de les désactiver.
 
-If you wish to <a href="https://www.cookiesandyou.com/disable-cookies/" target="_blank" rel="noopener">disable cookies</a>, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+Si vous souhaitez <a href="https://www.cookiesandyou.com/disable-cookies/" target="_blank" rel="noopener">désactiver les cookies</a>, vous pouvez le faire via les options de votre navigateur web. Les instructions pour le faire peuvent être trouvées sur les sites web des navigateurs web spécifiques.
 
 <!---#### Amazon
 
-Amazon, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. Read <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" target="_blank" rel="noopener">Amazon's Privacy Notice</a>.
+Amazon, un réseau de marketing d'affiliation tiers, utilise des cookies pour s'assurer que je reçois une commission lorsque vous achetez un produit après avoir cliqué sur un lien ou une bannière publicitaire qui vous dirige vers le site de l'un de leurs marchands. Lisez l'<a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" target="_blank" rel="noopener">avis de confidentialité d'Amazon</a>.
 -->
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Read <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Google's Privacy Policy</a>.
+Google Analytics est un outil d'analyse web que j'utilise pour aider à comprendre comment les visiteurs interagissent avec ce site Web. Il signale les tendances du site web à l'aide de cookies et de balises web sans identifier les visiteurs individuels. Lisez la <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">politique de confidentialité de Google</a>.
 
 <!---
-## Disclosure policy
+## Politique de divulgation
 
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I will get a percentage of that sale.
+Je gagne de l'argent sur ce site grâce à des programmes d'affiliation. Si vous cliquez sur un lien d'affiliation ou une bannière publicitaire et achetez le produit, vous aidez à soutenir ce site web car je recevrai un pourcentage de cette vente.
 
-What this means for you:
+Qu'est-ce que cela signifie pour vous :
 
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
+* Je suis devenu affilié pour compenser les coûts de fonctionnement et de maintenance de ce site web. Lorsque j'ai un contrôle direct sur les publicités diffusées sur ce site web, je propose uniquement des produits directement liés au sujet de ce site web et des produits pour lesquels un lecteur/abonné aurait un véritable intérêt ou dont il aurait besoin.
+* Je ne recommande pas et ne recommanderai pas un produit juste pour gagner de l'argent.
+* Je ne laisse pas la rémunération que je reçois influencer le contenu, les sujets, les publications ou les opinions exprimées sur ce site web.
+* Je respecte et apprécie trop mes lecteurs pour écrire autre chose que mes propres opinions et conseils authentiques et objectifs.
 
-Just like this website, my disclosure policy is a work in progress. As the revenue streams evolve, so will this page.
+Tout comme ce site web, ma politique de divulgation est un travail en cours. Au fur et à mesure que les flux de revenus évoluent, cette page évoluera également.
 -->
 
-## License
+## Licence
 
-All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](/) is released under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
+Tout le contenu original (par exemple, articles, articles de blog, codes, fichiers, illustrations, photographies, etc.) disponible sur [antoinesoetewey.com](/fr/) est publié sous une <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> sauf indication contraire. Fondamentalement, cela signifie que vous êtes libre de partager, transmettre, distribuer, modifier, transformer et développer mon travail aussi longtemps que vous donnez le crédit approprié et que vous ne l'utilisez pas à des fins commerciales sans mon consentement écrit préalable.
 
 ### Attribution
 
-If you're inclined to give credit --- a link back to the source attributed to either [Antoine Soetewey](/) or [antoinesoetewey.com](/) is good enough for me.
+Si vous êtes enclin à donner du crédit --- un lien vers la source attribuée à [Antoine Soetewey](/fr/) ou [antoinesoetewey.com](/fr/) me suffit.
 
-*Talking about credits, thanks <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> for the template of this page, and <a href="https://jamespanther.com/" target="_blank" rel="noopener">James Panther</a> for the theme of this website.*
+*En parlant de crédits, merci <a href="https://mademistakes.com" target="_blank" rel="noopener">Michael Rose</a> pour le modèle de cette page, et <a href="https://jamespanther.com/" target="_blank" rel="noopener">James Panther</a> pour le thème de ce site web.*
