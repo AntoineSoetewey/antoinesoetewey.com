@@ -10,7 +10,7 @@ I am or have been teaching assistant for the following courses at [UCLouvain](ht
 
 <ul>
     <li>2022 - Present: <b>Statistics and data sciences with R: Advanced programming</b> (LDATS2030)</li>
-    <li>2022 - Present: <b>Economics and management statistics</b> (LECGE1224)</li>
+    <li>2022 - Present: <b>Economics and management statistics II</b> (LECGE1224)</li>
     <li>2022 - Present: <b>Analysis of survival and duration data</b> (LSTAT2220)</li>
     <li>2021 - Present: <b>Biostatistics and information's critical analysis</b> (LVETE1262)</li>
     <li>2019 - Present: <b>Discrete data analysis</b> (LSTAT2100)</li>
@@ -34,7 +34,7 @@ I am also instructor for the following university certificates, as part of UCLou
 
 ## Tutoring & consulting
 
-Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or work related projects:
+Given my experience as teaching assistant at university level, I provide private lessons in statistics, probability, R and data science. I can also help you in performing statistical data analyses for your thesis or work related projects:
 
-- **Students** and academics, see more information at [easystat.be](https://easystat.be/)
-- **Professionals** or companies, see more information at [datanalyze.be](https://datanalyze.be/)
+- **Students and researchers**, see more information at [easystat.be](https://easystat.be/)
+- **Professionals and companies**, see more information at [datanalyze.be](https://datanalyze.be/)

@@ -1,40 +1,40 @@
 ---
-description: See Antoine Soetewey's teaching tasks and positions
+description: Voir les tâches et postes d'enseignement d'Antoine Soetewey
 layout: "simple"
-title: Teaching
+title: Enseignement
 ---
 
-## Teaching assistant positions
+## Postes d'assistant
 
-I am or have been teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
+Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
 
 <ul>
-    <li>2022 - Present: <b>Statistics and data sciences with R: Advanced programming</b> (LDATS2030)</li>
-    <li>2022 - Present: <b>Economics and management statistics</b> (LECGE1224)</li>
-    <li>2022 - Present: <b>Analysis of survival and duration data</b> (LSTAT2220)</li>
-    <li>2021 - Present: <b>Biostatistics and information's critical analysis</b> (LVETE1262)</li>
-    <li>2019 - Present: <b>Discrete data analysis</b> (LSTAT2100)</li>
-    <li>2017 - Present: <b>Statistical processing of data</b> (WFARM1247)</li>
-    <li>2017 - Present: <b>Statistics</b> (LESPO2102)</li>
-    <li>2021 - 2022: <b>Econometrics</b> (LINGE1221)</li>
-    <li>2020 - 2021: <b>Statistics and data sciences</b> (LEPL1109)</li>
-    <li>2017 - 2021: <b>Multivariate statistical analysis</b> (LINGE1222)</li>
-    <li>2017 - 2020: <b>Probability and statistics</b> (LFSAB1105)</li>
-    <li>2018 - 2019: <b>Data analysis</b> (LSTAT2110)</li>
-    <li>2017 - 2018: <b>Further statistics</b> (LINGE1214)</li>
+    <li>2022 - Présent: <b>Statistique et data sciences avec R: Programmation avancée</b> (LDATS2030)</li>
+    <li>2022 - Présent: <b>Statistique en économie et gestion II</b> (LECGE1224)</li>
+    <li>2022 - Présent: <b>Analyse des données de survie et de durée</b> (LSTAT2220)</li>
+    <li>2021 - Présent: <b>Biostatistiques et analyse critique de l'information</b> (LVETE1262)</li>
+    <li>2019 - Présent: <b>Modèles linéaires généralisés et données discrètes</b> (LSTAT2100)</li>
+    <li>2017 - Présent: <b>Traitement statistique des données</b> (WFARM1247)</li>
+    <li>2017 - Présent: <b>Statistiques</b> (LESPO2102)</li>
+    <li>2021 - 2022: <b>Econométrie</b> (LINGE1221)</li>
+    <li>2020 - 2021: <b>Statistiques et science des données</b> (LEPL1109)</li>
+    <li>2017 - 2021: <b>Analyse statistique multivariée</b> (LINGE1222)</li>
+    <li>2017 - 2020: <b>Probabilité et statistiques</b> (LFSAB1105)</li>
+    <li>2018 - 2019: <b>Analyse des données</b> (LSTAT2110)</li>
+    <li>2017 - 2018: <b>Statistique approfondie</b> (LINGE1214)</li>
 </ul>
 
-## Workshops & trainings
+## Workshops & formations
 
-I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>):
+Je suis également formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>) :
 
-- Introduction to data analysis with R
+- Introduction à l'analyse de données avec R 
 - Junior data analyst
-- Practice of statistics with R
+- Pratique de la statistique avec R
 
-## Tutoring & consulting
+## Tutorat et conseil
 
-Given my experience as teaching assistant at university level, I also provide private lessons in statistics, R and econometrics and I can help you in performing statistical data analyses for your thesis or work related projects:
+Compte tenu de mon expérience en tant qu'assistant au niveau universitaire, je propose des cours particuliers en statistiques, probabilités, R et science des données. Je peux également vous aider à effectuer des analyses statistiques de données pour votre thèse ou des projets professionnels :
 
-- **Students** and academics, see more information at [easystat.be](https://easystat.be/)
-- **Professionals** or companies, see more information at [datanalyze.be](https://datanalyze.be/)
+- **Étudiants et chercheurs**, voir plus d'informations sur [easystat.be](https://easystat.be/)
+- **Professionnels et entreprises**, voir plus d'informations sur [datanalyze.be](https://datanalyze.be/fr/)
