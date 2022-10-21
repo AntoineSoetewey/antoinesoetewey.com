@@ -34,7 +34,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 - (2017 -- Présent) **Assistant en statistique** -- UCLouvain, Belgique
   + Voir tous les [cours](/fr/teaching/)
-- (2018 -- Présent) **Consultant et instructeur en statistique, R et science des données**
+- (2018 -- Présent) **Consultant et instructeur en statistiques, R et science des données**
   + Conseil en statistiques et en analyse de données pour :
     + Etudiants et chercheurs (see [easystat.be](https://easystat.be/))
     + Professionnels et entreprises (voir [datanalyze.be](https://datanalyze.be/fr/))

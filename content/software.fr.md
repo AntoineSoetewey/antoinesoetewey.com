@@ -6,7 +6,7 @@ title: Logiciel
 
 Vous trouverez ci-dessous divers projets classés par langage de programmation ou par compétence.
 
-Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [soutenir mes projets](https://statsandr.com/support/).
+Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [me soutenir](https://statsandr.com/support/).
 
 ## R
 
@@ -26,7 +26,7 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
     <li><a href="/files/google-analytics-dashboard">Le tableau de bord personnalisé de Google Analytics</a> qui fournit un aperçu de l'évolution des pages vues et des articles les plus populaires pour mon blog [statsandr.com](https://statsandr.com/)</li>
     <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard : le cas de la Belgique</a> qui fournit un aperçu de l'épidémie de COVID-19 pour la Belgique</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Nuage de mots</a> dans le cadre d'une analyse de text mining</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>.
+    <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>
 </ul>
 
 ### Package R

@@ -4,9 +4,9 @@ layout: "simple"
 title: Recherche
 ---
 
-Mes recherches portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer. Cela englobe l'analyse de survie afin d'estimer de manière adéquate le temps---à partir de la date du diagnostic---après lequel les patients atteints de cancer peuvent être considérés comme guéris et la quantification de la surmortalité potentielle.
+Mes recherches portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer. Cela englobe l'analyse de survie afin d'estimer de manière adéquate le temps---à partir de la date du diagnostic---après lequel les patients atteints de cancer peuvent être considérés comme guéris.
 
-Un autre objectif de ma thèse de doctorat est de trouver un moyen approprié d'adapter la tarification actuarielle des produits d'assurance-vie en fonction du type de cancer et de la durée de survie au moment de la demande.
+Un autre objectif de ma thèse de doctorat est de quantifier la surmortalité potentielle et trouver un moyen approprié d'adapter la tarification actuarielle des produits d'assurance-vie en fonction du type de cancer et de la durée de survie au moment de la demande.
 
 Ce doctorat est un travail conjoint avec le Prof. <a href="https://scholar.google.com/citations?user=xyQwjrUAAAAJ" target="_blank" rel="noopener">Catherine Legrand</a> et le Prof. <a href="https://scholar.google.com/citations?hl=en&user=P1d_AKAAAAAJ" target="_blank" rel="noopener">Michel Denuit</a>.
 <!--- J'aime aussi appliquer les statistiques et la technologie aux questions de santé et d'éducation ou pour le bien social, ce que l'on appelle communément "data for good".--->
@@ -53,6 +53,6 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 <ul>
 <li>"Life and health actuarial pricing: a biostatistics approach" <i>(in progress)</i>. Doctorat en statistique, UCLouvain [<a href="/files/Thesis_abstract_EN.pdf">PDF</a>]</li>
-<li>"Combining professional and survey forecasts for macroeconomic data" (2016). Master en économétrie, Maastricht University. ISBN: 978-3659660801 [<a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1483904672&amp;sr=1-1" target="_blank" rel="noopener">Amazon</a>, <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">PDF</a>]</li>
+<li>"Combining professional and survey forecasts for macroeconomic data" (2016). Master en économétrie, Maastricht University. ISBN : 978-3659660801 [<a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1483904672&amp;sr=1-1" target="_blank" rel="noopener">Amazon</a>, <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">PDF</a>]</li>
 <li>"Negativity bias and framing effect in charity donations: a field experiment" (2014). Master en économie, KULeuven [<a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">PDF</a>]</li>
 </ul>

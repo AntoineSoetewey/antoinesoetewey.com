@@ -6,7 +6,7 @@ title: Software
 
 Below you will find various projects sorted by programming language or skill.
 
-If you want to help me to continue developing open source projects, see how you can [support my work](https://statsandr.com/support/).
+If you want to help me to continue developing open source projects, see how you can [support me](https://statsandr.com/support/).
 
 ## R
 

@@ -4,9 +4,9 @@ layout: "simple"
 title: Research
 ---
 
-My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured and quantifying the potential excess mortality.
+My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured.
 
-Another goal of my PhD thesis is to find a proper way to adapt the actuarial pricing of life insurance products depending on the type of cancer and the duration of survival at the time of application.
+Another goal of my PhD thesis is to quantify the potential excess mortality and to find a proper way to adapt the actuarial pricing of life insurance products depending on the type of cancer and the duration of survival at the time of application.
 
 This PhD is a joint work with Prof. <a href="https://scholar.google.com/citations?user=xyQwjrUAAAAJ" target="_blank" rel="noopener">Catherine Legrand</a> and Prof. <a href="https://scholar.google.com/citations?hl=en&user=P1d_AKAAAAAJ" target="_blank" rel="noopener">Michel Denuit</a>.
 <!---I also like to apply statistics and technology to health and educational issues or for social good, commonly referred as data for good.--->
