@@ -9,7 +9,7 @@ Doctorant et assistant en statistique à l'UCLouvain
 
 Bonjour, je m'appelle Antoine Soetewey. Je suis doctorant en statistique à l'UCLouvain, passionné par les statistiques et ses multiples applications dans le monde réel.
 
-Aimant partager mes compétences avec les autres, je suis [assistant](/fr/teaching/) pour plusieurs cours de statistiques, probabilités et science des données. J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des universitaires. Tout cela se fait en parallèle avec mes [recherches](/fr/research/), qui constituent le coeur de ma thèse de doctorat.
+Aimant partager mes compétences avec les autres, je suis [assistant](/fr/teaching/) pour plusieurs cours de statistiques, probabilités et science des données. J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs. Tout cela se fait en parallèle avec mes [recherches](/fr/research/), qui constituent le coeur de ma thèse de doctorat.
 
 Lorsque je trouve le temps, je [code](/fr/software/) en R et je le partage sur mon [blog](https://statsandr.com/).
 

@@ -14,19 +14,19 @@ Télécharger mon CV
 
 Je suis doctorant en statistique à l'UCLouvain (Belgique), au sein de l'Institut de Statistique, Biostatistique et Sciences Actuarielles. Mes intérêts de recherche portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer.
 
-En parallèle de ma thèse de doctorat, je suis assistant pour plusieurs cours de statistiques et probabilités au niveau bachelier et master. Je donne également des formations en data science, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain.
+En parallèle de ma thèse de doctorat, je suis assistant pour plusieurs cours de statistiques et probabilités au niveau bachelier et master. Je donne également des formations en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain.
 
-Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je code en R via mon blog [statsandr.com] (https://statsandr.com/).
+Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je code en R via mon blog [statsandr.com](https://statsandr.com/).
 
 ## Education
 
 - (2017 -- Présent) **Doctorat en statistique** -- UCLouvain, Belgique
-  + Thèse: *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
+  + Thèse : *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
   + Voir toutes les [publications, posters et conférences](/fr/research/)
 - (2015 -- 2016) **Master en économétrie & recherche opérationnelle** -- Maastricht University, Pays-Bas 
-  + Mémoire: *Combining professional and survey forecasts for macroeconomic data* (superviseuse : Prof. Nalan Basturk)
+  + Mémoire : *Combining professional and survey forecasts for macroeconomic data* (superviseuse : Prof. Nalan Basturk)
 - (2013 -- 2015) **Master en économie** -- KULeuven, Belgique
-  + Mémoire: *Negativity bias and framing effect in charity donations: a field experiment* (superviseur : Prof. Jo Swinnen)
+  + Mémoire : *Negativity bias and framing effect in charity donations: a field experiment* (superviseur : Prof. Jo Swinnen)
   + Echange universitaire d'un semestre, University of Illinois at Urbana-Champaign (USA)
 - (2010 -- 2013) **Bachelier en économie & science de gestion** -- UCLouvain, Belgique
 
