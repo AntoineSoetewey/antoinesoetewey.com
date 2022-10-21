@@ -42,7 +42,7 @@ Amazon, a third party affiliate marketing network, uses cookies to help make sur
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Read <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Google's Privacy Policy</a>.
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Read <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">Google's Privacy Policy</a> for more information.
 
 <!---
 ## Disclosure policy
@@ -61,7 +61,7 @@ Just like this website, my disclosure policy is a work in progress. As the reven
 
 ## License
 
-All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](/) is released under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
+All original content (e.g. articles, blog posts, codes, files, illustrations, artwork, photographs, etc.) available on [antoinesoetewey.com](/) is released under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> license, unless otherwise noted. Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you give appropriate credit and do not use it for commercial purposes without my prior written consent.
 
 ### Attribution
 

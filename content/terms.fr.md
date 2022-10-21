@@ -42,7 +42,7 @@ Amazon, un réseau de marketing d'affiliation tiers, utilise des cookies pour s'
 
 #### Google Analytics
 
-Google Analytics est un outil d'analyse web que j'utilise pour aider à comprendre comment les visiteurs interagissent avec ce site Web. Il signale les tendances du site web à l'aide de cookies et de balises web sans identifier les visiteurs individuels. Lisez la <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">politique de confidentialité de Google</a>.
+Google Analytics est un outil d'analyse web que j'utilise pour aider à comprendre comment les visiteurs interagissent avec ce site web. Il signale les tendances du site web à l'aide de cookies et de balises web sans identifier les visiteurs individuels. Lisez la <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="noopener">politique de confidentialité de Google</a> pour plus d'informations.
 
 <!---
 ## Politique de divulgation
@@ -61,7 +61,7 @@ Tout comme ce site web, ma politique de divulgation est un travail en cours. Au 
 
 ## Licence
 
-Tout le contenu original (par exemple, articles, articles de blog, codes, fichiers, illustrations, photographies, etc.) disponible sur [antoinesoetewey.com](/fr/) est publié sous une <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> sauf indication contraire. Fondamentalement, cela signifie que vous êtes libre de partager, transmettre, distribuer, modifier, transformer et développer mon travail aussi longtemps que vous donnez le crédit approprié et que vous ne l'utilisez pas à des fins commerciales sans mon consentement écrit préalable.
+Tout le contenu original (par exemple, articles, articles de blog, codes, fichiers, illustrations, photographies, etc.) disponible sur [antoinesoetewey.com](/fr/) est publié sous une licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>, sauf indication contraire. Fondamentalement, cela signifie que vous êtes libre de partager, transmettre, distribuer, modifier, transformer et développer mon travail aussi longtemps que vous donnez le crédit approprié et que vous ne l'utilisez pas à des fins commerciales sans mon consentement écrit préalable.
 
 ### Attribution
 
