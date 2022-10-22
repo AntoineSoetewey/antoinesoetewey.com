@@ -24,7 +24,7 @@ Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https:/
     <li>2017 - 2018 : <b>Statistique approfondie</b> (LINGE1214)</li>
 </ul>
 
-## Workshops & formations
+## Formations
 
 Je suis également formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>) :
 
