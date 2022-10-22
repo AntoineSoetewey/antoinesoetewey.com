@@ -24,7 +24,7 @@ I am or have been teaching assistant for the following courses at [UCLouvain](ht
     <li>2017 - 2018: <b>Further statistics</b> (LINGE1214)</li>
 </ul>
 
-## Workshops & trainings
+## Trainings
 
 I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>):
 
