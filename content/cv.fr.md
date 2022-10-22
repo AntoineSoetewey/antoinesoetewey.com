@@ -50,10 +50,10 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 ### Logiciels
 
 - R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, GitHub/GitLab, LaTeX
-- Exemples de [projets](/fr/software/)
+- Voir des exemples de [projets](/fr/software/)
 
 ### Langues
 
 - Français (langue maternelle)
 - Anglais (courant)
-- Néerlandais (intermédiaire)
+- Néerlandais (basique)
