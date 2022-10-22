@@ -23,7 +23,7 @@ If you want to help me to continue developing open source projects, see how you 
     <li><a href="https://antoinesoetewey.shinyapps.io/optimal-asset-allocation/">A practical guide on asset allocation</a>, based on the book <i>A Random Walk Down Wall Street</i> by Burton G. Malkiel</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/mortgage-calculator/">Mortgage calculator</a> to compute monthly payments and amortization table</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/running-pace-calculator/">Running pace calculator</a> to find your necessary pace and the splits based on your running distance and time</li>
-    <li><a href="/files/google-analytics-dashboard">Custom Google Analytics dashboard</a> provides an overview of the evolution of page views and the most popular posts for my blog [statsandr.com](https://statsandr.com/)</li>
+    <li><a href="/files/google-analytics-dashboard">Custom Google Analytics dashboard</a> provides an overview of the evolution of page views and the most popular posts for my blog <a href="https://statsandr.com/">statsandr.com</a></li>
     <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard: the case of Belgium</a> provides an overview of the COVID-19 epidemic for Belgium</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Word cloud</a> as part of text mining analysis</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Correlogram</a>: example of a correlations matrix to highlight the most correlated variables of a dataset</li>
