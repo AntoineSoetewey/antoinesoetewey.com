@@ -18,7 +18,9 @@ Ce doctorat est un travail conjoint avec le Prof. <a href="https://scholar.googl
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://rdcu.be/cIQZl" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
+{{< alert "circle-info" >}}
 Pour une liste détaillée des publications, voir mon profil <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> ou <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a>.
+{{< /alert >}}
 
 ## Conférences & posters
 
