@@ -1,6 +1,6 @@
 ---
 description: Code, logiciels et projets open source créés et maintenus par Antoine Soetewey
-layout: "simple"
+showTableOfContents: true
 title: Logiciel
 ---
 

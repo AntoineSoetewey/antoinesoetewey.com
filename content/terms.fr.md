@@ -1,6 +1,6 @@
 ---
 description: Conditions et politiques du site personnel d'Antoine Soetewey
-layout: "simple"
+showTableOfContents: true
 title: Conditions et politiques
 ---
 

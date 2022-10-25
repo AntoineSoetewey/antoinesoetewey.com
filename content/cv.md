@@ -1,7 +1,7 @@
 ---
 description: CV of Antoine Soetewey
-layout: "simple"
 title: CV
+showTableOfContents: true
 ---
 
 {{< button href="/cv.pdf" target="_self" >}}

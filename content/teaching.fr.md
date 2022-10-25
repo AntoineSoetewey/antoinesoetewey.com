@@ -1,6 +1,6 @@
 ---
 description: Voir les tâches et postes d'enseignement d'Antoine Soetewey
-layout: "simple"
+showTableOfContents: true
 title: Enseignement
 ---
 
