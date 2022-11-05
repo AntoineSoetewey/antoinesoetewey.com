@@ -4,6 +4,8 @@ title: CV
 showTableOfContents: true
 ---
 
+<br>
+
 {{< button href="/cv.pdf" target="_self" >}}
 Download CV
 {{< /button >}}
