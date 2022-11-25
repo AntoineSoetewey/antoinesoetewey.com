@@ -14,8 +14,8 @@ Ce doctorat est un travail conjoint avec le Prof. <a href="https://scholar.googl
 ## Publications
 
 <ul>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal</i>. [<a href="https://rdcu.be/cKLGO" target="_blank" rel="noopener">link</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://rdcu.be/cIQZl" target="_blank" rel="noopener">link</a>]</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://rdcu.be/c0n9F" target="_blank" rel="noopener">link</a>]</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://rdcu.be/c0n9V" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
 {{< alert "circle-info" >}}
