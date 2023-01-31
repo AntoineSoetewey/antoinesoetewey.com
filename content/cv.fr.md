@@ -18,6 +18,8 @@ En parallèle de ma thèse de doctorat, je suis assistant pour plusieurs cours d
 
 Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je code en R via mon blog [statsandr.com](https://statsandr.com/).
 
+---
+
 ## Education
 
 - (2017 -- Présent) **Doctorat en statistique** -- UCLouvain, Belgique

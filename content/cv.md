@@ -18,6 +18,8 @@ In parallel with my doctoral thesis, I am teaching assistant for several courses
 
 In my spare time, I write about statistics and code in R via my blog [statsandr.com](https://statsandr.com/).
 
+---
+
 ## Education
 
 - (2017 -- Present) **PhD in statistics** -- UCLouvain, Belgium
