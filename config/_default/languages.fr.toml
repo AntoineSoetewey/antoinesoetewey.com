@@ -19,7 +19,7 @@ dateFormat = "2 January 2006"
     { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
     { twitter = "https://twitter.com/statsandr" },
     { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" },
-    { medium = "https://medium.com/@antoinesoetewey" },
+    { medium = "https://antoinesoetewey.medium.com/" },
     { mastodon = "https://fosstodon.org/@statsandr" }
   #   { email = "/contact/" },
   #   { link = "https://link-to-some-website.com/" },
