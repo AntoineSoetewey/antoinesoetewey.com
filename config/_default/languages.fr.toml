@@ -19,7 +19,8 @@ dateFormat = "2 January 2006"
     { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
     { twitter = "https://twitter.com/statsandr" },
     { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" },
-    { medium = "https://medium.com/@antoinesoetewey" }
+    { medium = "https://medium.com/@antoinesoetewey" },
+    { mastodon = "https://fosstodon.org/@statsandr" }
   #   { email = "/contact/" },
   #   { link = "https://link-to-some-website.com/" },
   #   { codepen = "https://codepen.io/username" },
@@ -32,7 +33,6 @@ dateFormat = "2 January 2006"
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
   #   { pinterest = "https://pinterest.com/username" },
   #   { reddit = "https://reddit.com/user/username" },
   #   { slack = "https://workspace.url/team/userid" },
