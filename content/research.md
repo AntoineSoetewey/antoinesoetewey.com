@@ -14,10 +14,10 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
 ## Publications
 
 <ul>
-    <li>Truong, H. C., et al. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://academic.oup.com/ofid/advance-article/doi/10.1093/ofid/ofad229/7147656" target="_blank" rel="noopener">link</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [<a href="https://dial.uclouvain.be/pr/boreal/object/boreal:274314" target="_blank" rel="noopener">link</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://rdcu.be/c0n9F" target="_blank" rel="noopener">link</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://rdcu.be/c0n9V" target="_blank" rel="noopener">link</a>]</li>
+    <li>Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., <b>Soetewey, A.</b>, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (En révision). Health indices for disease incidence and duration in the Semi-Markov setting. [<a href="http://hdl.handle.net/2078.1/274314" target="_blank" rel="noopener">link</a>]</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://doi.org/10.1007/s13385-022-00308-2" target="_blank" rel="noopener">doi.org/10.1007/s13385-022-00308-2</a>]</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://doi.org/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">doi.org/10.1007/s13385-020-00254-x</a>]</li>
 </ul>
 
 {{< alert "circle-info" >}}
