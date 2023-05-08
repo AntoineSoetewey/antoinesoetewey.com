@@ -14,6 +14,7 @@ Ce doctorat est un travail conjoint avec le Prof. <a href="https://scholar.googl
 ## Publications
 
 <ul>
+    <li>Truong, H. C., et al. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://academic.oup.com/ofid/advance-article/doi/10.1093/ofid/ofad229/7147656" target="_blank" rel="noopener">link</a>]</li>
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (En révision). Health indices for disease incidence and duration in the Semi-Markov setting. [<a href="https://dial.uclouvain.be/pr/boreal/object/boreal:274314" target="_blank" rel="noopener">link</a>]</li>
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://rdcu.be/c0n9F" target="_blank" rel="noopener">link</a>]</li>
     <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M., & Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>(1), 135-160. [<a href="https://rdcu.be/c0n9V" target="_blank" rel="noopener">link</a>]</li>
