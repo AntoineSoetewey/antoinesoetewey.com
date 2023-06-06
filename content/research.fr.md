@@ -34,7 +34,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Journée d'échange scientifique : "Cure models: estimating the recovery time to improve access to insurance" (2020). Institut National du Cancer (INCa), France [<a href="/files/Journee_modeles_de_guerison.pdf">slides</a>]</li>
     <li>Atelier : "How can we predict the evolution of Covid-19 in Belgium?" (2020). UCLouvain, Belgique [<a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf">slides</a>]</li>
     <li>26ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2018). Domaine des Hautes Fagnes, Belgique [<a href="/files/Poster_RSSB_2018.pdf">poster</a>]</li>
-    <li>Young Researchers Day</a> (2018). UCLouvain, Belgique [<a href="/files/YRD_2018_AntoineSoetewey.pdf">slides</a>]</li>
+    <li>Young Researchers Day (2018). UCLouvain, Belgique [<a href="/files/YRD_2018_AntoineSoetewey.pdf">slides</a>]</li>
     <li>Atelier : "Insurability of people who have had cancer" (2018). UCLouvain, Belgique [<a href="/files/Workshop_May_29__2018___Assurabilit__des_personnes_ayant_eu_un_cancer__.pdf">slides</a>]</li>
     <li>Séminaire conjoint de doctorat en statistique, mathématiques actuarielles et financières (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
