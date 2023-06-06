@@ -27,15 +27,15 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 ## Conférences & posters
 
 <ul>
-    <li>Atelier dans le cadre du 30ème anniversaire de l'Institut de Statistique de l'UCLouvain : "Statistics and its role in societal challenges"</a> (2022). UCLouvain, Belgique [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
-    <li>Hackathon de la 28ème réunion annuelle de la Société Royale Belge de Statistique (RSSB)</a> (2021). ULiège, Belgique [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
+    <li>Atelier dans le cadre du 30ème anniversaire de l'Institut de Statistique de l'UCLouvain : "Statistics and its role in societal challenges" (2022). UCLouvain, Belgique [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
+    <li>Hackathon de la 28ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2021). ULiège, Belgique [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
     <li>Young Researchers Day (2021). UCLouvain, Belgique [<a href="/files/YRD_2021.pdf">slides</a>]</li>
     <li>15ème conférence francophone d'éEPIdémiologie CLINique (EPICLIN) et des 28èmes Journées des Statisticiens des Centres de Lutte Contre le Cancer (2021). Marseille, France [<a href="/files/Poster_EPICLIN_2021.pdf">poster</a>, prix du meilleur poster décerné par le comité scientifique]</li>
     <li>Journée d'échange scientifique : "Cure models: estimating the recovery time to improve access to insurance" (2020). Institut National du Cancer (INCa), France [<a href="/files/Journee_modeles_de_guerison.pdf">slides</a>]</li>
-    <li>Atelier : "How can we predict the evolution of Covid-19 in Belgium?"</a> (2020). UCLouvain, Belgique [<a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf">slides</a>]</li>
-    <li>26ème réunion annuelle de la Société Royale Belge de Statistique (RSSB)</a> (2018). Domaine des Hautes Fagnes, Belgique [<a href="/files/Poster_RSSB_2018.pdf">poster</a>]</li>
+    <li>Atelier : "How can we predict the evolution of Covid-19 in Belgium?" (2020). UCLouvain, Belgique [<a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf">slides</a>]</li>
+    <li>26ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2018). Domaine des Hautes Fagnes, Belgique [<a href="/files/Poster_RSSB_2018.pdf">poster</a>]</li>
     <li>Young Researchers Day</a> (2018). UCLouvain, Belgique [<a href="/files/YRD_2018_AntoineSoetewey.pdf">slides</a>]</li>
-    <li>Atelier : "Insurability of people who have had cancer"</a> (2018). UCLouvain, Belgique [<a href="/files/Workshop_May_29__2018___Assurabilit__des_personnes_ayant_eu_un_cancer__.pdf">slides</a>]</li>
+    <li>Atelier : "Insurability of people who have had cancer" (2018). UCLouvain, Belgique [<a href="/files/Workshop_May_29__2018___Assurabilit__des_personnes_ayant_eu_un_cancer__.pdf">slides</a>]</li>
     <li>Séminaire conjoint de doctorat en statistique, mathématiques actuarielles et financières (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
 
