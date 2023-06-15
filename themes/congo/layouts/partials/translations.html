@@ -1,16 +1,13 @@
 {{ if .IsTranslated }}
-  {{ $currentLang := .Page.Lang }}
   <ul class="flex list-none flex-row">
     {{ range .AllTranslations }}
-      {{ if ne $currentLang .Lang }}
-        <li class="ml-2">
-          <a
-            href="{{ .RelPermalink }}"
-            class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
-            >{{ .Site.Params.displayName | emojify }}</a
-          >
-        </li>
-      {{ end }}
+      <li class="ml-2">
+        <a
+          href="{{ .RelPermalink }}"
+          class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+          >{{ site.Params.displayName | emojify }}</a
+        >
+      </li>
     {{ end }}
   </ul>
 {{ end }}
