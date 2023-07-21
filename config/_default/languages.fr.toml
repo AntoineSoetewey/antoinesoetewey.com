@@ -1,14 +1,18 @@
 languageCode = "fr"
 languageName = "French"
-displayName = ":fr:"
-isoCode = "fr"
 weight = 2
-rtl = false
 
 title = "Antoine Soetewey"
-description = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
 # copyright = "Antoine Soetewey"
-dateFormat = "2 January 2006"
+
+[params]
+  isoCode = "fr"
+  displayName = ":fr:"
+  rtl = false
+  
+  dateFormat = "2 January 2006"
+  
+  description = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
 
 [author]
   name = "Antoine Soetewey"
