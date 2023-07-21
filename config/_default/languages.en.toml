@@ -1,14 +1,18 @@
 languageCode = "en"
 languageName = "English"
-displayName = ":gb:"
-isoCode = "en"
 weight = 1
-rtl = false
 
 title = "Antoine Soetewey"
-description = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
 # copyright = "Antoine Soetewey"
-dateFormat = "2 January 2006"
+
+[params]
+  isoCode = "en"
+  displayName = ":gb:"
+  rtl = false
+  
+  dateFormat = "2 January 2006"
+  
+  description = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
 
 [author]
   name = "Antoine Soetewey"
