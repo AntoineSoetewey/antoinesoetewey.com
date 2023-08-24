@@ -9,18 +9,19 @@ title: Enseignement
 Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
 
 <ul>
+    <li>2023 - Présent : <b>Exploration de données et introduction à l'inférence statistique</b> (LMAFY1101)</li>
     <li>2022 - Présent : <b>Statistique et data sciences avec R: Programmation avancée</b> (LDATS2030)</li>
     <li>2022 - Présent : <b>Statistique en économie et gestion II</b> (LECGE1224)</li>
     <li>2022 - Présent : <b>Analyse des données de survie et de durée</b> (LSTAT2220)</li>
     <li>2021 - Présent : <b>Biostatistiques et analyse critique de l'information</b> (LVETE1262)</li>
-    <li>2019 - Présent : <b>Modèles linéaires généralisés et données discrètes</b> (LSTAT2100)</li>
     <li>2017 - Présent : <b>Traitement statistique des données</b> (WFARM1247)</li>
-    <li>2017 - Présent : <b>Statistiques</b> (LESPO2102)</li>
     <li>2021 - 2022 : <b>Econométrie</b> (LINGE1221)</li>
     <li>2020 - 2021 : <b>Statistiques et science des données</b> (LEPL1109)</li>
+    <li>2019 - 2023 : <b>Modèles linéaires généralisés et données discrètes</b> (LSTAT2100)</li>
+    <li>2018 - 2019 : <b>Analyse des données</b> (LSTAT2110)</li>
+    <li>2017 - 2023 : <b>Statistiques</b> (LESPO2102)</li>
     <li>2017 - 2021 : <b>Analyse statistique multivariée</b> (LINGE1222)</li>
     <li>2017 - 2020 : <b>Probabilité et statistiques</b> (LFSAB1105)</li>
-    <li>2018 - 2019 : <b>Analyse des données</b> (LSTAT2110)</li>
     <li>2017 - 2018 : <b>Statistique approfondie</b> (LINGE1214)</li>
 </ul>
 
