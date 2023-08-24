@@ -9,42 +9,22 @@ title = "Antoine Soetewey"
   isoCode = "fr"
   displayName = ":fr:"
   rtl = false
-  
+
   dateFormat = "2 January 2006"
-  
+
+  # mainSections = ["samples"]
   description = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
 
 [author]
   name = "Antoine Soetewey"
   image = "img/author.jpg"
+  headline = "Doctorant et assistant en statistique à l'UCLouvain"
   bio = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
-    { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
+    { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },
     { twitter = "https://twitter.com/statsandr" },
     { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" },
     { medium = "https://antoinesoetewey.medium.com/" },
     { mastodon = "https://fosstodon.org/@statsandr" }
-  #   { email = "/contact/" },
-  #   { link = "https://link-to-some-website.com/" },
-  #   { codepen = "https://codepen.io/username" },
-  #   { dev = "https://dev.to/username" },
-  #   { discord = "https://discord.gg/invitecode" },
-  #   { dribbble = "https://dribbble.com/username" },
-  #   { facebook = "https://facebook.com/username" },
-  #   { foursquare = "https://foursquare.com/username" },
-  #   { gitlab = "https://gitlab.com/username" },
-  #   { instagram = "https://instagram.com/username" },
-  #   { keybase = "https://keybase.io/username" },
-  #   { lastfm = "https://lastfm.com/user/username" },
-  #   { pinterest = "https://pinterest.com/username" },
-  #   { reddit = "https://reddit.com/user/username" },
-  #   { slack = "https://workspace.url/team/userid" },
-  #   { snapchat = "https://snapchat.com/add/username" },
-  #   { soundcloud = "https://soundcloud.com/username" },
-  #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
-  #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { tiktok = "https://tiktok.com/@username" },
-  #   { twitch = "https://twitch.tv/username" },
-  #   { youtube = "https://youtube.com/username" },
   ]

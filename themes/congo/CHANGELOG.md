@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Added
+
+- Plausible Analytics support ([#584](https://github.com/jpanther/congo/pull/584))
+- Spanish translation of example site samples ([#606](https://github.com/jpanther/congo/pull/606))
+- Japanese translation of docs and example site ([#618](https://github.com/jpanther/congo/pull/618))
+
+### Changed
+
+- Upgrade to Mermaid v10.3.1 ([#577](https://github.com/jpanther/congo/pull/577), [#582](https://github.com/jpanther/congo/pull/582), [#626](https://github.com/jpanther/congo/pull/626))
+- Upgrade to KaTeX v0.16.8 ([#590](https://github.com/jpanther/congo/pull/590))
+- Upgrade to Tailwind v3.3.3 ([#602](https://github.com/jpanther/congo/pull/602))
+- Upgrade to ChartJS v4.3.3 ([#616](https://github.com/jpanther/congo/pull/616), [#627](https://github.com/jpanther/congo/pull/627))
+
+### Fixed
+
+- URL to Congo project in footer used deprecated git.io short link ([#605](https://github.com/jpanther/congo/pull/605))
+- Various typos in the docs and example site ([#608](https://github.com/jpanther/congo/pull/608), [#609](https://github.com/jpanther/congo/pull/609), [#613](https://github.com/jpanther/congo/pull/613))
+
 ## [2.6.1] - 2023-06-04
 
 ### Changed
@@ -267,7 +285,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- Breadcrumb display can now be can now be specificed in front matter for articles and list pages
+- Breadcrumb display can now be can now be specified in front matter for articles and list pages
 - Italian translation ([#209](https://github.com/jpanther/congo/pull/209))
 
 ### Changed
@@ -567,7 +585,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Dark mode toggle with new theme parameters for managing light/dark appearance
 - French translation ([#18](https://github.com/jpanther/congo/pull/18))
 - Author bio in article footer
-- Grouping by year can now be specificed in front matter on list pages
+- Grouping by year can now be specified in front matter on list pages
 
 ### Changed
 

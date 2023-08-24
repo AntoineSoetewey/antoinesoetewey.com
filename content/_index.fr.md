@@ -3,9 +3,7 @@ description: Site personnel d'Antoine Soetewey. Doctorant et assistant en statis
 title: 'Antoine Soetewey'
 ---
 
-{{< lead >}}
-Doctorant et assistant en statistique à l'UCLouvain
-{{< /lead >}}
+<br>
 
 Bonjour, je m'appelle Antoine Soetewey. Je suis doctorant en statistique à l'UCLouvain, passionné par les statistiques et ses multiples applications dans le monde réel.
 

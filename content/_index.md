@@ -3,9 +3,7 @@ description: Personal website of Antoine Soetewey, PhD candidate and teaching as
 title: 'Antoine Soetewey'
 ---
 
-{{< lead >}}
-PhD candidate and teaching assistant in statistics at UCLouvain
-{{< /lead >}}
+<br>
 
 Hello, my name is Antoine Soetewey. I am a PhD candidate in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
 

@@ -9,42 +9,58 @@ title = "Antoine Soetewey"
   isoCode = "en"
   displayName = ":gb:"
   rtl = false
-  
+
   dateFormat = "2 January 2006"
-  
+
+  # mainSections = ["section1", "section2"]
   description = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
 
 [author]
   name = "Antoine Soetewey"
   image = "img/author.jpg"
+  headline = "PhD candidate and teaching assistant in statistics at UCLouvain"
   bio = "Personal website of Antoine Soetewey. PhD candidate and teaching assistant in statistics at UCLouvain"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
-    { linkedin2 = "https://www.linkedin.com/in/antoinesoetewey/" },
+    { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },
     { twitter = "https://twitter.com/statsandr" },
     { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" },
     { medium = "https://antoinesoetewey.medium.com/" },
     { mastodon = "https://fosstodon.org/@statsandr" }
-  #   { email = "/contact/" },
+  #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
   #   { dev = "https://dev.to/username" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
   #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
   #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/username" },
-  #   { stackoverflow = "https://stackoverflow.com/users/6digit/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
   #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   ]

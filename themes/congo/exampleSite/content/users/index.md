@@ -15,7 +15,7 @@ showEdit: false
 Real websites that have been built using Congo.
 {{< /lead >}}
 
-The list below is just a handful of the websites that are built using the Congo theme. Check them out to discover some great exampels of what the theme can do.
+The list below is just a handful of the websites that are built using the Congo theme. Check them out to discover some great examples of what the theme can do.
 
 | Website                                                                | Details                         |
 | ---------------------------------------------------------------------- | ------------------------------- |
@@ -65,5 +65,9 @@ The list below is just a handful of the websites that are built using the Congo 
 | [andrew-jones.com](https://andrew-jones.com/)                          | Personal site and tech blog     |
 | [nikita.computer](https://nikita.computer/)                            | Personal site and tech blog     |
 | [blog.dejavu.moe](https://blog.dejavu.moe/)                            | Personal blog and weekly issues |
+| [spiffyeight77.com](https://spiffyeight77.com/)                        | Personal blog                   |
+| [Tomy's Blog](https://blog.tomy.me)                                    | Personal site and Blog          |
+| [Beerjoa Blog](https://blog.beerjoa.dev)                               | Personal site and Blog          |
+| [simaosilva.com](https://simaosilva.com)                               | Personal Site                   |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).
