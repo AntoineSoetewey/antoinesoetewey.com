@@ -4,7 +4,7 @@ layout: "simple"
 title: About
 ---
 
-I am a PhD candidate in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My [research interests](/research/) focus on [survival analysis](https://statsandr.com/blog/what-is-survival-analysis/) and bio-statistical methods applied to cancer patients. 
+I am a PhD candidate in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My [research interests](/research/) focus on [survival analysis](https://statsandr.com/blog/what-is-survival-analysis/) and bio-statistical methods applied to cancer patients.
 
 In parallel with my doctoral thesis, I am [teaching assistant](/teaching/) for several courses in statistics and probability at bachelor and master's level. I also give trainings and consulting in data science, statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Statistical Methodology and Computing Service. See more in my [CV](/cv/).
 
