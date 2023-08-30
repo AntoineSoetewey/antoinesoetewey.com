@@ -5,6 +5,7 @@ title: 'Antoine Soetewey'
 
 <br>
 
+
 Hello, my name is Antoine Soetewey. I am a PhD candidate in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
 
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
