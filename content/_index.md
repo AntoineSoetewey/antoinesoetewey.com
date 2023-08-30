@@ -5,7 +5,6 @@ title: 'Antoine Soetewey'
 
 <br>
 
-
 Hello, my name is Antoine Soetewey. I am a PhD candidate in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
 
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
@@ -16,6 +15,4 @@ When I find the time, I [code](/software/) in R and share it on my [blog](https:
 
 <br>
 
-{{< button href="/about/" target="_self" >}}
-Learn more
-{{< /button >}}
+

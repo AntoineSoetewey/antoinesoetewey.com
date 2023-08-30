@@ -14,7 +14,3 @@ Comme j'aime partager mes compétences avec les autres, je suis [assistant](/fr/
 Lorsque je trouve le temps, je [code](/fr/software/) en R et je le partage sur mon [blog](https://statsandr.com/).
 
 <br>
-
-{{< button href="/fr/about/" target="_self" >}}
-En savoir plus
-{{< /button >}}
