@@ -13,7 +13,7 @@ As I enjoy sharing my skills with others, I am [teaching](/teaching/) assistant 
 
 When I find the time, I [code](/software/) in R and share it on my [blog](https://statsandr.com/).
 
-<br> 
+<br>
 
 {{< button href="/about/" target="_self" >}}
 Learn more
