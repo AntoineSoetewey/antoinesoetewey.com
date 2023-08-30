@@ -15,4 +15,6 @@ When I find the time, I [code](/software/) in R and share it on my [blog](https:
 
 <br>
 
-
+{{< button href="/about/" target="_self" >}}
+Learn more
+{{< /button >}}
