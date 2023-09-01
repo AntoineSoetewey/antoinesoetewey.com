@@ -13,3 +13,10 @@ googleAnalytics = "G-S64FSW4TK3"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
