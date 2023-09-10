@@ -6,7 +6,7 @@ title: Software
 
 Below you will find various projects sorted by programming language or skill.
 
-If you want to help me to continue developing open source projects, see how you can [support me](https://statsandr.com/support/).
+If you want to help me to continue developing open source projects, see how you can [support my work](https://statsandr.com/support/).
 
 ## R
 
@@ -46,11 +46,12 @@ If you want to help me to continue developing open source projects, see how you 
   <li>My <a href="https://statsandr.com/">blog</a> about statistics and its applications in R</li>
   <li><a href="https://datanalyze.be/">datanalyze.be</a> for companies or professionals who need help to analyze their data</li>
   <li><a href="https://easystat.be/">easystat.be</a> to provide more information about my teaching tasks</li>
+  <li>A <a href="https://statistix.be/" target="_blank" rel="noopener">landing page</a> for my services as statistician</li>
   <li>A <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">website</a> dedicated to one of the course for which I am teaching assistant</li>
   <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
 </ul>
 
-Feel free to [contact me](/contact/) if you need help in building and hosting your own website.
+Feel free to [contact me](/contact/) if you need help in building, deploying and hosting your own website.
 
 ## GitHub
 

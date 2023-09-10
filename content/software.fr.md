@@ -6,7 +6,7 @@ title: Logiciel
 
 Vous trouverez ci-dessous divers projets classés par langage de programmation ou par compétence.
 
-Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [me soutenir](https://statsandr.com/support/).
+Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [soutenir mon travai](https://statsandr.com/support/).
 
 ## R
 
@@ -46,11 +46,12 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
   <li>Mon <a href="https://statsandr.com/">blog</a> sur les statistiques et leurs applications dans R</li>
   <li><a href="https://datanalyze.be/fr/">datanalyze.be</a> pour les entreprises ou les professionnels qui ont besoin d'aide dans l'analyse de leurs données</li>
   <li><a href="https://easystat.be/">easystat.be</a> pour fournir plus d'informations sur mes tâches d'enseignement</li>
+  <li>Une <a href="https://statistix.be/" target="_blank" rel="noopener">landing page</a> pour mes services en tant que statisticien</li>
   <li>Un <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">site web</a> consacré à l'un des cours pour lequel je suis assistant</li>
   <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Site web</a> d'un médecin généraliste</li>
 </ul>
 
-N'hésitez pas à me [contacter](/fr/contact/) si vous avez besoin d'aide pour créer et mettre en ligne votre propre site web.
+N'hésitez pas à me [contacter](/fr/contact/) si vous avez besoin d'aide pour créer, déployer et héberger votre propre site web.
 
 ## GitHub
 
