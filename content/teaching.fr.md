@@ -32,6 +32,7 @@ Je suis également formateur pour les certificats universitaires suivants, dans 
 - Introduction à l'analyse de données avec R 
 - Junior data analyst
 - Pratique de la statistique avec R
+- Introduction à LaTeX
 
 ## Tutorat et conseil
 

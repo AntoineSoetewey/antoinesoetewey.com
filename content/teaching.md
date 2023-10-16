@@ -32,6 +32,7 @@ I am also instructor for the following university certificates, as part of UCLou
 - Introduction to data analysis with R
 - Junior data analyst
 - Practice of statistics with R
+- Introduction to LaTeX
 
 ## Tutoring & consulting
 
