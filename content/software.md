@@ -27,6 +27,7 @@ If you want to help me to continue developing open source projects, see how you 
     <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard: the case of Belgium</a> provides an overview of the COVID-19 epidemic for Belgium</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Word cloud</a> as part of text mining analysis</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Correlogram</a>: example of a correlations matrix to highlight the most correlated variables of a dataset</li>
+    <li><a href="https://antoinesoetewey.shinyapps.io/RSBB2023Hackstathon/">RSSB 2023 - Hackathon</a>: Accompanying Shiny app to better understand clients' satisfaction of a tour operator company proposing rental of properties</li>
 </ul>
 
 ### R package
