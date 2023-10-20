@@ -27,7 +27,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Talks & posters
 
 <ul>
-    <li>Hackathon of the 30th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2023). UCLouvain, Belgium [<a href="/files/slides_rssbhackathon2023.pdf">slides</a>, <a href="https://antoinesoetewey.shinyapps.io/RSBB2023Hackstathon/">Shiny app</a>]</li>
+    <li>Hackathon of the 30th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2023). UCLouvain, Belgium [<a href="/files/slides_rssbhackathon2023.pdf">slides</a>]</li>
     <li>Workshop on behalf of the 30th anniversary of the UCLouvain's Institute of Statistics: "Statistics and its role in societal challenges" (2022). UCLouvain, Belgium [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
     <li>Hackathon of the 28th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2021). ULiège, Belgium [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
     <li>Young Researchers Day (2021). UCLouvain, Belgium [<a href="/files/YRD_2021.pdf">slides</a>]</li>
