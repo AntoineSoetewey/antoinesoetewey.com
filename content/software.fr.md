@@ -27,7 +27,6 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
     <li><a href="/files/coronavirus-dashboard.html">Coronavirus dashboard : le cas de la Belgique</a> qui fournit un aperçu de l'épidémie de COVID-19 pour la Belgique</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/word-cloud/">Nuage de mots</a> dans le cadre d'une analyse de text mining</li>
     <li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>
-    <li><a href="https://antoinesoetewey.shinyapps.io/RSBB2023Hackstathon/">RSSB 2023 - Hackathon</a> : application pour mieux comprendre la satisfaction des clients d'un tour opérateur proposant la location de propriétés</li>
 </ul>
 
 ### Package R
