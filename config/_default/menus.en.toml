@@ -24,21 +24,26 @@
   name = "research"
   url = "/research/"
   weight = 30
+  
+[[main]]
+  name = "consulting"
+  url = "https://datanalyze.be/"
+  weight = 40
 
 [[main]]
   name = "cv"
   url = "/cv/"
-  weight = 40
+  weight = 50
   
 [[main]]
   name = "blog"
   url = "https://statsandr.com/"
-  weight = 50
+  weight = 60
   
 [[main]]
   name = "contact"
   url = "/contact/"
-  weight = 60
+  weight = 70
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
