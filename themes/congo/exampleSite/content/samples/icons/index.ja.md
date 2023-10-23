@@ -9,9 +9,9 @@ tags: ["icons", "sample", "shortcodes"]
 showDateUpdated: true
 ---
 
-Congoは[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポートしています。これらのアイコンは、[パーシャル - アイコン]({{< ref "docs/partials#アイコン" >}}) または [ショートコード - アイコン]({{< ref "docs/shortcodes#アイコン" >}}) のいずれかを使ってウェブサイトに含めることができます。
+Congo は[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポートしています。これらのアイコンは、[パーシャル - アイコン]({{< ref "docs/partials#アイコン" >}}) または [ショートコード - アイコン]({{< ref "docs/shortcodes#アイコン" >}}) のいずれかを使ってウェブサイトに含めることができます。
 
-さらに、カスタムアイコンも完全にサポートされています。プロジェクトのルートにある `assets/icons/` ディレクトリにSVGアイコンアセットを置くだけです。ディレクトリ内のアイコンは、テーマ全体で使用できるようになります。
+さらに、カスタムアイコンも完全にサポートされています。プロジェクトのルートにある `assets/icons/` ディレクトリに SVG アイコンアセットを置くだけです。ディレクトリ内のアイコンは、テーマ全体で使用できるようになります。
 
 内蔵アイコンの全リストと対応する名称は以下を参照してください。
 
@@ -23,8 +23,11 @@ Congoは[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | blogger              | {{< icon blogger >}}              |
 | bug                  | {{< icon bug >}}                  |
 | check                | {{< icon check >}}                |
+| chevron-down         | {{< icon chevron-down >}}         |
+| chevron-up           | {{< icon chevron-up >}}           |
 | circle-info          | {{< icon circle-info >}}          |
 | codepen              | {{< icon codepen >}}              |
+| coffee               | {{< icon coffee >}}               |
 | comment              | {{< icon comment >}}              |
 | dev                  | {{< icon dev >}}                  |
 | dribbble             | {{< icon dribbble >}}             |
@@ -35,6 +38,7 @@ Congoは[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | foursquare           | {{< icon foursquare >}}           |
 | github               | {{< icon github >}}               |
 | gitlab               | {{< icon gitlab >}}               |
+| globe                | {{< icon globe >}}                |
 | google               | {{< icon google >}}               |
 | hashnode             | {{< icon hashnode >}}             |
 | instagram            | {{< icon instagram >}}            |
@@ -68,10 +72,12 @@ Congoは[FontAwesome 6](https://fontawesome.com/icons)のアイコンをサポ�
 | tag                  | {{< icon tag >}}                  |
 | telegram             | {{< icon telegram >}}             |
 | tiktok               | {{< icon tiktok >}}               |
+| translate            | {{< icon translate >}}            |
 | triangle-exclamation | {{< icon triangle-exclamation >}} |
 | tumblr               | {{< icon tumblr >}}               |
 | twitch               | {{< icon twitch >}}               |
 | twitter              | {{< icon twitter >}}              |
 | whatsapp             | {{< icon whatsapp >}}             |
+| x-twitter            | {{< icon x-twitter >}}            |
 | xmark                | {{< icon xmark >}}                |
 | youtube              | {{< icon youtube >}}              |
