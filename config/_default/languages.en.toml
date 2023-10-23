@@ -1,15 +1,12 @@
 languageCode = "en"
 languageName = "English"
+languageDirection = "ltr"
 weight = 1
 
 title = "Antoine Soetewey"
 # copyright = "Antoine Soetewey"
 
 [params]
-  isoCode = "en"
-  displayName = ":gb:"
-  rtl = false
-
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]

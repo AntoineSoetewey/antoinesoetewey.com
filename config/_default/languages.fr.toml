@@ -1,15 +1,12 @@
 languageCode = "fr"
 languageName = "French"
+languageDirection = "ltr"
 weight = 2
 
 title = "Antoine Soetewey"
 # copyright = "Antoine Soetewey"
 
 [params]
-  isoCode = "fr"
-  displayName = ":fr:"
-  rtl = false
-
   dateFormat = "2 January 2006"
 
   # mainSections = ["samples"]
