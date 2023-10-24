@@ -13,6 +13,8 @@ As I enjoy sharing my skills with others, I am [teaching](/teaching/) assistant 
 
 When I find the time, I [code](/software/) in R and share it on my [blog](https://statsandr.com/).
 
+**I am actively looking for a postdoc position, ideally (i) starting from October 2024, (ii) in a field related to biostatistics, medical/health statistics, (iii) with a non-negligible teaching component, and (iv) in Belgium. Do not hesitate to [contact me](/contact/) if you have an opening that meets these criteria.**
+
 <br>
 
 {{< button href="/about/" target="_self" >}}
