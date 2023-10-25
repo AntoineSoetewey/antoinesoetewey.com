@@ -52,6 +52,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 ### Logiciels
 
 - R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, GitHub/GitLab, LaTeX
+- Développement web
 - Voir des exemples de [projets](/fr/software/)
 
 ### Langues

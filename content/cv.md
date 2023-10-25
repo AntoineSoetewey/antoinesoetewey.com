@@ -52,6 +52,7 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 ### Software
 
 - R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, GitHub/GitLab, LaTeX
+- Web development
 - See examples of [projects](/software/)
 
 ### Languages
