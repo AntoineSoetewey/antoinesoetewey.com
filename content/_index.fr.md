@@ -14,7 +14,7 @@ Comme j'aime partager mes compétences avec les autres, je suis [assistant](/fr/
 Lorsque je trouve le temps, je [code](/fr/software/) en R et je le partage sur mon [blog](https://statsandr.com/).
 
 {{< alert "circle-info" >}}
-Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui débute entre octobre 2024 et janvier 2025, (ii) dans un domaine lié à la biostatistique, aux statistiques médicales/santé, (iii) avec une composante d'enseignement non négligeable, et (iv) en Belgique. N'hésitez pas à [me contacter](/fr/contact/) si vous ouvrez un poste qui répond à ces critères.
+Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui débute entre octobre 2024 et janvier 2025, (ii) dans un domaine lié à la biostatistique, aux statistiques médicales/santé, (iii) avec une composante d'enseignement non négligeable, et (iv) en Belgique (ou nord de la France). N'hésitez pas à [me contacter](/fr/contact/) si vous ouvrez un poste qui répond à ces critères.
 {{< /alert >}}
 
 <br>
