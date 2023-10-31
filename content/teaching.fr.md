@@ -4,7 +4,7 @@ showTableOfContents: true
 title: Enseignement
 ---
 
-## Postes d'assistant
+## Assistant d'enseignement
 
 Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
 

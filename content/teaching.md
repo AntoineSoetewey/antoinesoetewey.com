@@ -4,7 +4,7 @@ showTableOfContents: true
 title: Teaching
 ---
 
-## Teaching assistant positions
+## Teaching assistant
 
 I am or have been teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
 
