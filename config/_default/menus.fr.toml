@@ -16,13 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "enseignement"
-  url = "/fr/teaching/"
+  name = "recherche"
+  url = "/fr/research/"
   weight = 20
 
 [[main]]
-  name = "recherche"
-  url = "/fr/research/"
+  name = "enseignement"
+  url = "/fr/teaching/"
   weight = 30
   
 [[main]]

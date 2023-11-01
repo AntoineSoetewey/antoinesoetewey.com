@@ -14,15 +14,15 @@
   name = "about"
   url = "/about/"
   weight = 10
+  
+[[main]]
+  name = "research"
+  url = "/research/"
+  weight = 20
 
 [[main]]
   name = "teaching"
   url = "/teaching/"
-  weight = 20
-
-[[main]]
-  name = "research"
-  url = "/research/"
   weight = 30
   
 [[main]]
