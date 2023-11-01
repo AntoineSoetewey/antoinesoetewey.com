@@ -29,15 +29,15 @@
   name = "consulting"
   url = "https://datanalyze.be/fr/"
   weight = 40
-
-[[main]]
-  name = "cv"
-  url = "/fr/cv/"
-  weight = 50
   
 [[main]]
   name = "blog"
   url = "https://statsandr.com/"
+  weight = 50
+  
+[[main]]
+  name = "cv"
+  url = "/fr/cv/"
   weight = 60
   
 [[main]]
