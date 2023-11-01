@@ -15,7 +15,7 @@ title = "Antoine Soetewey"
 [author]
   name = "Antoine Soetewey"
   image = "img/Antoine-Soetewey.jpeg"
-  headline = "Doctorant et assistant en statistique à l'UCLouvain. A la recherche d'un postdoc."
+  headline = "Doctorant et assistant en statistique à l'UCLouvain"
   bio = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
