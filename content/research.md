@@ -14,7 +14,7 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
 ## Publications
 
 <ol>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting.</li>
+    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence risk and duration in the Semi-Markov setting.</li>
     <li>Houben, JJ., Carpentier, Y., Paulissen, G., Van Snick, G. and <b>Soetewey, A.</b> (Under review). Impact of a food rebalancing program associated with plant-derived food supplements on the biometric, behavioral, and biological parameters of obese subjects.</li>
     <li>Moury, J., Vandevelde, V., <b>Soetewey, A.</b> and Thys, F. (Under review). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.</li>
     <li>Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., <b>Soetewey, A.</b>, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]</li>
