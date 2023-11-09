@@ -21,7 +21,7 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
 For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
 {{< /alert >}}
 
-## Preprints and submitted manuscripts
+## Preprints & submitted manuscripts
 
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. Health indices for disease incidence risk and duration in the Semi-Markov setting. (Under review, [preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:274314))
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and **Soetewey, A.**. Impact of a food rebalancing program associated with plant-derived food supplements on the biometric, behavioral, and biological parameters of obese subjects. (Accepted in Nutrients)

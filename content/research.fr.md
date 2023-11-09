@@ -21,7 +21,7 @@ Ce doctorat est un travail conjoint avec Prof. <a href="https://scholar.google.c
 Pour une liste détaillée des publications, voir mon profil <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> ou <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a>.
 {{< /alert >}}
 
-## Prépublications et manuscrits soumis
+## Prépublications & manuscrits soumis
 
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. Health indices for disease incidence risk and duration in the Semi-Markov setting. (En révision, [prépublication](https://dial.uclouvain.be/pr/boreal/object/boreal:274314))
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. et **Soetewey, A.** Impact of a food rebalancing program associated with plant-derived food supplements on the biometric, behavioral, and biological parameters of obese subjects. (Accepté dans Nutrients)
@@ -57,7 +57,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 <li>Membre de la Société Royale Belge de Statistique (<a href="https://rssb.be/" target="_blank" rel="noopener">RSSB</a>)</li>
 </ul>
 
-## Thèse de doctorat et mémoires
+## Thèse de doctorat & mémoires
 
 <ul>
 <li>"Life and health actuarial pricing: a biostatistics approach" <i>(in progress)</i>. Doctorat en statistique, UCLouvain [<a href="/files/Thesis_abstract_EN.pdf">PDF</a>]</li>
