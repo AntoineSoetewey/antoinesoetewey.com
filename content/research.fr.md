@@ -43,7 +43,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Séminaire conjoint de doctorat en statistique, mathématiques actuarielles et financières (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
 
-## Presse et médias
+## Presse & médias
 
 <ul>
     <li>Le Droit à l'oubli - Sommes-nous tous égaux face aux assurances ? (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">link</a>]</li>
