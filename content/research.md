@@ -13,18 +13,19 @@ This PhD is a joint work with Prof. <a href="https://scholar.google.com/citation
 
 ## Publications
 
-<ol>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence risk and duration in the Semi-Markov setting.</li>
-    <li>Houben, JJ., Carpentier, Y., Paulissen, G., Van Snick, G. and <b>Soetewey, A.</b> (Under review). Impact of a food rebalancing program associated with plant-derived food supplements on the biometric, behavioral, and biological parameters of obese subjects.</li>
-    <li>Moury, J., Vandevelde, V., <b>Soetewey, A.</b> and Thys, F. (Under review). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.</li>
-    <li>Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., <b>Soetewey, A.</b>, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://doi.org/10.1007/s13385-022-00308-2" target="_blank" rel="noopener">doi.org/10.1007/s13385-022-00308-2</a>]</li>
-    <li><b>Soetewey, A.</b>, Legrand, C., Denuit, M. and Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>, 135-160. [<a href="https://doi.org/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">doi.org/10.1007/s13385-020-00254-x</a>]</li>
-</ol>
+- Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., **Soetewey, A.**, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://doi.org/10.1007/s13385-022-00308-2" target="_blank" rel="noopener">doi.org/10.1007/s13385-022-00308-2</a>]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>, 135-160. [<a href="https://doi.org/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">doi.org/10.1007/s13385-020-00254-x</a>]
 
 {{< alert "circle-info" >}}
 For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
 {{< /alert >}}
+
+## Preprints and submitted manuscripts
+
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. Health indices for disease incidence risk and duration in the Semi-Markov setting. (Under review, [preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:274314))
+- Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and **Soetewey, A.**. Impact of a food rebalancing program associated with plant-derived food supplements on the biometric, behavioral, and biological parameters of obese subjects. (Accepted in Nutrients)
+- Moury, J., Vandevelde, V., **Soetewey, A.** and Thys, F. L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge. (Under review)
 
 ## Talks & posters
 
