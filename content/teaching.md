@@ -9,7 +9,7 @@ title: Teaching
 I am or have been teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
 
 <ul>
-    <li>2023 - Present: <b>Data exploration and introduction to statiscal inference</b> (LMAFY1101)</li>
+    <li>2023 - Present: <b>Data exploration and introduction to statistical inference</b> (LMAFY1101)</li>
     <li>2022 - Present: <b>Statistics and data sciences with R: Advanced programming</b> (LDATS2030)</li>
     <li>2022 - Present: <b>Economics and management statistics II</b> (LECGE1224)</li>
     <li>2022 - Present: <b>Analysis of survival and duration data</b> (LSTAT2220)</li>
