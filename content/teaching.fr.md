@@ -1,12 +1,14 @@
 ---
 description: Voir les tâches et postes d'enseignement d'Antoine Soetewey
-showTableOfContents: true
+showTableOfContents: false
 title: Enseignement
 ---
 
-## Assistant d'enseignement
+Chargé de cours invité pour le cours suivant à UNamur :
 
-Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
+- 2024 : **Méthodes quantitatives avancées** (EINGM105)
+
+Assistant d'enseignement pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
 
 <ul>
     <li>2023 - Présent : <b>Exploration de données et introduction à l'inférence statistique</b> (LMAFY1101)</li>
@@ -25,7 +27,7 @@ Je suis ou j'ai été assistant pour les cours suivants à l'[UCLouvain](https:/
     <li>2017 - 2018 : <b>Statistique approfondie</b> (LINGE1214)</li>
 </ul>
 
-## Formations
+## Formations et ateliers
 
 Je suis également formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>) :
 

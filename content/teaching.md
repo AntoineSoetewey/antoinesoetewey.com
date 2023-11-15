@@ -1,12 +1,14 @@
 ---
 description: See Antoine Soetewey's teaching tasks and positions
-showTableOfContents: true
+showTableOfContents: false
 title: Teaching
 ---
 
-## Teaching assistant
+Visiting lecturer for the following course at [UNamur](https://www.unamur.be/):
 
-I am or have been teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
+- 2024: **Advanced quantitative methods** (EINGM105)
+
+Teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
 
 <ul>
     <li>2023 - Present: <b>Data exploration and introduction to statistical inference</b> (LMAFY1101)</li>
@@ -25,7 +27,7 @@ I am or have been teaching assistant for the following courses at [UCLouvain](ht
     <li>2017 - 2018: <b>Further statistics</b> (LINGE1214)</li>
 </ul>
 
-## Trainings
+## Trainings & workshops
 
 I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>):
 
