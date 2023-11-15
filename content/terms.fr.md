@@ -1,6 +1,6 @@
 ---
 description: Conditions et politiques du site personnel d'Antoine Soetewey
-showTableOfContents: true
+showTableOfContents: false
 title: Conditions et politiques
 ---
 
@@ -27,7 +27,7 @@ Comme beaucoup d'autres sites web, [antoinesoetewey.com](/fr/) utilise des fichi
 
 Toutes ces informations ne sont pas liées à des éléments permettant de vous identifier personnellement.
 
-### Cookies et balises web
+### Cookies & balises web
 
 [antoinesoetewey.com](/fr/) utilise un cookie pour déclencher le chargement du CSS en cache lors des prochains chargements de pages.
 

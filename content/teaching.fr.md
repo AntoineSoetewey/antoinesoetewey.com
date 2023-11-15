@@ -27,7 +27,7 @@ Assistant d'enseignement pour les cours suivants à l'[UCLouvain](https://uclouv
     <li>2017 - 2018 : <b>Statistique approfondie</b> (LINGE1214)</li>
 </ul>
 
-## Formations et ateliers
+## Formations & ateliers
 
 Je suis également formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>) :
 
@@ -36,7 +36,7 @@ Je suis également formateur pour les certificats universitaires suivants, dans 
 - Pratique de la statistique avec R
 - Introduction à LaTeX
 
-## Tutorat et conseil
+## Tutorat & conseil
 
 Compte tenu de mon expérience en tant qu'assistant au niveau universitaire, je propose des cours particuliers en statistiques, probabilités, R et science des données. Je peux également vous aider à effectuer des analyses statistiques de données pour votre mémoire, thèse ou projets professionnels :
 

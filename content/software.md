@@ -1,6 +1,6 @@
 ---
 description: Code, software and open source projects created and maintained by Antoine Soetewey
-showTableOfContents: true
+showTableOfContents: false
 title: Software
 ---
 
@@ -14,7 +14,7 @@ If you want to help me to continue developing open source projects, see how you 
 
 - [Stats and R](https://statsandr.com/): a blog about statistics and its applications in R, using the {blogdown} R package and Hugo
 
-### Shiny apps and dashboards
+### Shiny apps & dashboards
 
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a>: a guide on how to compute probabilities for the main probability distributions - how to read statistical tables?</li>

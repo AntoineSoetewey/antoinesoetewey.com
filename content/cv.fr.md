@@ -47,7 +47,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
 
-## Compétences techniques et langues
+## Compétences techniques & langues
 
 ### Logiciels
 

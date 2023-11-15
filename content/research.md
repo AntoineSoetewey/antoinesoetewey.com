@@ -1,7 +1,7 @@
 ---
 description: Research, publications and talks of Antoine Soetewey
 title: Research
-showTableOfContents: true
+showTableOfContents: false
 ---
 
 My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured.

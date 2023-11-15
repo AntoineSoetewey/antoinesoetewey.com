@@ -1,6 +1,6 @@
 ---
 description: Terms and policies for Antoine Soetewey's personal website
-showTableOfContents: true
+showTableOfContents: false
 title: Terms & policies
 ---
 
@@ -27,7 +27,7 @@ Like many other websites, [antoinesoetewey.com](/) uses log files to help learn 
 
 All of this information is not linked to anything that is personally identifiable.
 
-### Cookies and web beacons
+### Cookies & web beacons
 
 [antoinesoetewey.com](/) uses a cookie to trigger the loading of cached CSS on future page loads.
 
