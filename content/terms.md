@@ -2,6 +2,7 @@
 description: Terms and policies for Antoine Soetewey's personal website
 showTableOfContents: false
 title: Terms & policies
+layout: "simple"
 ---
 
 This is my personal website written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.

@@ -2,6 +2,7 @@
 description: Recherches, publications et conférences d'Antoine Soetewey
 title: Recherche
 showTableOfContents: false
+layout: "simple"
 ---
 
 Mes recherches portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer. Cela englobe l'analyse de survie afin d'estimer de manière adéquate le temps---à partir de la date du diagnostic---après lequel les patients atteints de cancer peuvent être considérés comme guéris.

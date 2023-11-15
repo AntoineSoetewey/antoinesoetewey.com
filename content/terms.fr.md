@@ -2,6 +2,7 @@
 description: Conditions et politiques du site personnel d'Antoine Soetewey
 showTableOfContents: false
 title: Conditions et politiques
+layout: "simple"
 ---
 
 Ceci est mon site web personnel écrit et édité par moi. Votre utilisation de ce site, sous toutes ses formes, constitue une acceptation de ces termes et politiques. Cette page est revue et révisée de temps en temps.

@@ -2,6 +2,7 @@
 description: Voir les tâches et postes d'enseignement d'Antoine Soetewey
 showTableOfContents: false
 title: Enseignement
+layout: "simple"
 ---
 
 Chargé de cours invité pour le cours suivant à [UNamur](https://www.unamur.be/) :

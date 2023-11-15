@@ -2,6 +2,7 @@
 description: Code, logiciels et projets open source créés et maintenus par Antoine Soetewey
 showTableOfContents: false
 title: Logiciel
+layout: "simple"
 ---
 
 Vous trouverez ci-dessous divers projets classés par langage de programmation ou par compétence.

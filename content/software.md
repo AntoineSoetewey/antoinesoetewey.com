@@ -2,6 +2,7 @@
 description: Code, software and open source projects created and maintained by Antoine Soetewey
 showTableOfContents: false
 title: Software
+layout: "simple"
 ---
 
 Below you will find various projects sorted by programming language or skill.
