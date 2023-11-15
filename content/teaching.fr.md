@@ -4,7 +4,7 @@ showTableOfContents: false
 title: Enseignement
 ---
 
-Chargé de cours invité pour le cours suivant à UNamur :
+Chargé de cours invité pour le cours suivant à [UNamur](https://www.unamur.be/) :
 
 - 2024 : **Méthodes quantitatives avancées** (EINGM105)
 
