@@ -34,16 +34,19 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 
 ## Experience
 
-- (2017 -- Present) **Teaching assistant in statistics** -- UCLouvain, Belgium
+### Teaching experience
+
+- (2024) **Visiting lecturer** for the course "Advanced quantitative methods" -- UNamur, Belgium
+- (2017 -- Present) **Teaching assistant** in statistics -- UCLouvain, Belgium
   + See all [courses](/teaching/)
-- (2018 -- Present) **Consultant and instructor in statistics, R programming and data science**
-  + Statistical and data analysis consulting for:
-    + Students and researchers (see [easystat.be](https://easystat.be/))
-    + Professionals and companies (see [datanalyze.be](https://datanalyze.be/))
-  + Instructor for UCLouvain's university certificates ([SMCS](http://www.uclouvain.be/smcs)):
-    + "Introduction to data analysis with R"
-    + "Junior data analyst"
-    + "Practice of statistics with R"
+- (2018 -- Present) **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
+- (2018 -- Present) **Private tutor** in statistics -- [easystat.be](https://easystat.be/)
+  
+### Industry experience
+
+- (2018 -- Present) **Consultant** in statistics and data analysis for:
+    + Researchers and academics -- SMCS, Belgium 
+    + Professionals and companies -- [datanalyze.be](https://datanalyze.be/)
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization
 
