@@ -36,15 +36,15 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 ### Expérience d'enseignement
 
-- 2024: **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgium
+- 2024: **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgique
 - 2017 -- Présent: **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
   + Voir tous les [cours](/fr/teaching/)
-- 2018 -- Présent: **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgium
+- 2018 -- Présent: **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
 
 ### Expérience professionnelle
 
 - 2018 -- Présent: **Consultant** en statistique et analyse de données pour:
-  + Chercheurs et universitaires -- SMCS, Belgium
+  + Chercheurs et universitaires -- SMCS, Belgique
   + Professionnels et entreprises -- [datanalyze.be](https://datanalyze.be/fr/)
 - 2016 -- 2017: **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
