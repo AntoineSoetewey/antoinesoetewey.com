@@ -39,7 +39,7 @@ Je suis également formateur pour les certificats universitaires suivants, dans 
 
 ## Tutorat & conseil
 
-Compte tenu de mon expérience en tant qu'assistant au niveau universitaire, je propose des cours particuliers en statistiques, probabilités, R et science des données. Je peux également vous aider à effectuer des analyses statistiques de données pour votre mémoire, thèse ou projets professionnels :
+Compte tenu de mon expérience dans l'enseignement au niveau universitaire, je propose des cours particuliers en statistiques, probabilités, R et science des données. Je peux également vous aider à effectuer des analyses statistiques de données pour votre mémoire, thèse ou projets professionnels :
 
 - **Étudiants et chercheurs**, voir plus d'informations sur [easystat.be](https://easystat.be/)
 - **Professionnels et entreprises**, voir plus d'informations sur [datanalyze.be](https://datanalyze.be/fr/)
