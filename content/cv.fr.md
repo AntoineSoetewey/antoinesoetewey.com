@@ -34,16 +34,19 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 ## Expérience
 
-- (2017 -- Présent) **Assistant en statistique** -- UCLouvain, Belgique
+### Expérience d'enseignement
+
+- (2024) **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgium
+- (2017 -- Présent) **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
   + Voir tous les [cours](/fr/teaching/)
-- (2018 -- Présent) **Consultant et instructeur en statistiques, R et science des données**
-  + Conseil en statistiques et en analyse de données pour :
-    + Etudiants et chercheurs (see [easystat.be](https://easystat.be/))
-    + Professionnels et entreprises (voir [datanalyze.be](https://datanalyze.be/fr/))
-  + Formateur pour les certificats universitaires de l'UCLouvain ([SMCS](http://www.uclouvain.be/smcs)) :
-    + "Introduction à l'analyse de données avec R"
-    + "Junior data analyst"
-    + "Pratique de la statistique avec R"
+- (2018 -- Présent) **Formateur** pour les certificats universitaires de l'UCLouvain en statistiques -- SMCS, Belgium
+- (2018 -- Présent) **Professeur particulier** en statistique -- [easystat.be](https://easystat.be/)
+
+### Expérience professionnelle
+
+- (2018 -- Présent) **Consultant** en statistique et analyse de données pour:
+  + Chercheurs et universitaires -- SMCS, Belgium
+  + Professionnels et entreprises -- [datanalyze.be](https://datanalyze.be/fr/)
 - (2016 -- 2017) **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
 
