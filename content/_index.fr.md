@@ -6,7 +6,7 @@ title: 'Antoine Soetewey'
 <br>
 
 {{< alert "circle-info" >}}
-Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui débute entre octobre 2024 et janvier 2025, (ii) dans un domaine lié à la biostatistique, aux statistiques médicales/santé publique, et (iii) en Belgique ou nord de la France. N'hésitez pas à [me contacter](/fr/contact/) si vous ouvrez un poste qui répond à ces critères.
+Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui débute entre octobre 2024 et janvier 2025, et (ii) dans un domaine lié à la biostatistique, aux statistiques médicales/santé publique. N'hésitez pas à [me contacter](/fr/contact/) si vous ouvrez un poste qui répond à ces critères.
 {{< /alert >}}
 
 <br>
