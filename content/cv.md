@@ -34,14 +34,14 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 
 ## Experience
 
-### Teaching experience
+### Teaching
 
 - 2024: **Visiting lecturer** for the course "Advanced quantitative methods" -- UNamur, Belgium
 - 2017 -- Present: **Teaching assistant** in statistics -- UCLouvain, Belgium
   + See all [courses](/teaching/)
 - 2018 -- Present: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
   
-### Industry experience
+### Industry
 
 - 2018 -- Present: **Consultant** in statistics and data analysis for:
     + Researchers and academics -- SMCS, Belgium 
