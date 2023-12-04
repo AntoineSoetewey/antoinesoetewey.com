@@ -15,7 +15,7 @@ Compte tenu de mon expérience, j'accompagne également des :
 
 Si vous avez besoin d'aide en statistiques, en analyse de données ou en R pour vos projets académiques ou professionnels, n'hésitez pas à me contacter via le site web correspondant !
 
-Pendant mon temps libre, j'aime [coder](/fr/software/), écrire sur des sujets liés aux statistiques et ses applications en R, et le partager sur mon [blog](https://statsandr.com/) pour vulgariser et faire en sorte que cela soit compréhensible pour plus de monde.
+Pendant mon temps libre, j'aime coder, écrire sur des sujets liés aux statistiques et ses applications en R, et le partager sur mon [blog](https://statsandr.com/) pour vulgariser et faire en sorte que cela soit compréhensible pour plus de monde.
 
 J'aime aussi faire du sport, lire des [livres](/files/booklist.html) portant sur les statistiques, l'économie (comportementale), la gestion/finance personnelle ou la psychologie et [voyager](/files/visited-places.html) autour du monde.
 

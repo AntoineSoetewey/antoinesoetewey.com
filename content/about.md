@@ -15,7 +15,7 @@ Given my experience, I also support:
 
 If you need help in statistics, data analysis or R for your academic or work related projects, feel free to contact me via the corresponding website!
 
-In my spare time, I like to [code](/software/), write about statistics and its applications in R, and share it on my [blog](https://statsandr.com/) to popularize and make it understandable for more people.
+In my spare time, I like to code, write about statistics and its applications in R, and share it on my [blog](https://statsandr.com/) to popularize and make it understandable for more people.
 
 I also enjoy playing sports, reading nonfiction [books](/files/booklist.html) on statistics, (behavioral) economics, management/personal finance or psychology and [traveling](/files/visited-places.html) around the globe.
 
