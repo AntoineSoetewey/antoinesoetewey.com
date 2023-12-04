@@ -19,7 +19,7 @@ Je suis particulièrement intéressé par la vulgarisation et la démocratisatio
 
 En parallèle de mes [recherches](/fr/research/), qui constituent le coeur de ma thèse de doctorat, je donne [cours](/fr/teaching/) en statistiques, probabilités et science des données à l'UCLouvain et UNamur. J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.
 
-Lorsque je trouve le temps, je [code](/fr/software/) en R et je le partage sur mon [blog](https://statsandr.com/).
+Lorsque je trouve le temps, je code en R et je le partage sur mon [blog](https://statsandr.com/).
 
 <br>
 
