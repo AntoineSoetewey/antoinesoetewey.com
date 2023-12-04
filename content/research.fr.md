@@ -25,7 +25,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 ## Prépublications & manuscrits soumis
 
-- **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (En révision). Waiting period from diagnosis for mortgage insurance issued to cancer survivors: Critical assessment and new proposal.
+- **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (En révision). Waiting period from diagnosis for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (En révision). Health indices for disease incidence and duration in the Semi-Markov setting. [[working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
 - Moury, J., Vandevelde, V., **Soetewey, A.** et Thys, F. (En révision). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.
 
