@@ -6,7 +6,7 @@ title: A propos
 
 Je suis doctorant en statistique à l'UCLouvain (Belgique) au sein de l'Institut de Statistique, Biostatistique et Sciences Actuarielles. Mes [intérêts de recherche](/fr/research/) portent sur l'[analyse de survie](https://statsandr.com/blog/what-is-survival-analysis/) et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
-En parallèle de ma thèse de doctorat, je suis [assistant](/fr/teaching/) pour plusieurs cours de statistiques et probabilités au niveau bachelier et master. Je donne également des formations et du conseil en science des données, statistiques et R (logiciel statistique open source) dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain. Pour en savoir plus, veuillez consulter mon [CV](/fr/cv/).
+En parallèle de ma thèse de doctorat, je donne [cours](/fr/teaching/) en statistiques et probabilités au niveau bachelier et master à l'UCLouvain et UNamur. Je donne également des formations et du conseil en science des données, statistiques et R (logiciel statistique open source) dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain. Pour en savoir plus, veuillez consulter mon [CV](/fr/cv/).
 
 Compte tenu de mon expérience, j'accompagne également des :
 

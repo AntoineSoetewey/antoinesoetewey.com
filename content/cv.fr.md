@@ -14,7 +14,7 @@ Télécharger mon CV
 
 Je suis doctorant en statistique à l'UCLouvain (Belgique), au sein de l'Institut de Statistique, Biostatistique et Sciences Actuarielles. Mes intérêts de recherche portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer.
 
-En parallèle de ma thèse de doctorat, je suis assistant pour plusieurs cours de statistiques et probabilités au niveau bachelier et master. Je donne également des formations et des conseils en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain.
+En parallèle de ma thèse de doctorat, je donne cours de statistiques et probabilités au niveau bachelier et master à l'UCLouvain et UNamur. Je donne également des formations et des conseils en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain.
 
 Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je code en R via mon blog [statsandr.com](https://statsandr.com/).
 
