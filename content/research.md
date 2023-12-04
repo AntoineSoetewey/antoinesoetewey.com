@@ -25,9 +25,9 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 
 ## Preprints & submitted manuscripts
 
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G., Waiting period from diagnosis for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. (Under review)
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G., Health indices for disease incidence and duration in the Semi-Markov setting. (Under review, [working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:274314))
-- Moury, J., Vandevelde, V., **Soetewey, A.** and Thys, F., L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge. (Under review)
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Waiting period from diagnosis for mortgage insurance issued to cancer survivors: Critical assessment and new proposal.
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
+- Moury, J., Vandevelde, V., **Soetewey, A.** and Thys, F. (Under review). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.
 
 ## Talks & posters
 
