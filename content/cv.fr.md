@@ -30,7 +30,6 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 - 2013 -- 2015: **Master en économie** -- KULeuven, Belgique
   + Mémoire : *Negativity bias and framing effect in charity donations: a field experiment* (superviseur : Prof. Jo Swinnen)
   + Echange universitaire d'un semestre, University of Illinois at Urbana-Champaign (USA)
-- 2010 -- 2013: **Bachelier en économie & science de gestion** -- UCLouvain, Belgique
 
 ## Expérience
 

@@ -30,7 +30,6 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 - 2013 -- 2015: **MSc in economics** -- KULeuven, Belgium
   + Thesis: *Negativity bias and framing effect in charity donations: a field experiment* (supervisor: Prof. Jo Swinnen)
   + Faculty exchange of one semester at University of Illinois at Urbana-Champaign (USA)
-- 2010 -- 2013: **BSc in economics & management sciences** -- UCLouvain, Belgium
 
 ## Experience
 
