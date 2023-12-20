@@ -37,8 +37,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 ### Enseignement
 
-- 2024 -- Présent : **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgique
-- 2017 -- Présent : **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
+- 2017 -- Présent : **Assistant d'enseignement et chargé de cours invité** en statistique -- UCLouvain & UNamur, Belgique
   + Voir tous les [cours](/fr/teaching/)
 - 2018 -- Présent : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
 

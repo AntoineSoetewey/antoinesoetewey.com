@@ -37,8 +37,7 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 
 ### Teaching
 
-- 2024 -- Present: **Visiting lecturer** for the course "Advanced quantitative methods" -- UNamur, Belgium
-- 2017 -- Present: **Teaching assistant** in statistics -- UCLouvain, Belgium
+- 2017 -- Present: **Teaching assistant and visiting lecturer** in statistics -- UCLouvain & UNamur, Belgium
   + See all [courses](/teaching/)
 - 2018 -- Present: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
   
