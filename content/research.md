@@ -53,7 +53,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
     <li>Evolution of COVID-19 hospital admissions in Belgium (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
-## Associations & affiliations
+## Memberships
 
 <ul>
 <li>Member of the Royal Statistical Society of Belgium (<a href="https://rssb.be/" target="_blank" rel="noopener">RSSB</a>)</li>

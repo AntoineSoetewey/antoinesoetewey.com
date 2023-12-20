@@ -53,7 +53,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Evolution des admissions hospitalières dues au COVID-19 en Belgique (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
-## Associations & affiliations
+## Affiliations
 
 <ul>
 <li>Membre de la Société Royale Belge de Statistique (<a href="https://rssb.be/" target="_blank" rel="noopener">RSSB</a>)</li>
