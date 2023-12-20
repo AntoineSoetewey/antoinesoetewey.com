@@ -31,7 +31,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 ### Recherche
 
-- 2017 -- Présent : **Doctorant en statistique** -- UCLouvain, Belgique
+- 2017 -- Présent : **Doctorant** en statistique -- UCLouvain, Belgique
   + Thèse : *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
   + Voir toutes les [publications, posters et conférences](/fr/research/)
 
