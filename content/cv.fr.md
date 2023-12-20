@@ -22,30 +22,32 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 
 ## Education
 
-- 2017 -- 2024: **Doctorat en statistique** -- UCLouvain, Belgique
-  + Thèse : *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
-  + Voir toutes les [publications, posters et conférences](/fr/research/)
-- 2015 -- 2016: **Master en économétrie & recherche opérationnelle** -- Maastricht University, Pays-Bas 
-  + Mémoire : *Combining professional and survey forecasts for macroeconomic data* (superviseuse : Prof. Nalan Basturk)
-- 2013 -- 2015: **Master en économie** -- KULeuven, Belgique
-  + Mémoire : *Negativity bias and framing effect in charity donations: a field experiment* (superviseur : Prof. Jo Swinnen)
-  + Echange universitaire d'un semestre, University of Illinois at Urbana-Champaign (USA)
+- 2017 -- Présent : **PhD en statistique** -- UCLouvain, Belgique
+- 2015 -- 2016 : **Master en économétrie** -- Maastricht University, Pays-Bas
+- 2013 -- 2015 : **Master en économie** -- KULeuven, Belgique
+- 2014: **Programme d'échange en économétrie** -- University of Illinois at Urbana-Champaign, USA
 
 ## Expérience
 
+### Recherche
+
+- 2017 -- Présent : **Doctorant en statistique** -- UCLouvain, Belgique
+  + Thèse : *Life and health actuarial pricing: a biostatistics approach* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
+  + Voir toutes les [publications, posters et conférences](/fr/research/)
+
 ### Enseignement
 
-- 2024: **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgique
-- 2017 -- Présent: **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
+- 2024 -- Présent : **Chargé de cours invité** pour le cours "Méthodes quantitatives avancées" -- UNamur, Belgique
+- 2017 -- Présent : **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
   + Voir tous les [cours](/fr/teaching/)
-- 2018 -- Présent: **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
+- 2018 -- Présent : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
 
 ### Professionnelle
 
-- 2018 -- Présent: **Consultant** en statistique et analyse de données pour:
+- 2018 -- Présent : **Consultant** en statistique et analyse de données pour:
   + Chercheurs et universitaires -- SMCS, Belgique
   + Professionnels et entreprises -- [datanalyze.be](https://datanalyze.be/fr/)
-- 2016 -- 2017: **Data scientist** -- Business & Decision, Belgique
+- 2016 -- 2017 : **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
 
 ## Compétences techniques & langues
