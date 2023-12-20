@@ -31,7 +31,7 @@ In my spare time, I write about statistics and code in R via my blog [statsandr.
 
 ### Research
 
-- 2017 -- Present: **Doctoral candidate** in statistics -- UCLouvain, Belgium
+- 2017 -- Present: **Doctoral researcher** in statistics -- UCLouvain, Belgium
   + Thesis: *Life and health actuarial pricing: a biostatistics approach* (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
   + See all [publications, posters and talks](/research/)
 
