@@ -53,16 +53,8 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Evolution des admissions hospitalières dues au COVID-19 en Belgique (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
-## Affiliations
+## Affiliations & service académique
 
-<ul>
-<li>Membre de la Société Royale Belge de Statistique (<a href="https://rssb.be/" target="_blank" rel="noopener">RSSB</a>)</li>
-</ul>
-
-## Thèse de doctorat & mémoires
-
-<ul>
-<li>"Life and health actuarial pricing: a biostatistics approach" <i>(in progress)</i>. Doctorat en statistique, UCLouvain [<a href="/files/Thesis_abstract_EN.pdf">PDF</a>]</li>
-<li>"Combining professional and survey forecasts for macroeconomic data" (2016). Master en économétrie, Maastricht University. ISBN : 978-3659660801 [<a href="https://www.amazon.com/Combining-professional-survey-forecasts-macroeconomic/dp/3659660809/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1483904672&amp;sr=1-1" target="_blank" rel="noopener">Amazon</a>, <a href="/files/SOETEWEY-ANTOINE-6083256-ECONOMETRICS-THESIS.pdf">PDF</a>]</li>
-<li>"Negativity bias and framing effect in charity donations: a field experiment" (2014). Master en économie, KULeuven [<a href="/files/Thesis_Antoine_Soetewey_MSc_Eco.pdf">PDF</a>]</li>
-</ul>
+- *Représentant des doctorants*, Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS (2023 -- Présent)
+- *Représentant des doctorants*, Ecole de statistique, biostatistique et sciences actuarielles, UCLouvain (2020 -- 2022)
+- *Membre*, Société Royale Belge de Statistique (2017 -- Présent)
