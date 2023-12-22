@@ -48,7 +48,6 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
   <li><a href="https://datanalyze.be/fr/">datanalyze.be</a> pour les entreprises ou les professionnels qui ont besoin d'aide dans l'analyse de leurs données</li>
   <li><a href="https://easystat.be/">easystat.be</a> pour fournir plus d'informations sur mes tâches d'enseignement</li>
   <li>Une <a href="https://statistix.be/" target="_blank" rel="noopener">landing page</a> pour mes services en tant que statisticien</li>
-  <li>Un <a href="https://lespo2102.netlify.app/" target="_blank" rel="noopener">site web</a> consacré à l'un des cours pour lequel je suis assistant</li>
   <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Site web</a> d'un médecin généraliste</li>
 </ul>
 
