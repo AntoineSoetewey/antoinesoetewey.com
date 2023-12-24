@@ -1,5 +1,5 @@
 ---
-description: Personal website of Antoine Soetewey, PhD candidate and teaching assistant in statistics at UCLouvain
+description: Personal website of Antoine Soetewey, PhD researcher and teaching assistant in statistics at UCLouvain
 title: 'Antoine Soetewey'
 ---
 
@@ -11,7 +11,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br>
 
-Hello, my name is Antoine Soetewey. I am a PhD candidate in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
+Hello, my name is Antoine Soetewey. I am a PhD researcher in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
 
 <!---
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
