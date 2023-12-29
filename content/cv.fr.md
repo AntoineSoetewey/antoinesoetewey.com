@@ -25,7 +25,7 @@ Pendant mon temps libre, j'écris sur des sujets liés aux statistiques et je co
 - 2017 -- Présent : **PhD en statistique** -- UCLouvain, Belgique
 - 2015 -- 2016 : **Master en économétrie** -- Maastricht University, Pays-Bas
 - 2013 -- 2015 : **Master en économie** -- KULeuven, Belgique
-- 2014: **Programme d'échange en économétrie** -- University of Illinois at Urbana-Champaign, USA
+- 2014 : **Programme d'échange en économétrie** -- University of Illinois at Urbana-Champaign, USA
 
 ## Expérience
 
