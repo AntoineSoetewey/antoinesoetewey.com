@@ -7,7 +7,7 @@ layout: "simple"
 
 Chargé de cours invité pour le cours suivant à [UNamur](https://www.unamur.be/) :
 
-- 2024 : **Méthodes quantitatives avancées** (EINGM105)
+- 2024 -- Présent : **Méthodes quantitatives avancées** (EINGM105)
 
 Assistant d'enseignement pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
 
