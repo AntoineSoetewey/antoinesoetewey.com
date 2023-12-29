@@ -7,7 +7,7 @@ layout: "simple"
 
 Visiting lecturer for the following course at [UNamur](https://www.unamur.be/):
 
-- 2024: **Advanced quantitative methods** (EINGM105)
+- 2024 - Present: **Advanced quantitative methods** (EINGM105)
 
 Teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
 
