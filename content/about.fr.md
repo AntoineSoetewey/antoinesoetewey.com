@@ -10,10 +10,10 @@ En parallèle de ma thèse de doctorat, je donne [cours](/fr/teaching/) en stati
 
 Compte tenu de mon expérience, j'accompagne également des :
 
-- **Etudiants et chercheurs** dans leurs études ou la partie statistique de leur mémoire, TFE ou thèse, grâce à des cours sur mesure et un accompagnement personnalisé en statistique et probabilité. Voir plus d'informations sur [easystat.be](https://easystat.be/).
+- **Etudiants et chercheurs** dans leurs études ou la partie statistique de leur mémoire, TFE, thèse ou projet de recherche, grâce à des cours sur mesure et un accompagnement personnalisé en statistique et probabilité. Voir plus d'informations sur [easystat.be](https://easystat.be/).
 - **Professionnels et entreprises** dans leurs recherches, analyses de données et prises de décisions éclairées en apportant une dimension statistique à leurs projets, quel que soit le secteur, le coeur de métier ou la taille de l'entreprise. Plus d'informations sur [datanalyze.be](https://datanalyze.be/fr/).
 
-Si vous avez besoin d'aide en statistiques, en analyse de données ou en R pour vos projets académiques ou professionnels, n'hésitez pas à me contacter via le site web correspondant !
+Si vous avez besoin d'aide en statistiques, en analyse de données ou en R, n'hésitez pas à me contacter via le site web correspondant !
 
 Pendant mon temps libre, j'aime coder, écrire sur des sujets liés aux statistiques et ses applications en R, et le partager sur mon [blog](https://statsandr.com/) pour vulgariser et faire en sorte que cela soit compréhensible pour plus de monde.
 
