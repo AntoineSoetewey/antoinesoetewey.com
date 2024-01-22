@@ -22,8 +22,8 @@ title = "Antoine Soetewey"
     { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },
     { x-twitter = "https://twitter.com/statsandr" },
     { orcid = "https://orcid.org/0000-0001-8159-0804" },
-    { researchgate = "https://www.researchgate.net/profile/Antoine-Soetewey" }
-  #   { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" },
+    { researchgate = "https://www.researchgate.net/profile/Antoine-Soetewey" },
+    { google-scholar = "https://scholar.google.com/citations?user=1P7ThwUAAAAJ" }
   #   { medium = "https://antoinesoetewey.medium.com/" },
   #   { mastodon = "https://fosstodon.org/@statsandr" }
   #   { email = "mailto:hello@your_domain.com" },
