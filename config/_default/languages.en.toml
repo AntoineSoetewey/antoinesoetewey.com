@@ -12,7 +12,7 @@ title = "Antoine Soetewey"
   # mainSections = ["section1", "section2"]
   description = "Personal website of Antoine Soetewey. PhD researcher and teaching assistant in statistics at UCLouvain"
 
-[author]
+[params.author]
   name = "Antoine Soetewey"
   image = "img/Antoine-Soetewey.jpeg"
   headline = "PhD researcher and teaching assistant in statistics at UCLouvain"
