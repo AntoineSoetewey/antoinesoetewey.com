@@ -7,7 +7,7 @@ layout: "simple"
 
 Mes recherches portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer. Cela englobe l'analyse de survie afin d'estimer de manière adéquate le temps---à partir de la date du diagnostic---après lequel les patients atteints de cancer peuvent être considérés comme guéris.
 
-Un autre objectif de ma thèse de doctorat est de quantifier la surmortalité potentielle et trouver un moyen approprié d'adapter la tarification actuarielle des produits d'assurance-vie en fonction du type de cancer et de la durée de survie au moment de la demande.
+Un autre objectif de ma [thèse de doctorat](https://antoinesoetewey.com/files/PhD_thesis.pdf) est de quantifier la surmortalité potentielle et trouver un moyen approprié d'adapter la tarification actuarielle des produits d'assurance-vie en fonction du type de cancer et de la durée de survie au moment de la demande.
 
 Ce doctorat est un travail conjoint avec Prof. <a href="https://scholar.google.com/citations?user=xyQwjrUAAAAJ" target="_blank" rel="noopener">Catherine Legrand</a> et Prof. <a href="https://scholar.google.com/citations?hl=en&user=P1d_AKAAAAAJ" target="_blank" rel="noopener">Michel Denuit</a>.
 <!--- J'aime aussi appliquer les statistiques et la technologie aux questions de santé et d'éducation ou pour le bien social, ce que l'on appelle communément "data for good".--->
