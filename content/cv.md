@@ -20,10 +20,9 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 ## Education
 
-- 2017 -- Present: **PhD in statistics** -- UCLouvain, Belgium
-- 2015 -- 2016: **MSc in econometrics** -- Maastricht University, Netherlands
-- 2013 -- 2015: **MSc in economics** -- KULeuven, Belgium
-- 2014: **Exchange program in econometrics** -- University of Illinois at Urbana-Champaign, USA
+- 2024: **PhD in statistics** -- UCLouvain, Belgium
+- 2016: **MSc in econometrics** -- Maastricht University, Netherlands
+- 2015: **MSc in economics** -- KULeuven, Belgium
 
 ## Experience
 
