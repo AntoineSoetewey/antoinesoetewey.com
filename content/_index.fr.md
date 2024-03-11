@@ -3,11 +3,12 @@ description: Site personnel d'Antoine Soetewey. Doctorant et assistant en statis
 title: 'Antoine Soetewey'
 ---
 
+<!--
 <br>
-
 {{< alert "circle-info" >}}
 Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui débute entre octobre 2024 et janvier 2025, et (ii) dans un domaine lié à la biostatistique, aux statistiques médicales/santé publique. N'hésitez pas à [me contacter](/fr/contact/) si vous ouvrez un poste qui répond à ces critères.
 {{< /alert >}}
+-->
 
 <br>
 

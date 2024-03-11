@@ -3,11 +3,12 @@ description: Personal website of Antoine Soetewey, PhD researcher and teaching a
 title: 'Antoine Soetewey'
 ---
 
+<!--
 <br>
-
 {{< alert "circle-info" >}}
 I am actively looking for a postdoc position, ideally (i) starting between October 2024 and January 2025, and (ii) in a field related to biostatistics, medical/health statistics or public health. Do not hesitate to [contact me](/contact/) if you have an opening that meets these criteria.
 {{< /alert >}}
+-->
 
 <br>
 
