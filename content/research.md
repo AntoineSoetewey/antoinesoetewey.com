@@ -24,8 +24,8 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 
 ## Preprints & submitted manuscripts
 
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[working paper](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
 - Moury, J., Vandevelde, V., **Soetewey, A.** and Thys, F. (Under review). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.
 
 ## Talks & posters
@@ -47,9 +47,9 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Press & media
 
 <ul>
+    <li>Research: a profession with expertise and passion (UCLouvain) [<a href="https://vimeo.com/924118223" target="_blank" rel="noopener">link</a>]</li>
     <li>The right to be forgotten - Are we all equal when it comes to insurance? (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">link</a>]</li>
     <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
-    <li>Evolution of COVID-19 hospital admissions in Belgium (LN24) [<a href="https://www.facebook.com/watch/live/?v=1173890509637511" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
 ## Memberships & academic service
