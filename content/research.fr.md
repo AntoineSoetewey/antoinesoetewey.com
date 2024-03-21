@@ -52,7 +52,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Comment peut-on prévoir l'évolution du COVID 19 en Belgique ? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">lien</a>]</li>
 </ul>
 
-## Affiliations & service académique
+## Affiliations & services académiques
 
 - *Représentant des doctorants*, Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS (2023 -- Présent)
 - *Représentant des doctorants*, Ecole de statistique, biostatistique et sciences actuarielles, UCLouvain (2020 -- 2022)
