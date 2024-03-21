@@ -52,7 +52,6 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 - R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, GitHub/GitLab, LaTeX
 - Web development
-- See examples of [projects](/software/)
 
 ### Languages
 

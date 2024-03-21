@@ -52,7 +52,6 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 - R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, GitHub/GitLab, LaTeX
 - Développement web
-- Voir des exemples de [projets](/fr/software/)
 
 ### Langues
 
