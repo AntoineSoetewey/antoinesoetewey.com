@@ -13,6 +13,8 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ## Publications
 
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and **Soetewey, A.** (2023). Impact of a Food Rebalancing Program Associated with Plant-Derived Food Supplements on the Biometric, Behavioral, and Biological Parameters of Obese Subjects. *Nutrients*, *15*(22):4780. [[doi.org/10.3390/nu15224780](https://doi.org/10.3390/nu15224780)]
 - Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., **Soetewey, A.**, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://doi.org/10.1007/s13385-022-00308-2" target="_blank" rel="noopener">doi.org/10.1007/s13385-022-00308-2</a>]
@@ -21,12 +23,6 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 {{< alert "circle-info" >}}
 For a detailed list of publications see my <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> or <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a> profile.
 {{< /alert >}}
-
-## Preprints & submitted manuscripts
-
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:274314)]
-- Moury, J., Vandevelde, V., **Soetewey, A.** and Thys, F. (Under review). L’offre d’aide médicale urgente préhospitalière pourrait-elle être modifiée par le glissement sans perte de chance pour le patient de certaines missions du SMUR vers une équipe paramédicale telle que le PIT ? Etude rétrospective dans le contexte de soins de santé belge.
 
 ## Talks & posters
 
