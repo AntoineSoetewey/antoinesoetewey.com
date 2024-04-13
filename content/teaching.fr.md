@@ -9,7 +9,7 @@ Chargé de cours invité pour le cours suivant à UNamur :
 
 - 2024 - Présent : **Méthodes quantitatives avancées** (EINGM105)
 
-Assistant d'enseignement pour les cours suivants à l'[UCLouvain](https://uclouvain.be/) :
+Assistant d'enseignement pour les cours suivants à l'UCLouvain :
 
 <ul>
     <li>2023 - Présent : <b>Exploration de données et introduction à l'inférence statistique</b> (LMAFY1101)</li>
