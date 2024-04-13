@@ -5,11 +5,11 @@ title: Teaching
 layout: "simple"
 ---
 
-Visiting lecturer for the following course at [UNamur](https://www.unamur.be/):
+Visiting lecturer for the following course at UNamur:
 
 - 2024 - Present: **Advanced quantitative methods** (EINGM105)
 
-Teaching assistant for the following courses at [UCLouvain](https://uclouvain.be/):
+Teaching assistant for the following courses at UCLouvain:
 
 <ul>
     <li>2023 - Present: <b>Data exploration and introduction to statistical inference</b> (LMAFY1101)</li>
