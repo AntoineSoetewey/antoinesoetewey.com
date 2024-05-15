@@ -22,7 +22,7 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 - 2024: **PhD in statistics** -- UCLouvain, Belgium
 - 2016: **MSc in econometrics** -- Maastricht University, Netherlands
-- 2015: **MSc in economics** -- KULeuven, Belgium
+- 2015: **MSc in economics** -- KU Leuven, Belgium
 
 ## Experience
 
