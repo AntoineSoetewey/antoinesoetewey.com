@@ -22,7 +22,7 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 - 2024 : **PhD en statistique** -- UCLouvain, Belgique
 - 2016 : **Master en économétrie** -- Maastricht University, Pays-Bas
-- 2015 : **Master en économie** -- KULeuven, Belgique
+- 2015 : **Master en économie** -- KU Leuven, Belgique
 
 ## Expérience
 
