@@ -43,6 +43,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 ## Presse & médias
 
 <ul>
+    <li>Le droit à l'oubli en assurances peut-il être amélioré ? (UCLouvain) [<a href="https://youtu.be/sOWA4u44H7c?si=q3Q5cUDI9puCyyYQ" target="_blank" rel="noopener">link</a>]</li>
     <li>La recherche : un métier, une expertise, de la passion (UCLouvain) [<a href="https://vimeo.com/924118223" target="_blank" rel="noopener">lien</a>]</li>
     <li>Le Droit à l'oubli - Sommes-nous tous égaux face aux assurances ? (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">lien</a>]</li>
     <li>Comment peut-on prévoir l'évolution du COVID 19 en Belgique ? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">lien</a>]</li>
