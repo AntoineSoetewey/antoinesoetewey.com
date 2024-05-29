@@ -7,26 +7,24 @@ layout: "simple"
 
 Visiting lecturer for the following course at UNamur:
 
-- 2024 - Present: **Advanced quantitative methods** (EINGM105)
+- 2023 - 2024: **Advanced quantitative methods** (EINGM105)
 
 Teaching assistant for the following courses at UCLouvain:
 
-<ul>
-    <li>2023 - Present: <b>Data exploration and introduction to statistical inference</b> (LMAFY1101)</li>
-    <li>2022 - Present: <b>Statistics and data sciences with R: Advanced programming</b> (LDATS2030)</li>
-    <li>2022 - Present: <b>Economics and management statistics II</b> (LECGE1224)</li>
-    <li>2022 - Present: <b>Analysis of survival and duration data</b> (LSTAT2220)</li>
-    <li>2021 - Present: <b>Biostatistics and information's critical analysis</b> (LVETE1262)</li>
-    <li>2017 - Present: <b>Statistical processing of data</b> (WFARM1247)</li>
-    <li>2021 - 2022: <b>Econometrics</b> (LINGE1221)</li>
-    <li>2020 - 2021: <b>Statistics and data sciences</b> (LEPL1109)</li>
-    <li>2018 - 2019: <b>Data analysis</b> (LSTAT2110)</li>
-    <li>2019 - 2023: <b>Discrete data analysis</b> (LSTAT2100)</li>
-    <li>2017 - 2023: <b>Statistics</b> (LESPO2102)</li>
-    <li>2017 - 2021: <b>Multivariate statistical analysis</b> (LINGE1222)</li>
-    <li>2017 - 2020: <b>Probability and statistics</b> (LFSAB1105)</li>
-    <li>2017 - 2018: <b>Further statistics</b> (LINGE1214)</li>
-</ul>
+- 2023 - 2024: **Data exploration and introduction to statistical inference** (LMAFY1101)
+- 2022 - 2024: **Statistics and data sciences with R: Advanced programming** (LDATS2030)
+- 2022 - 2024: **Economics and management statistics II** (LECGE1224)
+- 2022 - 2024: **Analysis of survival and duration data** (LSTAT2220)
+- 2021 - 2024: **Biostatistics and information's critical analysis** (LVETE1262)
+- 2017 - 2024: **Statistical processing of data** (WFARM1247)
+- 2021 - 2022: **Econometrics** (LINGE1221)
+- 2020 - 2021: **Statistics and data sciences** (LEPL1109)
+- 2018 - 2019: **Data analysis** (LSTAT2110)
+- 2019 - 2023: **Discrete data analysis** (LSTAT2100)
+- 2017 - 2023: **Statistics** (LESPO2102)
+- 2017 - 2021: **Multivariate statistical analysis** (LINGE1222)
+- 2017 - 2020: **Probability and statistics** (LFSAB1105)
+- 2017 - 2018: **Further statistics** (LINGE1214)
 
 ## Trainings & workshops
 
@@ -37,9 +35,9 @@ I am also instructor for the following university certificates, as part of UCLou
 - Practice of statistics with R
 - Introduction to LaTeX
 
-## Tutoring & consulting
+<!--## Tutoring & consulting
 
 Given my teaching experience at university level, I provide private lessons in statistics, probability, R and data science. I can also help you in performing statistical data analyses for your thesis or your professional projects:
 
 - **Students and researchers**, see more information at [easystat.be](https://easystat.be/)
-- **Professionals and companies**, see more information at [datanalyze.be](https://datanalyze.be/)
+- **Professionals and companies**, see more information at [datanalyze.be](https://datanalyze.be/)-->

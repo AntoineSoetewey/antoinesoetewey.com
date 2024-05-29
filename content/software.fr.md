@@ -7,15 +7,13 @@ layout: "simple"
 
 Vous trouverez ci-dessous divers projets classés par langage de programmation ou par compétence.
 
-Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [soutenir mon travai](https://statsandr.com/support/).
+Si vous voulez m'aider à continuer à développer des projets open source, voyez comment vous pouvez [soutenir mon travail](https://statsandr.com/support/).
 
-## R
-
-### Blog
+## Blog
 
 - [Stats and R](https://statsandr.com/) : un blog sur les statistiques et leurs applications en R, utilisant le package R {blogdown} et Hugo
 
-### Applications Shiny & dashboards
+## Applications Shiny & dashboards
 
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a> : un guide sur comment calculer les probabilités pour les principales distributions de probabilité - comment lire les tables statistiques ?</li>
@@ -30,11 +28,11 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
     <!--<li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Corrélogramme</a> : exemple de matrice de corrélations pour mettre en évidence les variables les plus corrélées d'un ensemble de données</li>-->
 </ul>
 
-### Package R
+## Package R
 
 - [{yll}](/files/years-of-life-lost-yll.pdf) : un package R accessible via <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> pour calculer le nombre d'années de vie perdues
 
-### Divers
+<!--### Divers
 
 - [Liste de lecture](/files/booklist.html)
 - [Carte du monde des pays visités](/files/visited-places.html)
@@ -51,7 +49,7 @@ Si vous voulez m'aider à continuer à développer des projets open source, voye
   <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Site web</a> d'un médecin généraliste</li>
 </ul>
 
-N'hésitez pas à me [contacter](/fr/contact/) si vous avez besoin d'aide pour créer, déployer et héberger votre propre site web.
+N'hésitez pas à me [contacter](/fr/contact/) si vous avez besoin d'aide pour créer, déployer et héberger votre propre site web.-->
 
 ## GitHub
 

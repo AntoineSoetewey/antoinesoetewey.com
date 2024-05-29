@@ -9,13 +9,11 @@ Below you will find various projects sorted by programming language or skill.
 
 If you want to help me to continue developing open source projects, see how you can [support my work](https://statsandr.com/support/).
 
-## R
-
-### Blog
+## Blog
 
 - [Stats and R](https://statsandr.com/): a blog about statistics and its applications in R, using the {blogdown} R package and Hugo
 
-### Shiny apps & dashboards
+## Shiny apps & dashboards
 
 <ul>
     <li><a href="https://antoinesoetewey.shinyapps.io/statistics-101/">Statistics 101</a>: a guide on how to compute probabilities for the main probability distributions - how to read statistical tables?</li>
@@ -30,11 +28,11 @@ If you want to help me to continue developing open source projects, see how you 
     <!--<li><a href="https://antoinesoetewey.shinyapps.io/correlogram/">Correlogram</a>: example of a correlations matrix to highlight the most correlated variables of a dataset</li>-->
 </ul>
 
-### R package
+## R package
 
 - [{yll}](/files/years-of-life-lost-yll.pdf): an R package hosted on <a href="https://CRAN.R-project.org/package=yll" target="_blank" rel="noopener">CRAN</a> to compute the standard and the average years of life lost
 
-### Miscellaneous
+<!--### Miscellaneous
 
 - [Booklist](/files/booklist.html)
 - [World map of visited countries](/files/visited-places.html)
@@ -51,7 +49,7 @@ If you want to help me to continue developing open source projects, see how you 
   <li><a href="https://docteurelsavancaster.com/" target="_blank" rel="noopener">Website</a> of a doctor</li>
 </ul>
 
-Feel free to [contact me](/contact/) if you need help in building, deploying and hosting your own website.
+Feel free to [contact me](/contact/) if you need help in building, deploying and hosting your own website.-->
 
 ## GitHub
 

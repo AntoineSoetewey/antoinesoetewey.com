@@ -25,10 +25,10 @@
   url = "/fr/teaching/"
   weight = 30
   
-[[main]]
-  name = "consulting"
-  url = "https://datanalyze.be/fr/"
-  weight = 40
+# [[main]]
+#   name = "consulting"
+#   url = "https://datanalyze.be/fr/"
+#   weight = 40
   
 [[main]]
   name = "blog"

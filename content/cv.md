@@ -40,9 +40,8 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
   
 ### Industry
 
-- 2018 -- Present: **Consultant** in statistics and data analysis for:
-    + Researchers and academics -- SMCS, Belgium 
-    + Professionals and companies -- [datanalyze.be](https://datanalyze.be/)
+- 2018 -- Present: **Consultant** in statistics and data analysis -- SMCS, Belgium 
+  + Statistical consulting for researchers and academics
 - 2016 -- 2017: **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization
 

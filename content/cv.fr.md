@@ -40,9 +40,8 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 ### Professionnelle
 
-- 2018 -- Présent : **Consultant** en statistique et analyse de données pour:
-  + Chercheurs et universitaires -- SMCS, Belgique
-  + Professionnels et entreprises -- [datanalyze.be](https://datanalyze.be/fr/)
+- 2018 -- Présent : **Consultant** en statistique et analyse de données -- SMCS, Belgique
+  + Consultance statistique pour chercheurs et universitaires
 - 2016 -- 2017 : **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
 

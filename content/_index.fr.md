@@ -14,11 +14,11 @@ Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui d�
 
 Bonjour, je m'appelle Antoine Soetewey. Je suis doctorant en statistique à l'UCLouvain, passionné par les statistiques et ses multiples applications dans le monde réel.
 
-<!---
+<!--
 Je suis particulièrement intéressé par la vulgarisation et la démocratisation des statistiques (et de ses applications dans le programme R) afin de les rendre accessibles à tout le monde.
 -->
 
-En parallèle de mes [recherches](/fr/research/), qui constituent le coeur de ma thèse de doctorat, je donne [cours](/fr/teaching/) en statistiques, probabilités et science des données à l'UCLouvain et UNamur. J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.
+En parallèle de mes [recherches](/fr/research/), qui constituent le coeur de ma thèse de doctorat, je donne [cours](/fr/teaching/) en statistiques, probabilités et science des données à l'UCLouvain et UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
 
 Lorsque je trouve le temps, je code en R et je le partage sur mon [blog](https://statsandr.com/).
 
