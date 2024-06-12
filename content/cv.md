@@ -28,7 +28,7 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 ### Research
 
-- 2017 -- Present: **Doctoral researcher** in statistics -- UCLouvain, Belgium
+- 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
   + Thesis: *Waiting period from diagnosis for mortgage insurance issued to cancer survivors* (supervisors: Prof. Catherine Legrand and Prof. Michel Denuit)
   + See all [publications, posters and talks](/research/)
 
@@ -36,11 +36,11 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 - 2017 -- Present: **Teaching assistant and visiting lecturer** in statistics -- UCLouvain & UNamur, Belgium
   + See all [courses](/teaching/)
-- 2018 -- Present: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
+- 2018 -- 2024: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
   
 ### Industry
 
-- 2018 -- Present: **Consultant** in statistics and data analysis -- SMCS, Belgium 
+- 2018 -- 2024: **Consultant** in statistics and data analysis -- SMCS, Belgium 
   + Statistical consulting for researchers and academics
 - 2016 -- 2017: **Data scientist** -- Business & Decision, Belgium
   + Involved in several projects focusing on data science and data visualization

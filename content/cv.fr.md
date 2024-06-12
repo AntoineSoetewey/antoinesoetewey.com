@@ -28,7 +28,7 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 ### Recherche
 
-- 2017 -- Présent : **Doctorant** en statistique -- UCLouvain, Belgique
+- 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
   + Thèse : *Waiting period from diagnosis for mortgage insurance issued to cancer survivors* (superviseurs : Prof. Catherine Legrand et Prof. Michel Denuit)
   + Voir toutes les [publications, posters et conférences](/fr/research/)
 
@@ -36,11 +36,11 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 - 2017 -- Présent : **Assistant d'enseignement et chargé de cours invité** en statistique -- UCLouvain & UNamur, Belgique
   + Voir tous les [cours](/fr/teaching/)
-- 2018 -- Présent : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
+- 2018 -- 2024 : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
 
 ### Professionnelle
 
-- 2018 -- Présent : **Consultant** en statistique et analyse de données -- SMCS, Belgique
+- 2018 -- 2024 : **Consultant** en statistique et analyse de données -- SMCS, Belgique
   + Consultance statistique pour chercheurs et universitaires
 - 2016 -- 2017 : **Data scientist** -- Business & Decision, Belgique
   + Impliqué dans plusieurs projets axés sur la science des données et la visualisation des données
