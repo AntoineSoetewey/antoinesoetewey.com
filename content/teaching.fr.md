@@ -7,6 +7,7 @@ layout: "simple"
 
 Chargé de cours invité pour le cours suivant à UNamur :
 
+- 2024 - 2025 : **Statistique** (ECGEB152)
 - 2023 - 2024 : **Méthodes quantitatives avancées** (EINGM105)
 
 Assistant d'enseignement pour les cours suivants à l'UCLouvain :
