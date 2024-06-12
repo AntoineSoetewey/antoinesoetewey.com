@@ -5,7 +5,7 @@ title: Enseignement
 layout: "simple"
 ---
 
-Chargé de cours invité pour le cours suivant à UNamur :
+Chargé de cours invité pour les cours suivants à UNamur :
 
 - 2024 - 2025 : **Statistique** (ECGEB152)
 - 2023 - 2024 : **Méthodes quantitatives avancées** (EINGM105)

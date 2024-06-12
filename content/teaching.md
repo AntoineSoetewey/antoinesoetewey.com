@@ -5,7 +5,7 @@ title: Teaching
 layout: "simple"
 ---
 
-Visiting lecturer for the following course at UNamur:
+Visiting lecturer for the following courses at UNamur:
 
 - 2024 - 2025: **Statistics** (ECGEB152)
 - 2023 - 2024: **Advanced quantitative methods** (EINGM105)
