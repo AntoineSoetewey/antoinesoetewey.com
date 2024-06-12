@@ -7,7 +7,7 @@ layout: "simple"
 
 Visiting lecturer for the following course at UNamur:
 
-- 2024 - 2025 : **Statistics** (ECGEB152)
+- 2024 - 2025: **Statistics** (ECGEB152)
 - 2023 - 2024: **Advanced quantitative methods** (EINGM105)
 
 Teaching assistant for the following courses at UCLouvain:
