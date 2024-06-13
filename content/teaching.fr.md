@@ -5,12 +5,12 @@ title: Enseignement
 layout: "simple"
 ---
 
-Chargé de cours invité pour les cours suivants à UNamur :
+Chargé de cours invité à UNamur :
 
 - 2024 - 2025 : **Statistique** (ECGEB152)
 - 2023 - 2024 : **Méthodes quantitatives avancées** (EINGM105)
 
-Assistant d'enseignement pour les cours suivants à l'UCLouvain :
+Assistant d'enseignement à l'UCLouvain :
 
 - 2023 - 2024 : **Exploration de données et introduction à l'inférence statistique** (LMAFY1101)
 - 2022 - 2024 : **Statistique et data sciences avec R: Programmation avancée** (LDATS2030)
@@ -29,7 +29,7 @@ Assistant d'enseignement pour les cours suivants à l'UCLouvain :
 
 ## Formations & ateliers
 
-Je suis également formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>) :
+Formateur pour les certificats universitaires suivants, dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain (SMCS) :
 
 - Introduction à l'analyse de données avec R 
 - Junior data analyst

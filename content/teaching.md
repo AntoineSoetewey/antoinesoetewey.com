@@ -5,12 +5,12 @@ title: Teaching
 layout: "simple"
 ---
 
-Visiting lecturer for the following courses at UNamur:
+Visiting lecturer at UNamur:
 
 - 2024 - 2025: **Statistics** (ECGEB152)
 - 2023 - 2024: **Advanced quantitative methods** (EINGM105)
 
-Teaching assistant for the following courses at UCLouvain:
+Teaching assistant at UCLouvain:
 
 - 2023 - 2024: **Data exploration and introduction to statistical inference** (LMAFY1101)
 - 2022 - 2024: **Statistics and data sciences with R: Advanced programming** (LDATS2030)
@@ -29,7 +29,7 @@ Teaching assistant for the following courses at UCLouvain:
 
 ## Trainings & workshops
 
-I am also instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (<a href="https://sites.uclouvain.be/training/smcs/" target="_blank" rel="noopener">SMCS</a>):
+Instructor for the following university certificates, as part of UCLouvain's technology platform for Statistical Methodology and Computing Service (SMCS):
 
 - Introduction to data analysis with R
 - Junior data analyst
