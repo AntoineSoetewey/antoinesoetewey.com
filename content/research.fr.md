@@ -27,7 +27,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 ## Conférences & posters
 
 <ul>
-    <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Bruxelles, Belgique</li>
+    <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Bruxelles, Belgique [<a href="/files/RSSB_SPF_20June_final.pdf">slides</a>]</li>
     <li>Hackathon de la 30ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2023). UCLouvain, Belgique</li>
     <li>Atelier dans le cadre du 30ème anniversaire de l'Institut de Statistique de l'UCLouvain : "Statistics and its role in societal challenges" (2022). UCLouvain, Belgique [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
     <li>Hackathon de la 28ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2021). ULiège, Belgique [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
