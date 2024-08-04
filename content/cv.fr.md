@@ -14,7 +14,7 @@ Télécharger mon CV
 
 Je suis doctorant en statistique à l'UCLouvain (Belgique), au sein de l'Institut de Statistique, Biostatistique et Sciences Actuarielles. Mes intérêts de recherche portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer.
 
-En parallèle de ma thèse de doctorat, je donne cours de statistiques et probabilités au niveau bachelier et master, à l'UCLouvain en tant qu'assistant et à UNamur en tant que chargé de cours invité. Je donne également des formations et des conseils en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique (SMCS) de l'UCLouvain.
+En parallèle de ma recherche, je suis chargé de cours en statistiques et probabilités au niveau bachelier et master, à l'UCLouvain et à UNamur. Je donne également des formations et des conseils en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique (SMCS) de l'UCLouvain.
 
 ---
 
@@ -35,7 +35,7 @@ En parallèle de ma thèse de doctorat, je donne cours de statistiques et probab
 
 ### Enseignement
 
-- 2024 -- Présent : **Chargé de cours invité** en statistique -- UNamur, Belgique
+- 2024 -- Présent : **Chargé de cours** en statistique -- UCLouvain & UNamur, Belgique
   + Voir tous les [cours](/fr/teaching/)
 - 2017 -- 2024 : **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
 - 2018 -- 2024 : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique

@@ -14,7 +14,7 @@ Download CV
 
 I am a doctoral researcher in statistics at UCLouvain (Belgium), within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on bio-statistical methods applied to cancer patients.
 
-In parallel with my doctoral thesis, I am teaching several courses in statistics and probability at bachelor and master’s level, at UCLouvain as teaching assistant and at UNamur as invited lecturer. I also give trainings and consulting in data science, statistics and R programming for UCLouvain’s technology platform for Statistical Methodology and Computing Service (SMCS).
+In parallel with my research, I am lecturer in statistics and probability at bachelor and master's level, at UCLouvain and UNamur. I also give trainings and consulting in data science, statistics and R programming for UCLouvain's technology platform for Statistical Methodology and Computing Service (SMCS).
 
 ---
 
@@ -35,7 +35,7 @@ In parallel with my doctoral thesis, I am teaching several courses in statistics
 
 ### Teaching
 
-- 2024 -- Present: **Visiting lecturer** in statistics -- UNamur, Belgium
+- 2024 -- Present: **Lecturer** in statistics -- UCLouvain & UNamur, Belgium
   + See all [courses](/teaching/)
 - 2017 -- 2024: **Teaching assistant** in statistics -- UCLouvain, Belgium
 - 2018 -- 2024: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
