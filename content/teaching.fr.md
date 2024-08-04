@@ -5,12 +5,20 @@ title: Enseignement
 layout: "simple"
 ---
 
-### Chargé de cours invité à UNamur
+## Chargé de cours
+
+*UCLouvain :*
+
+- 2024 - 2025 : Analyse statistique multivariée (LINGE1222)
+
+*UNamur :*
 
 - 2024 - 2025 : Statistique (ECGEB152)
 - 2023 - 2024 : Méthodes quantitatives avancées (EINGM105)
 
-### Assistant d'enseignement à l'UCLouvain
+## Assistant d'enseignement
+
+*UCLouvain :*
 
 - 2023 - 2024 : Exploration de données et introduction à l'inférence statistique (LMAFY1101)
 - 2022 - 2024 : Statistique et data sciences avec R: Programmation avancée (LDATS2030)
@@ -27,7 +35,9 @@ layout: "simple"
 - 2017 - 2020 : Probabilité et statistiques (LFSAB1105)
 - 2017 - 2018 : Statistique approfondie (LINGE1214)
 
-### Formateur pour les certificats universitaires de l'UCLouvain
+## Autres
+
+*Certificats universitaires de l'UCLouvain :*
 
 - 2023 : Introduction à LaTeX
 - 2021 - 2023 : Introduction à l'analyse de données avec R 

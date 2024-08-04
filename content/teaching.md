@@ -5,12 +5,20 @@ title: Teaching
 layout: "simple"
 ---
 
-### Visiting lecturer at UNamur
+## Lecturer
+
+*UCLouvain:*
+
+- 2024 - 2025: Multivariate statistical analysis (LINGE1222)
+
+*UNamur:*
 
 - 2024 - 2025: Statistics (ECGEB152)
 - 2023 - 2024: Advanced quantitative methods (EINGM105)
 
-### Teaching assistant at UCLouvain
+## Teaching assistant
+
+*UCLouvain:*
 
 - 2023 - 2024: Data exploration and introduction to statistical inference (LMAFY1101)
 - 2022 - 2024: Statistics and data sciences with R: Advanced programming (LDATS2030)
@@ -27,7 +35,9 @@ layout: "simple"
 - 2017 - 2020: Probability and statistics (LFSAB1105)
 - 2017 - 2018: Further statistics (LINGE1214)
 
-### Instructor for UCLouvain's university certificates
+## Others
+
+*UCLouvain's university certificates:*
 
 - 2023: Introduction to LaTeX
 - 2021 - 2023: Introduction to data analysis with R
