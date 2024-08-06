@@ -52,6 +52,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 
 ## Memberships & academic services
 
-- *Doctoral student representative*, Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS (2023 -- Present)
-- *Doctoral student representative*, Louvain school of statistics, biostatistics and actuarial sciences, UCLouvain (2020 -- 2022)
-- *Member*, Royal Statistical Society of Belgium (2017 -- Present)
+- Reviewer for *Open Forum Infectious Diseases* (2024 -- Present)
+- Doctoral student representative at the *Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS* (2023 -- Present)
+- Doctoral student representative at the Louvain school of statistics, biostatistics and actuarial sciences, UCLouvain* (2020 -- 2022)
+- Member of the *Royal Statistical Society of Belgium* (2017 -- Present)
