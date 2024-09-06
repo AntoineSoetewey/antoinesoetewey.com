@@ -1,9 +1,7 @@
 ---
 description: Contacter Antoine Soetewey
 layout: "simple"
-title: Contactez-moi
+title: Contact
 ---
 
-Pour mes coordonnées à l'UCLouvain, voir ma page d'accueil académique sur <a href="https://uclouvain.be/fr/directories/antoine.soetewey" target="_blank" rel="noopener">uclouvain.be</a>.
-
-Pour toute autre question, vous pouvez me contacter par [email](mailto:ant.soetewey@gmail.com) :envelope:
+Contactez-moi par [email](mailto:antoine.soetewey@uclouvain.be) :envelope:
