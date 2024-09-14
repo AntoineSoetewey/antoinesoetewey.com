@@ -9,7 +9,6 @@ Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxell
 En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à UNamur.
 
 <!--
-
 Je donne également des formations et du conseil en science des données, statistiques et R (logiciel statistique open source) dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique de l'UCLouvain.
 
 Compte tenu de mon expérience, j'accompagne également des :
@@ -17,7 +16,8 @@ Compte tenu de mon expérience, j'accompagne également des :
 - **Etudiants et chercheurs** dans leurs études ou la partie statistique de leur mémoire, TFE, thèse ou projet de recherche, grâce à des cours sur mesure et un accompagnement personnalisé en statistique et probabilité. Voir plus d'informations sur [easystat.be](https://easystat.be/).
 - **Professionnels et entreprises** dans leurs recherches, analyses de données et prises de décisions éclairées en apportant une dimension statistique à leurs projets, quel que soit le secteur, le coeur de métier ou la taille de l'entreprise. Plus d'informations sur [datanalyze.be](https://datanalyze.be/fr/).
 
-Si vous avez besoin d'aide en statistiques, en analyse de données ou en R, n'hésitez pas à me contacter via le site web correspondant !-->
+Si vous avez besoin d'aide en statistiques, en analyse de données ou en R, n'hésitez pas à me contacter via le site web correspondant
+!-->
 
 Pendant mon temps libre, je code en R, écris sur des sujets liés aux statistiques et leurs applications, et partage ces ressources sur mon [blog](https://statsandr.com/), dans un souci de vulgarisation et d’accessibilité.
 

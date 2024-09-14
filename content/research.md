@@ -5,11 +5,17 @@ showTableOfContents: false
 layout: "simple"
 ---
 
+I am involved in the [Beamm](https://beamm.brussels/) project, which aims to develop a microsimulation model of the Belgian tax system. In this capacity, I am a member of several research centers at UCLouvain Saint-Louis Brussels: the *Center for Applied Public Economics* (CAPE), the *Interdisciplinary Research Institute Saint-Louis* (IRIS), and the *Center for Research in Economics* (CEREC).
+
+Previously, my research focused on survival analysis and biostatistical methods applied to cancer patients.
+
+<!--
 My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured.
 
 Another goal of my [PhD thesis](https://antoinesoetewey.com/files/PhD_thesis.pdf) is to quantify the potential excess mortality and to find a proper way to adapt the actuarial pricing of life insurance products depending on the type of cancer and the duration of survival at the time of application.
 
 This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
+!-->
 
 ## Publications
 
