@@ -20,7 +20,7 @@ Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en statistique à
 Je suis particulièrement intéressé par la vulgarisation et la démocratisation des statistiques (et de ses applications dans le programme R) afin de les rendre accessibles à tout le monde.
 -->
 
-En parallèle de mes [recherches](/fr/research/), j'enseigne la statistique en tant que [chargé de cours](/fr/teaching/) invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
+En parallèle de mes [recherches](/fr/research/), j'[enseigne](/fr/teaching/) la statistique en tant que chargé de cours invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
 
 Quand j'en ai l'occasion, je code en R et partage mes connaissances sur mon [blog](https://statsandr.com/).
 
