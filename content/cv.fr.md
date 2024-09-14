@@ -12,9 +12,9 @@ Télécharger mon CV
 
 ## Résumé
 
-Je suis doctorant en statistique à l'UCLouvain (Belgique), au sein de l'Institut de Statistique, Biostatistique et Sciences Actuarielles. Mes intérêts de recherche portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer.
+Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège, où je contribue au projet [Beamm](https://beamm.brussels/), qui vise à développer un modèle de microsimulation du système fiscal belge. Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
-En parallèle de ma recherche, je suis chargé de cours en statistiques et probabilités au niveau bachelier et master, à l'UCLouvain et à UNamur. Je donne également des formations et des conseils en science des données, statistiques et programmation R dans le cadre de la plateforme technologique du Support en Méthodologie et Calcul Statistique (SMCS) de l'UCLouvain.
+En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à UNamur.
 
 ---
 
@@ -29,16 +29,22 @@ En parallèle de ma recherche, je suis chargé de cours en statistiques et proba
 
 ### Recherche
 
+- 2024 -- Présent : **Chercheur postdoctoral** en statistique -- UCLouvain Saint-Louis Bruxelles & HEC Liège, Belgique
 - 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
-  + Thèse : *Waiting period from diagnosis for mortgage insurance issued to cancer survivors* (superviseurs : Prof. Catherine Legrand & Prof. Michel Denuit)
-  + Voir toutes les [publications, posters et conférences](/fr/research/)
+
+{{< alert "circle-info" >}}
+Voir toutes les projets de [recherche](/fr/research/).
+{{< /alert >}}
 
 ### Enseignement
 
-- 2024 -- Présent : **Chargé de cours** en statistique -- UCLouvain & UNamur, Belgique
-  + Voir tous les [cours](/fr/teaching/)
+- 2024 -- Présent : **Chargé de cours invité** en statistique -- UCLouvain & UNamur, Belgique
 - 2017 -- 2024 : **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
 - 2018 -- 2024 : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
+
+{{< alert "circle-info" >}}
+Voir tous les [cours](/fr/teaching/).
+{{< /alert >}}
 
 ### Professionnelle
 

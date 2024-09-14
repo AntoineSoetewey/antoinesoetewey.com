@@ -12,9 +12,9 @@ Download CV
 
 ## Summary
 
-I am a doctoral researcher in statistics at UCLouvain (Belgium), within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on bio-statistical methods applied to cancer patients.
+I am a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège, where I contribute to the [Beamm](https://beamm.brussels/) project, which aims to develop a microsimulation model of the Belgian tax system. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
 
-In parallel with my research, I am lecturer in statistics and probability at bachelor and master's level, at UCLouvain and UNamur. I also give trainings and consulting in data science, statistics and R programming for UCLouvain's technology platform for Statistical Methodology and Computing Service (SMCS).
+In parallel with my [research](/research/), I [teach](/teaching/) statistics and probability at the undergraduate and master's levels as a visiting lecturer at UCLouvain and UNamur.
 
 ---
 
@@ -29,16 +29,22 @@ In parallel with my research, I am lecturer in statistics and probability at bac
 
 ### Research
 
+- 2024 -- Present: **Postdoctoral researcher** in statistics -- UCLouvain Saint-Louis Brussels & HEC Liège, Belgium
 - 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
-  + Thesis: *Waiting period from diagnosis for mortgage insurance issued to cancer survivors* (supervisors: Prof. Catherine Legrand & Prof. Michel Denuit)
-  + See all [publications, posters and talks](/research/)
+
+{{< alert "circle-info" >}}
+See all research [projects](/research/).
+{{< /alert >}}
 
 ### Teaching
 
-- 2024 -- Present: **Lecturer** in statistics -- UCLouvain & UNamur, Belgium
-  + See all [courses](/teaching/)
+- 2024 -- Present: **Visiting lecturer** in statistics -- UCLouvain & UNamur, Belgium
 - 2017 -- 2024: **Teaching assistant** in statistics -- UCLouvain, Belgium
 - 2018 -- 2024: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
+
+{{< alert "circle-info" >}}
+See all [courses](/teaching/).
+{{< /alert >}}
   
 ### Industry
 

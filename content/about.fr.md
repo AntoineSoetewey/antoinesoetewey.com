@@ -4,7 +4,7 @@ layout: "simple"
 title: A propos
 ---
 
-Je suis chercheur postdoctoral en statistique à l’UCLouvain Saint-Louis Bruxelles et HEC Liège, où je contribue au projet [Beamm](https://beamm.brussels/), qui vise à développer un modèle de microsimulation du système fiscal belge. Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
+Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège, où je contribue au projet [Beamm](https://beamm.brussels/), qui vise à développer un modèle de microsimulation du système fiscal belge. Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
 En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à UNamur.
 
@@ -23,4 +23,4 @@ Pendant mon temps libre, je code en R, écris sur des sujets liés aux statistiq
 
 J'aime aussi faire du sport, lire des livres sur les statistiques, l’économie (comportementale), la gestion/finance personnelle ou la psychologie, et voyager à travers le monde.
 
-N’hésitez pas à me [contacter](/fr/contact/) pour toute question.
+N'hésitez pas à me [contacter](/fr/contact/) pour toute question.

@@ -4,4 +4,4 @@ layout: "simple"
 title: Contact
 ---
 
-Contactez-moi par [email](mailto:antoine.soetewey@uclouvain.be) :envelope:
+Pour toute question ou demande d'information, n'hésitez pas à me contacter par [e-mail](mailto:antoine.soetewey@uclouvain.be) :envelope:
