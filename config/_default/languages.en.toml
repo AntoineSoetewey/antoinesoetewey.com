@@ -10,13 +10,13 @@ title = "Antoine Soetewey"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Personal website of Antoine Soetewey. Doctoral researcher and teaching assistant in statistics at UCLouvain"
+  description = "Personal website of Antoine Soetewey, postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège"
 
 [params.author]
   name = "Antoine Soetewey"
   image = "img/Antoine-Soetewey.jpeg"
-  headline = "Doctoral researcher and teaching assistant in statistics at UCLouvain"
-  bio = "Personal website of Antoine Soetewey. Doctoral researcher and teaching assistant in statistics at UCLouvain"
+  headline = "Postdoctoral researcher in statistics"
+  bio = "Personal website of Antoine Soetewey, postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
     { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },

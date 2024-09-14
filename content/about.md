@@ -1,12 +1,12 @@
 ---
-description: Personal website of Antoine Soetewey. Doctoral researcher and teaching assistant in statistics at UCLouvain
+description: Personal website of Antoine Soetewey, postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège
 layout: "simple"
 title: About
 ---
 
-I am a doctoral researcher in statistics at UCLouvain within the Institute of Statistics, Biostatistics and Actuarial Sciences. My [research interests](/research/) focus on survival analysis and bio-statistical methods applied to cancer patients. 
+I am a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège, where I contribute to the [Beamm](https://beamm.brussels/) project, which aims to develop a microsimulation model of the Belgian tax system. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
 
-In parallel with my research, I am [teaching](/teaching/) several courses in statistics and probability at bachelor and master's level at UCLouvain and UNamur. I also give trainings and consulting in data science, statistics and R (an open source statistical software program) as part of UCLouvain's technology platform for Statistical Methodology and Computing Service. See more in my [CV](/cv/).
+In parallel with my [research](/research/), I [teach](/teaching/) statistics and probability at the undergraduate and master's levels as a visiting lecturer at UCLouvain and UNamur.
 
 <!--Given my experience, I also support:
 
@@ -15,8 +15,8 @@ In parallel with my research, I am [teaching](/teaching/) several courses in sta
 
 If you need help in statistics, data analysis or R, feel free to contact me via the corresponding website!-->
 
-In my spare time, I like to code, write about statistics and its applications in R, and share it on my [blog](https://statsandr.com/) to popularize and make it understandable for more people.
+In my free time, I code in R, write about topics related to statistics and their applications, and share these resources on my [blog](https://statsandr.com/) to make them accessible and easy to understand.
 
-I also enjoy playing sports, reading nonfiction [books](/files/booklist.html) on statistics, (behavioral) economics, management/personal finance or psychology and [traveling](/files/visited-places.html) around the globe.
+I also enjoy sports, reading books on statistics, (behavioral) economics, personal finance/management, and psychology, as well as traveling around the world.
 
-Do not hesitate to [contact me](/contact/) if you have any questions or inquiries.
+Feel free to [contact me](/contact/) if you have any questions.

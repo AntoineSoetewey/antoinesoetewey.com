@@ -1,5 +1,5 @@
 ---
-description: Personal website of Antoine Soetewey, doctoral researcher and teaching assistant in statistics at UCLouvain
+description: Personal website of Antoine Soetewey, postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège
 title: 'Antoine Soetewey'
 ---
 
@@ -12,15 +12,16 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br>
 
-Hello, my name is Antoine Soetewey. I am a doctoral researcher in statistics at UCLouvain, passionate about statistics and its multiple applications in the real world.
+Hello, I'm Antoine Soetewey, a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège.
 
 <!--
+, passionate about statistics and its multiple applications in the real world.
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
 -->
 
-In parallel with my [research](/research/), which constitutes the core of my PhD thesis, I am [teaching](/teaching/) several courses in statistics, probability and data science at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
+Alongside my [research](/research/), I also teach statistics as a [visiting lecturer](/teaching/) at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
 
-When I find the time, I code in R and share it on my [blog](https://statsandr.com/).
+In my free time, I enjoy coding in R and sharing insights on my [blog](https://statsandr.com/).
 
 <br>
 

@@ -10,13 +10,13 @@ title = "Antoine Soetewey"
   dateFormat = "2 January 2006"
 
   # mainSections = ["samples"]
-  description = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
+  description = "Site personnel d'Antoine Soetewey, chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège"
 
 [params.author]
   name = "Antoine Soetewey"
   image = "img/Antoine-Soetewey.jpeg"
-  headline = "Doctorant et assistant en statistique à l'UCLouvain"
-  bio = "Site personnel d'Antoine Soetewey. Doctorant et assistant en statistique à l'UCLouvain"
+  headline = "Chercheur postdoctoral en statistique"
+  bio = "Site personnel d'Antoine Soetewey, chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège"
   links = [
     { github = "https://github.com/AntoineSoetewey" },
     { linkedin = "https://www.linkedin.com/in/antoinesoetewey/" },
