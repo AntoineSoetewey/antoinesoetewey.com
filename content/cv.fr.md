@@ -33,7 +33,7 @@ En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les 
 - 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
 
 {{< alert "circle-info" >}}
-Voir toutes les projets de [recherche](/fr/research/).
+Voir toutes les [projets de recherche](/fr/research/).
 {{< /alert >}}
 
 ### Enseignement
