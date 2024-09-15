@@ -33,7 +33,7 @@ In parallel with my [research](/research/), I [teach](/teaching/) statistics and
 - 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
 
 {{< alert "circle-info" >}}
-See all research [projects](/research/).
+See all [research projects](/research/).
 {{< /alert >}}
 
 ### Teaching
