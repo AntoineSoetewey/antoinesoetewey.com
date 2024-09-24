@@ -4,7 +4,7 @@ layout: "simple"
 title: About
 ---
 
-I am a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège, where I contribute to the [Beamm](https://beamm.brussels/) project, which aims to develop a microsimulation model of the Belgian tax system. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
+I am a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège, where I contribute to both the [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) and ODALON (Open multimodal Data for Automated Local News) projects. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
 
 In parallel with my [research](/research/), I [teach](/teaching/) statistics and probability at the undergraduate and master's levels as a visiting lecturer at UCLouvain and UNamur.
 

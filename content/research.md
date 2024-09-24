@@ -5,7 +5,9 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-I am involved in the [Beamm](https://beamm.brussels/) project, which aims to develop a microsimulation model of the Belgian tax system. In this capacity, I am a member of several research centers at UCLouvain Saint-Louis Brussels: the *Center for Applied Public Economics* (CAPE), the *Interdisciplinary Research Institute Saint-Louis* (IRIS), and the *Center for Research in Economics* (CEREC).
+I am involved in both the [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) and ODALON (Open multimodal Data for Automated Local News) projects. In this capacity, I am a member of the *Center for Applied Public Economics (CAPE)* at UCLouvain Saint-Louis Brussels and the *Center for Quantitative Methods and Operations Management (QuantOM)* at HEC Liège.
+
+The Beamm project aims to develop a microsimulation model to simulate the impact of policy measures on the Belgian population. The ODALON project, on the other hand, aims to develop a platform that partially automates the production of local news.
 
 Previously, my research focused on survival analysis and biostatistical methods applied to cancer patients.
 

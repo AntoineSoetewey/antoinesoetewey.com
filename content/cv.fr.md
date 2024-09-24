@@ -12,7 +12,7 @@ Télécharger mon CV
 
 ## Résumé
 
-Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège, où je contribue au projet [Beamm](https://beamm.brussels/), qui vise à développer un modèle de microsimulation du système fiscal belge. Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
+Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et HEC Liège, où je contribue aux projets [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) et ODALON (Open multimodal Data for Automated Local News). Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
 En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à UNamur.
 
