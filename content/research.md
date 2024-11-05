@@ -21,7 +21,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ## Publications
 
-- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. [[preprint](https://dial.uclouvain.be/pr/boreal/object/boreal:281061)]
+- **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2024). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. <i>European Actuarial Journal.</i> [[dx.doi.org/10.1007/s13385-024-00403-6](http://dx.doi.org/10.1007/s13385-024-00403-6)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (Under review). Health indices for disease incidence and duration in the Semi-Markov setting. [[preprint](http://hdl.handle.net/2078.1/274314)]
 - **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *PhD thesis*, UCLouvain, Belgium. [[pdf](http://hdl.handle.net/2078.1/291928)]
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and **Soetewey, A.** (2023). Impact of a Food Rebalancing Program Associated with Plant-Derived Food Supplements on the Biometric, Behavioral, and Biological Parameters of Obese Subjects. *Nutrients*, *15*(22):4780. [[doi.org/10.3390/nu15224780](https://doi.org/10.3390/nu15224780)]
