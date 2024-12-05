@@ -19,7 +19,7 @@ Hello, I'm Antoine Soetewey, a postdoctoral researcher in statistics at UCLouvai
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
 -->
 
-Alongside my [research](/research/), I [teach](/teaching/) statistics as a visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
+Alongside my [research](/research/), I [teach](/teaching/) statistics as visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
 
 In my free time, I enjoy coding in R and sharing insights on my [blog](https://statsandr.com/).
 
