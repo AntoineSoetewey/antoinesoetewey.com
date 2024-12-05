@@ -6,7 +6,7 @@ title: About
 
 I am a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège. I contribute to the [Beamm](https://beamm.brussels/) (Belgian Arithmetic Microsimulation Model) project, which focuses on economic policy simulation, and the ODALON (Open multimodal Data for Automated Local News) project, which leverages data science to enhance journalism and enable the partial automation of local news.
 
-Before that, I obtained a PhD in statistics from UCLouvain, focusing on survival analysis and the implementation of biostatistical methods applied to cancer patients. I also hold a Master in Economics from UCLouvain and a Master in Econometrics from Maastricht University.
+Before that, I obtained a PhD in statistics from UCLouvain, focusing on survival analysis and the implementation of biostatistical methods applied to cancer patients. I also hold a Master in Economics from KU Leuven and a Master in Econometrics from Maastricht University.
 
 My [research interests](/research/) include (bio)statistics, data science, and the development of methods to analyze complex datasets. Passionate about making statistics accessible to everyone, I leverage open-source statistical programming languages like R to democratize the use and understanding of statistical tools.
 
