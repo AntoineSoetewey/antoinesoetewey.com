@@ -9,7 +9,7 @@ Je participe aux projets [Beamm](https://beamm.brussels/) (BElgian Arithmetic Mi
 
 Le projet Beamm vise à développer un modèle de microsimulation pour simuler l’impact des mesures politiques sur la population belge. Le projet ODALON, quant à lui, vise à développer une plateforme automatisant partiellement la production d’informations locales.
 
-Auparavant, mes recherches se concentraient sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
+Mes domaines de recherche incluent les (bio)statistiques, la science des données et le développement de méthodes pour analyser des ensembles de données complexes. Passionné par l’idée de rendre les statistiques accessibles à toutes et tous, j’utilise des langages de programmation statistique open-source, comme R, pour démocratiser l'utilisation et la compréhension des outils statistiques.  
 
 <!--
 Mes recherches portent sur les méthodes bio-statistiques appliquées aux patients atteints de cancer. Cela englobe l'analyse de survie afin d'estimer de manière adéquate le temps---à partir de la date du diagnostic---après lequel les patients atteints de cancer peuvent être considérés comme guéris.

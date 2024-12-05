@@ -5,11 +5,11 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-I am involved in both the [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) and ODALON (Open multimodal Data for Automated Local News) projects. In this capacity, I am a member of the *Center for Applied Public Economics (CAPE)* at UCLouvain Saint-Louis Brussels and the *Center for Quantitative Methods and Operations Management (QuantOM)* at HEC Liège.
+I am involved in both the [Beamm](https://beamm.brussels/) (Belgian Arithmetic Microsimulation Model) and ODALON (Open multimodal Data for Automated Local News) projects. In this capacity, I am a member of the Center for Applied Public Economics (CAPE) at UCLouvain Saint-Louis Brussels and the Center for Quantitative Methods and Operations Management (QuantOM) at HEC Liège.
 
 The Beamm project aims to develop a microsimulation model to simulate the impact of policy measures on the Belgian population. The ODALON project, on the other hand, aims to develop a platform that partially automates the production of local news.
 
-Previously, my research focused on survival analysis and biostatistical methods applied to cancer patients.
+My research interests include (bio)statistics, data science, and the development of methods to analyze complex datasets. Passionate about making statistics accessible to everyone, I leverage open-source statistical programming languages like R to democratize the use and understanding of statistical tools.
 
 <!--
 My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured.

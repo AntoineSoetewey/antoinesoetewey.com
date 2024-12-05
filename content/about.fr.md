@@ -8,7 +8,7 @@ Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxell
 
 Avant cela, j’ai obtenu un doctorat en statistique à l'UCLouvain, avec un focus sur l’analyse de survie et l'implémentation de méthodes biostatistiques appliquées aux patients atteints de cancer. Je suis également titulaire d’un master en économie de l’UCLouvain et d’un master en économétrie de Maastricht University.  
 
-Mes domaines de [recherche](/fr/research/) incluent les (bio)statistiques, la science des données et le développement de méthodes pour analyser des ensembles de données complexes. Passionné par l’idée de rendre les statistiques accessibles à toutes et tous, j’utilise des langages de programmation statistique open-source, comme R, pour démocratiser l'utilisation et la compréhension des outils statistiques.  
+Mes [domaines de recherche](/fr/research/) incluent les (bio)statistiques, la science des données et le développement de méthodes pour analyser des ensembles de données complexes. Passionné par l’idée de rendre les statistiques accessibles à toutes et tous, j’utilise des langages de programmation statistique open-source, comme R, pour démocratiser l'utilisation et la compréhension des outils statistiques.  
 
 En parallèle de mes activités de recherche, j'[enseigne](/fr/teaching/) les statistiques et les probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à l'UNamur.  
 
