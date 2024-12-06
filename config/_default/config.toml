@@ -8,8 +8,10 @@ baseURL = "https://antoinesoetewey.com/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 googleAnalytics = "G-S64FSW4TK3"
 

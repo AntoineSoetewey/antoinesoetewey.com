@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.10.0] - 2024-12-06
+
+### Changed
+
+- ⚠️ Required Hugo version is now 0.128.0 or later
+- Adopted new `hugo.IsMultilingual` parameter ([#921](https://github.com/jpanther/congo/pull/921))
+- Adopted new `pagination.pagerSize` config parameter ([#945](https://github.com/jpanther/congo/issues/945))
+- Upgrade to Tailwind v3.4.16 ([#934](https://github.com/jpanther/congo/pull/934), [#947](https://github.com/jpanther/congo/pull/947), [#954](https://github.com/jpanther/congo/pull/954), [#973](https://github.com/jpanther/congo/pull/973))
+- Upgrade to Mermaid v11.4.1 ([#931](https://github.com/jpanther/congo/pull/931), [#946](https://github.com/jpanther/congo/pull/946), [#957](https://github.com/jpanther/congo/pull/957), [#971](https://github.com/jpanther/congo/pull/971))
+- Upgrade to ChartJS v4.4.7 ([#953](https://github.com/jpanther/congo/pull/953), [#972](https://github.com/jpanther/congo/pull/972))
+- Updated Traditional Chinese translation ([#949](https://github.com/jpanther/congo/pull/949))
+- Updated Bulgarian translation ([#963](https://github.com/jpanther/congo/pull/963))
+
+### Fixed
+
+- Example site not building due to an issue in the `zh-Hans` translated content ([#944](https://github.com/jpanther/congo/issues/944))
+- Bluesky icon not picking up theme colour ([#955](https://github.com/jpanther/congo/issues/955))
+
 ## [2.9.0] - 2024-08-29
 
 ### Added
@@ -905,7 +923,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.9.0...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.10.0...HEAD
+[2.10.0]: https://github.com/jpanther/congo/compare/v2.9.0...v2.10.0
 [2.9.0]: https://github.com/jpanther/congo/compare/v2.8.2...v2.9.0
 [2.8.2]: https://github.com/jpanther/congo/compare/v2.8.1...v2.8.2
 [2.8.1]: https://github.com/jpanther/congo/compare/v2.8.0...v2.8.1
