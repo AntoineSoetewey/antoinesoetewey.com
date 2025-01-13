@@ -62,6 +62,6 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 ## Affiliations & services académiques
 
 - Réviseur pour *Open Forum Infectious Diseases* (2024 -- Présent)
-- Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* (2023 -- Présent)
+- Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* (2023 -- 2024)
 - Représentant des doctorants à l'*Ecole de statistique, biostatistique et sciences actuarielles, UCLouvain* (2020 -- 2022)
 - Membre de la *Société Royale Belge de Statistique* (2017 -- Présent)
