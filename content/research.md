@@ -63,7 +63,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
     <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
-## Memberships & academic service
+## Affiliations & academic service
 
 - Reviewer for *Open Forum Infectious Diseases* and *SoftwareX* (2024 -- Present)
 - Doctoral student representative at the *Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS* (2023 -- 2024)
