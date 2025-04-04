@@ -9,7 +9,11 @@ I am involved in both the [Beamm](https://beamm.brussels/) (Belgian Arithmetic M
 
 The Beamm project aims to develop a microsimulation model to simulate the impact of policy measures on the Belgian population. The ODALON project, on the other hand, aims to develop a platform that partially automates the production of local news.
 
-My research interests include (bio)statistics, data science, and the development of methods to analyze complex datasets. Passionate about making statistics accessible to everyone, I leverage open-source statistical programming languages like R to democratize the use and understanding of statistical tools.
+My research interests lie in (bio)statistics, data science, and predictive modeling, using a wide range of methods from traditional statistical models to advanced machine learning techniques. I develop rigorous analyses tailored to the specificities of the data studied, with particular attention paid to the interpretability of the results and their practical application.
+
+In this perspective, and driven by the idea of making statistics accessible to everyone, I use open-source programming languages, such as R, to promote their use and understanding among a wider audience.
+
+Below, you will find a list of my scientific publications and communications, as well as my academic affiliations and service.
 
 <!--
 My research interests focus on bio-statistical methods applied to cancer patients. This encompasses survival analysis to adequately estimate the time---starting from the date of diagnosis---after which cancer patients can be considered as cured.
@@ -59,7 +63,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
     <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
-## Memberships & academic services
+## Memberships & academic service
 
 - Reviewer for *Open Forum Infectious Diseases* and *SoftwareX* (2024 -- Present)
 - Doctoral student representative at the *Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS* (2023 -- 2024)
