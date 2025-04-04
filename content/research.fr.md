@@ -9,7 +9,7 @@ Je participe aux projets [Beamm](https://beamm.brussels/) (BElgian Arithmetic Mi
 
 Le projet Beamm vise à développer un modèle de microsimulation pour simuler l’impact des mesures politiques sur la population belge. Le projet ODALON, quant à lui, vise à développer une plateforme automatisant partiellement la production d’informations locales.
 
-Mes intérêts de recherche portent sur les (bio)statistiques, la science des données et la modélisation prédictive, en mobilisant un large éventail de méthodes allant des modèles statistiques traditionnels aux techniques avancées de machine learning. Je développe des analyses rigoureuses adaptées aux spécificités des données étudiées, en accordant une attention particulière à l’interprétabilité des résultats et à leur application concrète.
+Mes intérêts de recherche portent sur les (bio)statistiques, la science des données et la modélisation prédictive, en utilisant un large éventail de méthodes allant des modèles statistiques traditionnels aux techniques avancées de machine learning. Je développe des analyses rigoureuses adaptées aux spécificités des données étudiées, en accordant une attention particulière à l’interprétabilité des résultats et à leur application concrète.
 
 Dans cette perspective, et passionné par l’idée de rendre les statistiques accessibles à toutes et tous, j’utilise des langages de programmation open-source, tels que R, pour promouvoir leur utilisation et leur compréhension par un large public.
 
