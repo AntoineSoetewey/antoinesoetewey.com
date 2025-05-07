@@ -40,6 +40,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Talks & posters
 
 <ul>
+    <li>92nd Acfas Congress: In search of automated media: thinking about the role of "artificial intelligence" and algorithms in media communication today (2025). École de technologie supérieure (ÉTS), Canada [<a href="/files/ACFAS-AM.pdf">slides</a>]</li>
     <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Brussels, Belgium [<a href="/files/RSSB_SPF_20June_final.pdf">slides</a>]</li>
     <li>Hackathon of the 30th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2023). UCLouvain, Belgium</li>
     <li>Workshop on behalf of the 30th anniversary of the UCLouvain's Institute of Statistics: "Statistics and its role in societal challenges" (2022). UCLouvain, Belgium [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
