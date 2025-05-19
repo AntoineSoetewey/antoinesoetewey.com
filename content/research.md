@@ -40,17 +40,18 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Talks & posters
 
 <ul>
-    <li>92nd Acfas Congress: In search of automated media: thinking about the role of "artificial intelligence" and algorithms in media communication today (2025). École de technologie supérieure (ÉTS), Canada [<a href="/files/ACFAS-AM.pdf">slides</a>]</li>
+    <li>1st international Beamm conference on public finance and policy evaluation (2025). UCLouvain Saint-Louis Bruxelles, Belgique [<a href="/files/poster_beamm_2025.pdf">poster</a>]</li>
+    <li>92nd Acfas congress: In search of automated media: thinking about the role of "artificial intelligence" and algorithms in media communication today (2025). École de technologie supérieure (ÉTS), Canada [<a href="/files/ACFAS-AM.pdf">slides</a>]</li>
     <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Brussels, Belgium [<a href="/files/RSSB_SPF_20June_final.pdf">slides</a>]</li>
     <li>Hackathon of the 30th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2023). UCLouvain, Belgium</li>
     <li>Workshop on behalf of the 30th anniversary of the UCLouvain's Institute of Statistics: "Statistics and its role in societal challenges" (2022). UCLouvain, Belgium [<a href="/files/Poster_30_years_ISBA.pdf">poster</a>]</li>
     <li>Hackathon of the 28th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2021). ULiège, Belgium [<a href="/files/slides_rssbhackathon2021.pdf">slides</a>]</li>
-    <li>Young Researchers Day (2021). UCLouvain, Belgium [<a href="/files/YRD_2021.pdf">slides</a>]</li>
-    <li>15th Clinical epidemiology conference (EPICLIN) (2021). Marseille, France [<a href="/files/Poster_EPICLIN_2021.pdf">poster</a>, awarded best poster by the scientific committee]</li>
+    <li>Young researchers day (2021). UCLouvain, Belgium [<a href="/files/YRD_2021.pdf">slides</a>]</li>
+    <li>15th clinical epidemiology conference (EPICLIN) (2021). Marseille, France [<a href="/files/Poster_EPICLIN_2021.pdf">poster</a>, awarded best poster by the scientific committee]</li>
     <li>Scientific exchange day: "Cure models: estimating the recovery time to improve access to insurance" (2020). French National Cancer Institute (INCa), France [<a href="/files/Journee_modeles_de_guerison.pdf">slides</a>]</li>
     <li>Workshop: "How can we predict the evolution of Covid-19 in Belgium?" (2020). UCLouvain, Belgium [<a href="/files/slides-how-can-we-predict-the-evolution-of-covid-19-in-Belgium.pdf">slides</a>]</li>
-    <li>26th Annual meeting of the Royal Statistical Society of Belgium (RSSB) (2018). Domaine des Hautes Fagnes, Belgium [<a href="/files/Poster_RSSB_2018.pdf">poster</a>]</li>
-    <li>Young Researchers Day (2018). UCLouvain, Belgium [<a href="/files/YRD_2018_AntoineSoetewey.pdf">slides</a>]</li>
+    <li>26th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2018). Domaine des Hautes Fagnes, Belgium [<a href="/files/Poster_RSSB_2018.pdf">poster</a>]</li>
+    <li>Young researchers day (2018). UCLouvain, Belgium [<a href="/files/YRD_2018_AntoineSoetewey.pdf">slides</a>]</li>
     <li>Workshop: "Insurability of people who have had cancer" (2018). UCLouvain, Belgium [<a href="/files/Workshop_May_29__2018___Assurabilit__des_personnes_ayant_eu_un_cancer__.pdf">slides</a>]</li>
     <li>Joint PhD seminar in statistics, actuarial and financial mathematics (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
