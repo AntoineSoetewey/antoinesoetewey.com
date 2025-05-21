@@ -40,7 +40,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 ## Talks & posters
 
 <ul>
-    <li>1st international Beamm conference on public finance and policy evaluation (2025). UCLouvain Saint-Louis Bruxelles, Belgique [<a href="/files/poster_beamm_2025.pdf">poster</a>]</li>
+    <li>1st international Beamm conference on public finance and policy evaluation (2025). UCLouvain Saint-Louis Bruxelles, Belgique [<a href="/files/poster_beamm_2025.pdf">poster</a> and <a href="/files/Association_Explorer_Beamm_conference_2025.mp4">video</a>]</li>
     <li>92nd Acfas congress: In search of automated media: thinking about the role of "artificial intelligence" and algorithms in media communication today (2025). École de technologie supérieure (ÉTS), Canada [<a href="/files/ACFAS-AM.pdf">slides</a>]</li>
     <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Brussels, Belgium [<a href="/files/RSSB_SPF_20June_final.pdf">slides</a>]</li>
     <li>Hackathon of the 30th annual meeting of the Royal Statistical Society of Belgium (RSSB) (2023). UCLouvain, Belgium</li>

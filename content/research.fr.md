@@ -40,7 +40,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 ## Conférences & posters
 
 <ul>
-    <li>1ère conférence internationale Beamm sur les finances publiques et l'évaluation des politiques (2025). UCLouvain Saint-Louis Bruxelles, Belgique [<a href="/files/poster_beamm_2025.pdf">poster</a>]</li>
+    <li>1ère conférence internationale Beamm sur les finances publiques et l'évaluation des politiques (2025). UCLouvain Saint-Louis Bruxelles, Belgique [<a href="/files/poster_beamm_2025.pdf">poster</a> et <a href="/files/Association_Explorer_Beamm_conference_2025.mp4">vidéo</a>]</li>
     <li>92ème congrès de l'Acfas : À la recherche des médias automatisés : penser le rôle des "intelligences artificielles" et des algorithmes dans la communication médiatisée aujourd'hui (2025). École de technologie supérieure (ÉTS), Canada [<a href="/files/ACFAS-AM.pdf">slides</a>]</li>
     <li>One-day symposium: "Statistics, data science, artificial intelligence - Shaping the future together" (2024). Bruxelles, Belgique [<a href="/files/RSSB_SPF_20June_final.pdf">slides</a>]</li>
     <li>Hackathon de la 30ème réunion annuelle de la Société Royale Belge de Statistique (RSSB) (2023). UCLouvain, Belgique</li>
