@@ -9,11 +9,11 @@ layout: "simple"
 
 *UCLouvain:*
 
-- 2024 - 2025: Multivariate statistical analysis (LINGE1222)
+- 2024 - Present: Multivariate statistical analysis (LINGE1222)
 
 *UNamur:*
 
-- 2024 - 2025: Statistics (ECGEB152)
+- 2024 - Present: Statistics (ECGEB152)
 - 2023 - 2024: Advanced quantitative methods (EINGM105)
 
 ## Teaching assistant
