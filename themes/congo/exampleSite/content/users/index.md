@@ -41,7 +41,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [medical-humanities](https://medical-humanities.org)                   | Academic site                     |
 | [boyersnet.com](https://boyersnet.com)                                 | Personal site and Blog            |
 | [major.io](https://major.io)                                           | Personal site and Blog            |
-| [顾宇的博客](https://www.guyu.me/)                                     | Personal Blog (in Chinese)        |
+| [顾宇的博客](https://www.guyu.me/)                                       | Personal Blog (in Chinese)        |
 | [cgutierr-zgz.github.io](https://cgutierr-zgz.github.io/)              | Personal site and Tech blog       |
 | [adam.sr](https://adam.sr)                                             | Personal site and Blog            |
 | [kpavlov.me](https://kpavlov.me)                                       | Personal site and Blog            |
@@ -70,15 +70,24 @@ The list below is just a handful of the websites that are built using the Congo 
 | [kylecapehart.com](https://kylecapehart.com/)                          | Personal Site and Blog            |
 | [hosni.info](https://hosni.info/)                                      | Personal site and Tech Blog       |
 | [mattstrayer.com](https://www.mattstrayer.com/)                        | Personal Site and Blog            |
-| [noamlerner.com](https://www.noamlerner.com/)                          | Personal blog (English/Hebrew)    |
+| [noamlerner.com](https://noamlerner.com/)                              | Personal blog (English/Hebrew)    |
 | [jneidel.com](https://jneidel.com)                                     | Personal site and blog            |
 | [clementfouque.com](https://clementfouque.com)                         | Personal Site and Tech Blog       |
 | [victoryuan.com](https://victoryuan.com)                               | Personal Site and blog            |
 | [chenyu.blog](https://chenyu.blog)                                     | Personal site and blog            |
 | [g-snipes.github.io](https://g-snipes.github.io./)                     | Personal site and Music/Tech blog |
 | [aimtune.dev](https://aimtune.dev/)                                    | Personal blog (Turkish/English)   |
-| [blog.ny4.dev](https://blog.ny4.dev)                                   | Personal site and blog (en/zh)    |
 | [socrabytes.github.io](https://socrabytes.github.io)                   | Personal site and Tech Blog       |
+| [blog.pitermarx.com](https://blog.pitermarx.com)                       | Personal Site                     |
 | [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com)       | Personal Site and Blog            |
+| [euangelos.linardos.gr](https://euangelos.linardos.gr)                 | Personal Site and Blog            |
+| [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
+| [Rwhither's Blog](https://blog.sky123.top)                             | Personal site and blog            |
+| [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
+| [bitingbytes.de](https://bitingbytes.de)                               | Personal Site and Blog            |
+| [janela.digital](https://janela.digital/)                              | Personal Blog (in Portuguese)     |
+| [leavex.eu](https://leavex.eu)                                         | Leave X Campaign Site             |
+| [andreaceccanti.com](https://andreaceccanti.com)                       | Personal Site (in Italian)        |
+| [cmp1315.com](https://cmp1315.com/)                                    | Site for medical center           |
 
 **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).

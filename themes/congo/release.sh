@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # get current branch
 branch=$(git symbolic-ref HEAD | sed -e 's,.*/\(.*\),\1,')
@@ -13,7 +13,7 @@ npm run build
 if [ $branch = "dev" ]; then
 	# check current branch is clean
 	if output=$(git status --porcelain) && [ -z "$output" ]; then
-		
+
 		# get the version number
 		echo "Enter the release version (eg. 1.2.0):"
 		read version
@@ -23,6 +23,7 @@ if [ $branch = "dev" ]; then
 		# update package version
 		jq --arg version "$version" '.version=$version' package.json > package.tmp && mv package.tmp package.json
 		sed -i "" -e "1s/^\(\/\*! Congo \)v[0-9]\{1,\}\.[0-9]\{1,\}\.[0-9]\{1,\}/\1v$version/" assets/css/main.css
+		npm install --package-lock-only
 
 		# update changelog
 		chan release $version || exit
@@ -59,10 +60,10 @@ if [ $branch = "dev" ]; then
 
 		git checkout dev
 
-	else	
+	else
 		echo "ERROR: There are unstaged changes in development!"
 		echo "Clean the working directory and try again."
 	fi
-else 
+else
 	echo "ERROR: Releases can only be published from the dev branch!"
 fi

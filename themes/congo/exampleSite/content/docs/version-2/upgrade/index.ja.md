@@ -125,8 +125,10 @@ config.toml`ファイルには、Hugoの基本設定値のみが含まれるよ�
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

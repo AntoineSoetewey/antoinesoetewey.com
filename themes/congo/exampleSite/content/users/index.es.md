@@ -70,13 +70,20 @@ La lista a continuación es solo un puñado de sitios web creados con el tema Co
 | [kylecapehart.com](https://kylecapehart.com/)                          | Personal Site and Blog            |
 | [hosni.info](https://hosni.info/)                                      | Personal site and Tech Blog       |
 | [mattstrayer.com](https://www.mattstrayer.com/)                        | Personal Site and Blog            |
-| [noamlerner.com](https://www.noamlerner.com/)                          | Personal blog (English/Hebrew)    |
+| [noamlerner.com](https://noamlerner.com/)                              | Personal blog (English/Hebrew)    |
 | [jneidel.com](https://jneidel.com)                                     | Personal site and blog            |
 | [clementfouque.com](https://clementfouque.com)                         | Personal Site and Tech Blog       |
 | [victoryuan.com](https://victoryuan.com)                               | Personal Site and blog            |
 | [chenyu.blog](https://chenyu.blog)                                     | Personal site and blog            |
 | [g-snipes.github.io](https://g-snipes.github.io./)                     | Personal site and Music/Tech blog |
 | [aimtune.dev](https://aimtune.dev/)                                    | Personal blog (Turkish/English)   |
-| [blog.ny4.dev](https://blog.ny4.dev)                                   | Personal site and blog (en/zh)    |
+| [socrabytes.github.io](https://socrabytes.github.io)                   | Personal site and Tech Blog       |
+| [blog.pitermarx.com](https://blog.pitermarx.com)                       | Personal Site                     |
+| [montenegrodanielfelipe.com](https://montenegrodanielfelipe.com)       | Personal Site and Blog            |
+| [euangelos.linardos.gr](https://euangelos.linardos.gr)                 | Personal Site and Blog            |
+| [joshquinlan.co.uk](https://joshquinlan.co.uk)                         | Personal & Professional Site      |
+| [Rwhither's Blog](https://blog.sky123.top)                             | Personal site and blog            |
+| [peregrinator.site](https://peregrinator.site)                         | Personal Site and Blog            |
+| [wendyliga.com](https://wendyliga.com)                                 | Personal Site and Blog            |
 
 **¿Usuaria de congo?** Para agregar tu sitio a esta lista, [haz un pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md).

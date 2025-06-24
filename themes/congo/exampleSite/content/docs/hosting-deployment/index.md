@@ -10,7 +10,7 @@ tags: ["hosting", "deployment", "docs", "github", "netlify", "render"]
 
 There are many ways to deploy your Hugo website built with Congo. The theme is designed to be flexible in almost any deployment scenario.
 
-Congo is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There's usually no special configuration required for this to work as long as the `baseURL` parameter has been configured in the `config.toml` file.
+Congo is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There's usually no special configuration required for this to work as long as the `baseURL` parameter has been configured in the `hugo.toml` file.
 
 The official Hugo [Hosting and Deployment](https://gohugo.io/hosting-and-deployment/) docs are the best place to learn how to deploy your site. The sections below contain some specific theme configuration details that can help you deploy smoothly with certain providers.
 
@@ -100,7 +100,7 @@ Then in the root of your site repository, create a `netlify.toml` file:
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.119.0"
+  HUGO_VERSION = "0.147.8"
   NODE_ENV = "production"
   TZ = "UTC"  # Set to preferred timezone
 
@@ -141,7 +141,7 @@ Hugo sites built with Congo still load very quickly, even with this feature disa
 
 Using traditional web hosting, or deploying to your own web server, is as simple as building your Hugo site and transferring the files to your host.
 
-Make sure that the `baseURL` parameter in `config.toml` is set to the full URL to the root of your website (including any sub domains or sub-folders).
+Make sure that the `baseURL` parameter in `hugo.toml` is set to the full URL to the root of your website (including any sub domains or sub-folders).
 
 Then build your site using `hugo` and copy the contents of the output directory to the root of your web server and you will be ready to go. By default, the output directory is named `public`.
 

@@ -16,20 +16,6 @@ A continuación, se muestra un ejemplo que utiliza el shortcut integrado `youtub
 
 {{< youtube ZJthWmvUzzc >}}
 
-## Twitter
-
-Este ejemplo usa el shortcode `twitter_simple` para generar un Tweet. Requiere dos parámetros por nombre: `usuario` e `id`.
-
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-Alternativamente, el shortcut `tweet` se puede usar para incrustar una tarjeta completa de Twitter.
-
-## Gist
-
-El shortcode `gist` se puede usar para incrustar un GitHub Gist. Requiere dos parámetros por posición: el nombre de usuario y el ID del Gist.
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 El shortcode `vimeo_simple` insertará un video de Vimeo.

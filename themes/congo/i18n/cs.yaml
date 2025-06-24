@@ -11,7 +11,7 @@ article:
   table_of_contents: "Obsah"
   word_count:
     one: "{{ .Count }} slovo"
-    other: "{{ .Count }} slova"
+    other: "{{ .Count }} slov"
 
 author:
   byline_title: "Autor"
@@ -26,22 +26,22 @@ error:
   404_description: "Zdá se, že požadovaná stránka neexistuje."
 
 footer:
-  dark_appearance: "Přepněte na tmavý vzhled"
-  light_appearance: "Přepněte na světlý vzhled"
-  powered_by: "Poháněno {{ .Hugo }} &amp; {{ .Congo }}"
+  dark_appearance: "Přepněte na tmavý režim"
+  light_appearance: "Přepněte na světlý režim"
+  powered_by: "Využívá {{ .Hugo }} &amp; {{ .Congo }}"
 
 list:
-  externalurl_title: "Odkaz na externí stránky"
-  no_articles: "Zde zatím nejsou k dispozici žádné články."
+  externalurl_title: "Odkaz na externí stránku"
+  no_articles: "Zatím zde nejsou k dispozici žádné články."
 
 nav:
-  scroll_to_top_title: "Přejděte nahoru"
-  skip_to_main: "Přejít na hlavní obsah"
+  scroll_to_top_title: "Zpět na začátek"
+  skip_to_main: "Přeskočit na hlavní obsah"
 
 search:
   open_button_title: "Vyhledávání (/)"
   close_button_title: "Zavřít (Esc)"
-  input_placeholder: "Hledej"
+  input_placeholder: "Vyhledávání"
 
 sharing:
   email: "Odeslat e-mailem"

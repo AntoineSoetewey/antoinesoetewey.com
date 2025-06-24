@@ -1,4 +1,4 @@
-/*! Congo v2.10.0 | MIT License | https://github.com/jpanther/congo */
+/*! Congo v2.12.1 | MIT License | https://github.com/jpanther/congo */
 
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
@@ -108,7 +108,7 @@
   --tw-contain-style:  ;
 }
 
-/*! tailwindcss v3.4.16 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v3.4.17 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1307,6 +1307,11 @@ code {
   padding: 0px;
 }
 
+.prose div.chroma {
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+}
+
 /* LineTable */
 
 .chroma .lntable {
@@ -1607,6 +1612,7 @@ code {
 .chroma .si,
 .chroma .sx,
 .chroma .s1,
+.chroma .gd,
 .chroma .gi,
 .chroma .go,
 .chroma .gp {
@@ -1627,6 +1633,7 @@ code {
 .chroma .si:is(.dark *),
 .chroma .sx:is(.dark *),
 .chroma .s1:is(.dark *),
+.chroma .gd:is(.dark *),
 .chroma .gi:is(.dark *),
 .chroma .go:is(.dark *),
 .chroma .gp:is(.dark *) {

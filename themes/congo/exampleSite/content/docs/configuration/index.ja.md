@@ -35,7 +35,7 @@ Hugoの標準的な設定変数はテーマ全体を通して尊重されます�
 |`baseURL`|_Not set_|ウェブサイトのルートへのURL。|
 |`defaultContentLanguage`|`"en"`|この値はテーマコンポーネントとコンテンツのデフォルト言語を決定します。サポートされる言語コードについては、下記の[言語と国際化](#言語と国際化)セクションを参照してください。|
 |`enableRobotsTXT`|`true`|有効にすると、サイトルートに `robots.txt` ファイルが作成され、検索エンジンがサイト全体をクロールできるようになります。あらかじめ用意されている `robots.txt` を利用したい場合は、`false` に設定して `static` ディレクトリにファイルを置いてください。完全にコントロールしたい場合は、[カスタムレイアウト]({{< ref "content-examples" >}})を指定してこのファイルを生成することができます。|
-|`paginate`|`10`|記事一覧の各ページに掲載される記事の数。|
+|`pagination.pagerSize`|`10`|記事一覧の各ページに掲載される記事の数。|
 |`summaryLength`|`0`|記事の要約が[フロントマター]({{< ref "front-matter" >}})で提供されていない場合に、記事の要約を生成するために使われる単語の数。デフォルト値 `0` は最初の文章を使用します。この値は要約が非表示の場合には影響しません。|
 |`outputs.home`|`["HTML", "RSS", "JSON"]`|生成される出力フォーマット。Congoでは、すべてのテーマコンポーネントが正しく動作するために、HTML、RSS、JSONが必要です。|
 |`permalinks`|_Not set_|パーマリンクの設定は[Hugo docs](https://gohugo.io/content-management/urls/#permalinks)を参照してください。|

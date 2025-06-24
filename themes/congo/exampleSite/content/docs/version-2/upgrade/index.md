@@ -99,13 +99,13 @@ rtl = false
 
 Using your preferred language, simply create this new file in `config/_default/` and then move the language-specific parameters from any existing config files over to this new file. The table below outlines the parameters that need to be moved.
 
-| Parameter     | Old location  |
-| ------------- | ------------- |
-| `title`       | `config.toml` |
-| `description` | `params.toml` |
-| `copyright`   | `config.toml` |
-| `dateFormat`  | `params.toml` |
-| `[author]`    | `config.toml` |
+| Parameter     | Old location                 |
+| ------------- | ---------------------------- |
+| `title`       | `config.toml` or `hugo.toml` |
+| `description` | `params.toml`                |
+| `copyright`   | `config.toml` or `hugo.toml` |
+| `dateFormat`  | `params.toml`                |
+| `[author]`    | `config.toml` or `hugo.toml` |
 
 Once the values have been moved to the new location, these parameters should be deleted from their original locations.
 
@@ -113,20 +113,22 @@ Once the values have been moved to the new location, these parameters should be 
 
 As the theme is now aware of languages, the `menus.toml` file should also be renamed to include a language code. Rename the existing `menus.toml` to `menus.[lang-code].toml`, where the language code matches the code used in the `languages.toml` file in the previous section.
 
-### Config.toml
+### Hugo.toml (formerly Config.toml)
 
-The `config.toml` file now only contains base Hugo configuration values. Other than removing the language-specific strings above, there are only two changes to consider.
+The `hugo.toml` file now only contains base Hugo configuration values. Other than removing the language-specific strings above, there are only two changes to consider.
 
 If you're using a language other than English, provide a `defaultContentLanguage` value that matches the language code in the config file you created for your language. Secondly, to take advange of the new site search in Congo 2.0, an `[outputs]` block needs to be provided.
 
 ```toml
-# config/_default/config.toml
+# config/_default/hugo.toml
 
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
+
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -176,7 +178,7 @@ For the full list of supported parameters, refer to the [Configuration]({{< ref 
 
 All site assets, with the exception of favicons, now use Hugo Pipes to build an optimised version of your project. In order for the theme to locate your files, any previously static theme assets need to be moved to the Hugo assets folder. Primarily this is the author image and site logo:
 
-`static/me.jpg` **&rarr;** `assets/me.jpg`  
+`static/me.jpg` **&rarr;** `assets/me.jpg`
 `static/logo.jpg` **&rarr;** `assets/logo.jpg`
 
 If you have provided an author image or site logo, simply move these assets from `static/` to `assets/`. If you use the same directory structure the theme will know where to find these files automatically. If you would like to provide a new path, update the `logo` and `author.image` config values accordingly.

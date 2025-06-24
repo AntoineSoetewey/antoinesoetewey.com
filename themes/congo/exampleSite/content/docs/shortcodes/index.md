@@ -25,8 +25,8 @@ By default, the alert is presented with an exclaimation triangle icon. To change
 **Warning!** This action is destructive!
 {{</* /alert */>}}
 
-{{</* alert "twitter" */>}}
-Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
+{{</* alert "x-twitter" */>}}
+Don't forget to [follow me](https://x.com/jpanther) on X.
 {{</* /alert */>}}
 ```
 
@@ -34,8 +34,8 @@ Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
 **Warning!** This action is destructive!
 {{< /alert >}}
 &nbsp;
-{{< alert "twitter" >}}
-Don't forget to [follow me](https://twitter.com/jpanther) on Twitter.
+{{< alert "x-twitter" >}}
+Don't forget to [follow me](https://x.com/jpanther) on X.
 {{< /alert >}}
 
 ## Badge
@@ -154,6 +154,18 @@ Congo also supports automatic conversion of images included using standard Markd
 ```
 
 {{< figure src="abstract.jpg" alt="Abstract purple artwork" caption="Photo by [Jr Korpa](https://unsplash.com/@jrkorpa) on [Unsplash](https://unsplash.com/)" >}}
+
+## Gist
+
+The `gist` shortcode can be used to embed a GitHub Gist. It requires two unnamed parameters: the username and ID of the Gist.
+
+**Example:**
+
+```md
+{{</* jpanther 26292111fe1eb8e31c60f6dbfef9df28 */>}}
+```
+
+{{< gist jpanther 26292111fe1eb8e31c60f6dbfef9df28 >}}
 
 ## Icon
 

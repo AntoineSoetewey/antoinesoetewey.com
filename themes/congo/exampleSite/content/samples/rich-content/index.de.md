@@ -16,20 +16,6 @@ Hier ist ein Beispiel des mitgelieferten `youtube`-Shortcodes.
 
 {{< youtube ZJthWmvUzzc >}}
 
-## Twitter
-
-Dieses Beispiel verwendet den Shortcode `twitter_simple`, um einen Tweet anzuzeigen. Er benötigt zwei benannte Parameter `user` und `id`.
-
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-Alternativ kann der Shortcode `tweet` verwendet werden, um eine vollständig formatierte Twitter-Kachel einzubetten.
-
-## Gist
-
-Der Shortcode `gist` kann verwendet werden, um einen Gist von GitHub einzubetten. Er erfordert zwei unbenannte Parameter: den Benutzernamen und die ID des Gist.
-
-{{< gist jpanther a873e1219ffeaa80a926bbe8255f348e >}}
-
 ## Vimeo
 
 Der Shortcode `vimeo_simple` bettet ein Video von Vimeo ein.

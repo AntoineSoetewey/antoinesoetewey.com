@@ -1,4 +1,4 @@
-/*! Congo v2.10.0 | MIT License | https://github.com/jpanther/congo */
+/*! Congo v2.12.1 | MIT License | https://github.com/jpanther/congo */
 
 @tailwind base;
 @tailwind components;
@@ -125,6 +125,9 @@ code {
 }
 .chroma pre {
   @apply m-0 p-0;
+}
+.prose div.chroma {
+  @apply mb-6 mt-6;
 }
 /* LineTable */
 .chroma .lntable {
@@ -261,6 +264,7 @@ code {
 .chroma .si,
 .chroma .sx,
 .chroma .s1,
+.chroma .gd,
 .chroma .gi,
 .chroma .go,
 .chroma .gp {

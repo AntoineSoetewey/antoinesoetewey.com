@@ -25,6 +25,7 @@ Front matter parameter default values are inherited from the theme's [base confi
 |`thumbnail`|`"*thumb*"`_|The text pattern to match the thumbnail image filename for this article.|
 |`thumbnailAlt`|`featureAlt`|The alternative text description for the thumbnail image.|
 |`externalUrl`|_Not set_|If this article is published on a third-party website, the URL to this article. Providing a URL will prevent a content page being generated and any references to this article will link directly to the third-party website.|
+|`canonicalUrl`|`.Permalink`|When set, this overrides the canonical URL metadata for the article.|
 |`editURL`|`article.editURL`|When `showEdit` is active, the URL for the edit link.|
 |`editAppendPath`|`article.editAppendPath`|When `showEdit` is active, whether or not the path to the current article should be appended to the URL set at `editURL`.|
 |`groupByYear`|`list.groupByYear`|Whether or not articles are grouped by year on list pages.|
