@@ -5,7 +5,7 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-Je participe aux projets [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) et ODALON (Open multimodal Data for Automated Local News). À ce titre, je suis membre du *Center for Applied Public Economics (CAPE)* à l'UCLouvain Saint-Louis Bruxelles et du *Center for Quantitative Methods and Operations Management (QuantOM)* à HEC Liège.
+Je participe aux projets [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) et ODALON (Open multimodal Data for Automated LOcal News). À ce titre, je suis membre du *Center for Applied Public Economics (CAPE)* à l'UCLouvain Saint-Louis Bruxelles et du *Center for Quantitative Methods and Operations Management (QuantOM)* à HEC Liège.
 
 Le projet Beamm vise à développer un modèle de microsimulation pour simuler l’impact des mesures politiques sur la population belge. Le projet ODALON, quant à lui, vise à développer une plateforme automatisant partiellement la production d’informations locales.
 
