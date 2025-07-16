@@ -67,7 +67,7 @@ For a detailed list of publications see my <a href="https://scholar.google.com/c
 
 ## Affiliations & academic service
 
-- Reviewer for *Open Forum Infectious Diseases* and *SoftwareX* (2024 -- Present)
+- Reviewer for *Open Forum Infectious Diseases*, *SoftwareX* and *The Journal of Open Source Software (JOSS)* (2024 -- Present)
 - Doctoral student representative at the *Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS* (2023 -- 2024)
 - Doctoral student representative at the *Louvain school of statistics, biostatistics and actuarial sciences, UCLouvain* (2020 -- 2022)
 - Member of the *Royal Statistical Society of Belgium* (2017 -- Present)
