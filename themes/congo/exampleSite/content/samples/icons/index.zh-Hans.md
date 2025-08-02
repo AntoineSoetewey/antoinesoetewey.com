@@ -76,6 +76,7 @@ Congo内置了对多个[FontAwesome 6](https://fontawesome.com/icons)图标的�
 | soundcloud           | {{< icon soundcloud >}}           |
 | stack-overflow       | {{< icon stack-overflow >}}       |
 | steam                | {{< icon steam >}}                |
+| strava               | {{< icon strava >}}               |
 | sun                  | {{< icon sun >}}                  |
 | tag                  | {{< icon tag >}}                  |
 | telegram             | {{< icon telegram >}}             |

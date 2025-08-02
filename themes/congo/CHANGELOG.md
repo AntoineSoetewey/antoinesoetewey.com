@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.12.2] - 2025-07-13
+
+### Added
+
+- New icon for `strava` ([#1081](https://github.com/jpanther/congo/pull/1081))
+
+### Changed
+
+- Upgrade to Mermaid v11.8.1 ([#1084](https://github.com/jpanther/congo/pull/1084))
+- Updated Korean translation ([#1078](https://github.com/jpanther/congo/pull/1078))
+
 ## [2.12.1] - 2025-06-23
 
 ### Fixed
@@ -986,7 +997,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.12.1...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.12.2...HEAD
+[2.12.2]: https://github.com/jpanther/congo/compare/v2.12.1...v2.12.2
 [2.12.1]: https://github.com/jpanther/congo/compare/v2.12.0...v2.12.1
 [2.12.0]: https://github.com/jpanther/congo/compare/v2.11.0...v2.12.0
 [2.11.0]: https://github.com/jpanther/congo/compare/v2.10.0...v2.11.0

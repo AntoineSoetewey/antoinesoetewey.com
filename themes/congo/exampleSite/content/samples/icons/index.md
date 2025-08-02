@@ -76,6 +76,7 @@ The full list of built-in icons and their corresponding names can referenced bel
 | soundcloud           | {{< icon soundcloud >}}           |
 | stack-overflow       | {{< icon stack-overflow >}}       |
 | steam                | {{< icon steam >}}                |
+| strava               | {{< icon strava >}}               |
 | sun                  | {{< icon sun >}}                  |
 | tag                  | {{< icon tag >}}                  |
 | telegram             | {{< icon telegram >}}             |
