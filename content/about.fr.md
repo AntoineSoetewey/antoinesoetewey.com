@@ -4,7 +4,7 @@ layout: "simple"
 title: A propos
 ---
 
-Je suis chercheur postdoctoral en statistique à l'UCLouvain Saint-Louis Bruxelles et à HEC Liège. Je contribue au projet [Beamm](https://beamm.brussels/) (*Belgian Arithmetic Microsimulation Model*), qui se concentre sur la simulation de politiques économiques, ainsi qu’au projet ODALON (*Open multimodal Data for Automated LOcal News*), qui utilise la science des données pour améliorer le journalisme et permettre la production semi-automatisée d’informations locales.
+Je suis chercheur postdoctoral en statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles. Je contribue au projet ODALON (*Open multimodal Data for Automated LOcal News*), qui utilise la science des données pour améliorer le journalisme et permettre la production semi-automatisée d’informations locales, ainsi qu'au projet [Beamm](https://beamm.brussels/) (*Belgian Arithmetic Microsimulation Model*), qui se concentre sur la simulation de politiques économiques.
 
 Avant cela, j’ai obtenu un doctorat en statistique à l'UCLouvain, avec un focus sur l’analyse de survie et l'implémentation de méthodes biostatistiques appliquées aux patients atteints de cancer. Je suis également titulaire d’un master en économie de la KU Leuven et d’un master en économétrie de Maastricht University.  
 

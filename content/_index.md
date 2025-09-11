@@ -12,7 +12,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br>
 
-Hello, I'm Antoine Soetewey, a postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège.
+Hello, I'm Antoine Soetewey, a postdoctoral researcher in statistics at HEC Liège and UCLouvain Saint-Louis Brussels.
 
 <!--
 , passionate about statistics and its multiple applications in the real world.
