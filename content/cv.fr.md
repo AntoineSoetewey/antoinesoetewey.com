@@ -23,6 +23,7 @@ En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les 
 - 2024 : **PhD en statistique** -- UCLouvain, Belgique
 - 2016 : **Master en économétrie** -- Maastricht University, Pays-Bas
 - 2015 : **Master en économie** -- KU Leuven, Belgique
+- 2014 : **Programme d'échange** -- University of Illinois at Urbana-Champaign, USA
 - 2013 : **Bachelier en économie** -- UCLouvain, Belgique
 
 ## Expérience

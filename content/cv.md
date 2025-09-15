@@ -23,6 +23,7 @@ In parallel with my [research](/research/), I [teach](/teaching/) statistics and
 - 2024: **PhD in statistics** -- UCLouvain, Belgium
 - 2016: **MSc in econometrics** -- Maastricht University, Netherlands
 - 2015: **MSc in economics** -- KU Leuven, Belgium
+- 2014: **Exchange program** -- University of Illinois at Urbana-Champaign, USA
 - 2013: **BSc in economics** -- UCLouvain, Belgium
 
 ## Experience
