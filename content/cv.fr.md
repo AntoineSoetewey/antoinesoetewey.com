@@ -38,7 +38,7 @@ Voir tous les [projets de recherche](/fr/research/).
 
 ### Enseignement
 
-- 2024 -- Présent : **Chargé de cours invité** en statistique -- UCLouvain & UNamur, Belgique
+- 2023 -- Présent : **Chargé de cours invité** en statistique -- UCLouvain & UNamur, Belgique
 - 2017 -- 2024 : **Assistant d'enseignement** en statistique -- UCLouvain, Belgique
 - 2018 -- 2024 : **Formateur** pour les certificats universitaires en statistiques de l'UCLouvain -- SMCS, Belgique
 

@@ -38,7 +38,7 @@ See all [research projects](/research/).
 
 ### Teaching
 
-- 2024 -- Present: **Visiting lecturer** in statistics -- UCLouvain & UNamur, Belgium
+- 2023 -- Present: **Visiting lecturer** in statistics -- UCLouvain & UNamur, Belgium
 - 2017 -- 2024: **Teaching assistant** in statistics -- UCLouvain, Belgium
 - 2018 -- 2024: **Instructor** for UCLouvain's university certificates in statistics -- SMCS, Belgium
 
