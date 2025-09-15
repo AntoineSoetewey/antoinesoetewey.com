@@ -5,7 +5,7 @@ title: Teaching
 layout: "simple"
 ---
 
-## Lecturer
+## Visiting lecturer
 
 *UCLouvain:*
 

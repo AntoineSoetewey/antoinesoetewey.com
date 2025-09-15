@@ -5,7 +5,7 @@ title: Enseignement
 layout: "simple"
 ---
 
-## Chargé de cours
+## Chargé de cours invité
 
 *UCLouvain :*
 
