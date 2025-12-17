@@ -25,7 +25,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ## Publications
 
-- **Soetewey, A.**, Heuchenne, C., Claes, A. and Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. *SoftwareX, 33*(102483). [[doi.org/10.1016/j.softx.2025.102483](https://doi.org/10.1016/j.softx.2025.102483)]
+- **Soetewey, A.**, Heuchenne, C., Claes, A. and Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. *SoftwareX, 33*, 102483. [[doi.org/10.1016/j.softx.2025.102483](https://doi.org/10.1016/j.softx.2025.102483)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2025). Semi-Markov modeling for disease incidence risk and duration. *Biostatistics & Epidemiology, 9*(1). [[doi.org/10.1080/24709360.2025.2517916](https://doi.org/10.1080/24709360.2025.2517916)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2025). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. <i>European Actuarial Journal, 15</i>, 15-43. [[dx.doi.org/10.1007/s13385-024-00403-6](http://dx.doi.org/10.1007/s13385-024-00403-6)]
 - **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *PhD thesis*, UCLouvain, Belgium. [[pdf](http://hdl.handle.net/2078.1/291928)]
