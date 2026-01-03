@@ -10,7 +10,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 {{< /alert >}}
 -->
 
-<br>
+<br> 
 
 Hello, I'm Antoine Soetewey, a postdoctoral researcher in statistics at HEC Liège and UCLouvain Saint-Louis Brussels.
 
