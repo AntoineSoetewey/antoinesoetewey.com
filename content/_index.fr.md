@@ -12,7 +12,7 @@ Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui d�
 
 <br>
 
-Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles.
+Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en science des données et statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles.
 
 <!--
 , passionné par les statistiques et ses multiples applications dans le monde réel.

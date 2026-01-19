@@ -12,7 +12,7 @@ Download CV
 
 ## Summary
 
-I am a postdoctoral researcher in statistics at HEC Liège and UCLouvain Saint-Louis Brussels, where I contribute to both the ODALON (Open multimodal Data for Automated LOcal News) and [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) projects. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
+I am a postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels, where I contribute to both the ODALON (Open multimodal Data for Automated LOcal News) and [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) projects. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
 
 In parallel with my [research](/research/), I [teach](/teaching/) statistics and probability at the undergraduate and master's levels as a visiting lecturer at UCLouvain and UNamur.
 
@@ -30,7 +30,7 @@ In parallel with my [research](/research/), I [teach](/teaching/) statistics and
 
 ### Research
 
-- 2024 -- Present: **Postdoctoral researcher** in statistics -- HEC Liège & UCLouvain Saint-Louis Brussels, Belgium
+- 2024 -- Present: **Postdoctoral researcher** in data science and statistics -- HEC Liège & UCLouvain Saint-Louis Brussels, Belgium
 - 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
 
 {{< alert "circle-info" >}}
