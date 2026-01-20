@@ -6,6 +6,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.13.0] - 2026-01-20
+
+### Added
+
+- New `script` parameter for Umami Analytics to allow self-hosted deployments ([#1103](https://github.com/jpanther/congo/pull/1103))
+
+### Changed
+
+- Upgrade to Mermaid v11.12.2 ([#1087](https://github.com/jpanther/congo/pull/1087), [#1123](https://github.com/jpanther/congo/pull/1123))
+- Upgrade to ChartJS v4.5.1 ([#1131](https://github.com/jpanther/congo/pull/1131))
+- Upgrade to Tailwind v3.4.19 ([#1132](https://github.com/jpanther/congo/pull/1132))
+- Upgrade to Typography v0.5.19 ([#1133](https://github.com/jpanther/congo/pull/1133))
+- Upgrade to KaTeX v0.16.27 ([#1136](https://github.com/jpanther/congo/pull/1136))
+
+### Fixed
+
+- Code copy button not working when `noClasses` is set to `true` ([#1091](https://github.com/jpanther/congo/pull/1091))
+- `rel` parameter not added to links when specified in menu configuration ([#1116](https://github.com/jpanther/congo/pull/1116))
+- Certain KaTeX mathematical expressions not being parsed correctly in Markdown ([#1121](https://github.com/jpanther/congo/issues/1121))
+- References to `_internal` templates that no longer apply in the new Hugo templating system ([#1124](https://github.com/jpanther/congo/issues/1124))
+- Deprecated references to `_build` front matter key in Hugo v0.145.0 or later
+
 ## [2.12.2] - 2025-07-13
 
 ### Added
@@ -997,7 +1019,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.12.2...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.13.0...HEAD
+[2.13.0]: https://github.com/jpanther/congo/compare/v2.12.2...v2.13.0
 [2.12.2]: https://github.com/jpanther/congo/compare/v2.12.1...v2.12.2
 [2.12.1]: https://github.com/jpanther/congo/compare/v2.12.0...v2.12.1
 [2.12.0]: https://github.com/jpanther/congo/compare/v2.11.0...v2.12.0

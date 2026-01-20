@@ -23,10 +23,10 @@ Die Inline-Schreibweise kann erzeugt werden, indem der Ausdruck in die Trennzeic
 
 ```tex
 % KaTeX Inline-Schreibweise
-Inline-Schreibweise: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
+Inline-Schreibweise: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 ```
 
-Inline-Schreibweise: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
+Inline-Schreibweise: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 
 ## Schreibweise als Block
 

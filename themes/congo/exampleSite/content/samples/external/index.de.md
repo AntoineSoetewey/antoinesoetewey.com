@@ -4,7 +4,7 @@ date: 2019-01-24
 externalUrl: "https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/"
 summary: "Der Parameter `externalUrl` im Front Matter kann zu jeder URL verlinken. Der Artikel sieht aus wie jeder andere, aber verlinkt zu einem Post außerhalb des Hugo-Projekts."
 showReadingTime: false
-_build:
+build:
   render: "never"
   list: "local"
 ---

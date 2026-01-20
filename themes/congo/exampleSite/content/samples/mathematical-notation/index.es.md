@@ -17,16 +17,16 @@ Utilice la documentación en línea de [funciones TeX admitidas](https://katex.o
 
 ## Notación en línea
 
-La notación en línea se puede generar envolviendo la expresión en los delimitadores `\\(` y `\\)`.
+La notación en línea se puede generar envolviendo la expresión en los delimitadores `\(` y `\)`.
 
 **Ejemplo:**
 
 ```tex
 % KaTeX notación en línea
-Notación en línea: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
+Notación en línea: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 ```
 
-Notación en línea: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
+Notación en línea: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
 
 ## Notación en bloque
 

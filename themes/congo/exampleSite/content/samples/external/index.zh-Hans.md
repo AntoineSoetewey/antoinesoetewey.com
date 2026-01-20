@@ -4,7 +4,7 @@ date: 2019-01-24
 externalUrl: "https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/"
 summary: "Front Matter中的`externalUrl` 参数可以链接到任何 URL。这篇文章看起来和其他文章没什么区别，但会链接到 Hugo 网站之外的一篇文章。"
 showReadingTime: false
-_build:
+build:
   render: "never"
   list: "local"
 ---

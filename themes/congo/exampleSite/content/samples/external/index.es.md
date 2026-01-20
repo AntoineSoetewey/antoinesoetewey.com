@@ -4,7 +4,7 @@ date: 2019-01-24
 externalUrl: "https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/"
 summary: "El parámetro `externalUrl` se puede vincular a cualquier URL. Este artículo se parece a cualquier otro, pero se vinculará a una publicación que está fuera del proyecto."
 showReadingTime: false
-_build:
+build:
   render: "never"
   list: "local"
 ---
