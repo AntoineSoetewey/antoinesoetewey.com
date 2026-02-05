@@ -38,6 +38,10 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 Pour une liste détaillée des publications, voir mon profil <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> ou <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a>.
 {{< /alert >}}
 
+## Livres
+
+- **Soetewey, A.** et Heuchenne, C. (en cours). Advanced Descriptive Analysis of Tabular Data. [[lien](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
+
 ## Conférences & posters
 
 <ul>

@@ -44,6 +44,10 @@ layout: "simple"
 - 2018 - 2021: Junior data analyst
 - 2019 - 2020: Practice of statistics with R
 
+*Educational resources:*
+
+- Soetewey, A. and Heuchenne, C. Advanced Descriptive Analysis of Tabular Data (online book, in progress) [[link](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
+
 
 <!--## Tutoring & consulting
 

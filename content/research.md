@@ -38,6 +38,10 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 For a detailed list of publications see my [Google Scholar](https://scholar.google.com/citations?user=1P7ThwUAAAAJ), [ORCID](https://orcid.org/0000-0001-8159-0804) or [ResearchGate](https://www.researchgate.net/profile/Antoine-Soetewey) profile.
 {{< /alert >}}
 
+## Books
+
+- **Soetewey, A.** and Heuchenne, C. (in progress). Advanced Descriptive Analysis of Tabular Data. [[link](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
+
 ## Talks & posters
 
 <ul>
