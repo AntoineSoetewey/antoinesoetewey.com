@@ -25,6 +25,7 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 
 ## Publications
 
+- Truong, H.C., Pham, Q.D., Phan, T.V., Vo, D.T.T., Nguyen, P.D., Nguyen, H.T., Le, N.N.T., Trinh, T.H., Nguyen, Q.D., Nguyen, N.T., Lam, T.T., **Soetewey, A.**, Nguyen, T.V., Nguyen, T.V. et Speybroeck, N. (2026). Effectiveness of pneumococcal conjugate vaccines against invasive pneumococcal disease in Vietnamese children prior to national introduction: A matched case-control study. *Vaccine, 77*, 128349. [[doi.org/10.1016/j.vaccine.2026.128349](https://doi.org/10.1016/j.vaccine.2026.128349)]
 - **Soetewey, A.**, Heuchenne, C., Claes, A. et Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. *SoftwareX, 33*, 102483. [[doi.org/10.1016/j.softx.2025.102483](https://doi.org/10.1016/j.softx.2025.102483)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2025). Semi-Markov modeling for disease incidence risk and duration. *Biostatistics & Epidemiology, 9*(1). [[doi.org/10.1080/24709360.2025.2517916](https://doi.org/10.1080/24709360.2025.2517916)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2025). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. <i>European Actuarial Journal, 15</i>, 15-43. [[dx.doi.org/10.1007/s13385-024-00403-6](http://dx.doi.org/10.1007/s13385-024-00403-6)]
