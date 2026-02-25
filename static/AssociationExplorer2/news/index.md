@@ -44,5 +44,5 @@
   - Data upload interface supporting CSV and Excel files.
 - Includes a small demonstration dataset for testing and illustration.
 - Provides the
-  [`run_associationexplorer()`](http://www.antoinesoetewey.com/AssociationExplorer2/reference/run_associationexplorer.md)
+  [`run_associationexplorer()`](https://antoinesoetewey.com/associationexplorer2/reference/run_associationexplorer.md)
   function to launch the application.

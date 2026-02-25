@@ -1,8 +1,9 @@
 pandoc: '3.9'
 pkgdown: 2.2.0
 pkgdown_sha: ~
-articles: {}
-last_built: 2026-02-25T07:47Z
+articles:
+  getting-started: getting-started.html
+last_built: 2026-02-25T08:44Z
 urls:
-  reference: http://www.antoinesoetewey.com/AssociationExplorer2/reference
-  article: http://www.antoinesoetewey.com/AssociationExplorer2/articles
+  reference: https://antoinesoetewey.com/associationexplorer2/reference
+  article: https://antoinesoetewey.com/associationexplorer2/articles
