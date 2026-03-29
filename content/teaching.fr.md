@@ -46,7 +46,7 @@ layout: "simple"
 
 *Ressources pédagogiques :*
 
-- Soetewey, A. et Heuchenne, C. Advanced Descriptive Analysis of Tabular Data (livre en ligne, en cours) [[lien](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
+- Soetewey, A. et Heuchenne, C. Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis (livre en ligne, en cours) [[lien](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
 
 
 <!--## Tutorat & conseil
