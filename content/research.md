@@ -41,7 +41,7 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 
 ## Books
 
-- **Soetewey, A.** and Heuchenne, C. (in progress). Advanced Descriptive Analysis of Tabular Data. [[link](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
+- **Soetewey, A.** and Heuchenne, C. (in progress). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis. [[link](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/)]
 
 ## Talks & posters
 
