@@ -10,10 +10,8 @@ Below is an overview of the software, tools, and projects I have developed.
 ## R packages
 
 - [yll](https://cran.r-project.org/package=yll): Computes the standard expected years of life lost (YLL) following the Global Burden of Disease framework, by comparing age at death to a reference life expectancy curve.
-- [kindling](https://cran.r-project.org/package=kindling): Provides a higher-level interface to the `torch` package for defining, training, and fine-tuning neural networks, reducing boilerplate code while supporting integration with the `tidymodels` ecosystem.
+- [kindling](https://cran.r-project.org/package=kindling): Provides a higher-level interface to the `torch` package for defining, training, and fine-tuning neural networks, reducing boilerplate code while supporting integration with the `tidymodels` ecosystem (in collaboration with Joshua Marie).
 - [AssociationExplorer2](https://cran.r-project.org/package=AssociationExplorer2): A Shiny application for interactively exploring statistical associations and visual patterns in multivariate datasets, with support for numeric and categorical variables, correlation networks, and optional survey weights.
-
-All three packages are available on [CRAN](https://cran.r-project.org/).
 
 ## R Shiny apps
 
