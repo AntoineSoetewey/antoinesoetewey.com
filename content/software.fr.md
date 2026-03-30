@@ -1,6 +1,6 @@
 ---
 description: Logiciels, outils et projets développés et maintenus par Antoine Soetewey
-title: Logiciels
+title: Software
 showTableOfContents: false
 layout: "simple"
 ---
