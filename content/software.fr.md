@@ -5,7 +5,7 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai développés.
+Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (co-)développés.
 
 ## Packages R
 
