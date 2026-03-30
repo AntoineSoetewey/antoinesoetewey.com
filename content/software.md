@@ -5,7 +5,7 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-Below is an overview of the software, tools, and projects I have developed.
+Below is an overview of the software, tools, and projects I have (co-)developed.
 
 ## R packages
 
