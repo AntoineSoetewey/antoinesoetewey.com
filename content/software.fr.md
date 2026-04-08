@@ -12,6 +12,7 @@ Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (
 - [yll](https://cran.r-project.org/package=yll) : Calcule les années de vie perdues (YLL) standard selon le cadre de l'étude Global Burden of Disease, en comparant l'âge au décès à une courbe d'espérance de vie de référence.
 - [kindling](https://cran.r-project.org/package=kindling) : Fournit une interface de haut niveau pour le package `torch`, permettant de définir, entraîner et affiner des réseaux de neurones tout en réduisant le code répétitif et en facilitant l'intégration avec l'écosystème `tidymodels` (en collaboration avec Joshua Marie).
 - [AssociationExplorer2](https://cran.r-project.org/package=AssociationExplorer2) : Une application Shiny pour explorer interactivement les associations statistiques et les structures visuelles dans des jeux de données multivariés, avec prise en charge des variables numériques et catégorielles, des réseaux de corrélations et des pondérations d'enquête optionnelles.
+- [statim](https://github.com/joshuamarie/statim) : Fournit une interface déclarative de haut niveau pour l'inférence statistique en R, permettant de spécifier des tests via des pipelines composables et de les exécuter immédiatement, avec une syntaxe compatible tidyverse et des implémentations de tests extensibles (en collaboration avec Joshua Marie).
 
 ## Applications R Shiny
 
@@ -19,7 +20,7 @@ Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (
 - [Statistics-201](https://github.com/AntoineSoetewey/statistics-201) : Une application guidée pour réaliser des tests d'hypothèses et des intervalles de confiance pour sept procédures à un et deux échantillons, en affichant tous les calculs intermédiaires étape par étape.
 - [Statistics-202](https://github.com/AntoineSoetewey/statistics-202) : Une application pour effectuer une régression linéaire simple avec les calculs MCO étape par étape, la sortie R complète, des graphiques de diagnostic et un rapport HTML téléchargeable.
 - [AssociationExplorer](https://github.com/AntoineSoetewey/AssociationExplorer) : Une application Shiny open-source pour explorer les associations statistiques dans des jeux de données multivariés à travers des réseaux de corrélations interactifs et des graphiques bivariés.
-- [Calculateur de prêt](https://antoinesoetewey.shinyapps.io/mortgage-calculator/) : Une application interactive pour calculer les mensualités, le coût total d'un emprunt et un tableau d'amortissement mensuel complet en fonction du montant, du taux d'intérêt et de la durée du prêt.
+- [Calculateur de prêt](https://github.com/AntoineSoetewey/mortgage-calculator) : Une application interactive pour calculer les mensualités, le coût total d'un emprunt et un tableau d'amortissement mensuel complet en fonction du montant, du taux d'intérêt et de la durée du prêt.
 
 ## Sites web et blogs
 
