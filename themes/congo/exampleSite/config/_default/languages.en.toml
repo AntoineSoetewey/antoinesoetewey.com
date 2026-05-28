@@ -1,6 +1,6 @@
-languageCode = "en-AU"
-languageName = "English (Australia)"
-languageDirection = "ltr"
+locale = "en-AU"
+label = "English (Australia)"
+direction = "ltr"
 weight = 1
 
 title = "Congo"

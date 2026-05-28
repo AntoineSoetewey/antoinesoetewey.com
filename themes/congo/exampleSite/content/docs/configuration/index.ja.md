@@ -61,7 +61,9 @@ Congoは現在、以下の言語に対応しています:
 | Finnish               | `fi`      |
 | French                | `fr`      |
 | German                | `de`      |
+| Gujarati              | `gu`      |
 | Hebrew                | `he`      |
+| Hindi                 | `hi`      |
 | Hungarian             | `hu`      |
 | Indonesian            | `id`      |
 | Italian               | `it`      |
@@ -96,9 +98,9 @@ Congoは現在、以下の言語に対応しています:
 <!-- prettier-ignore-start -->
 |Name|Default|Description|
 |---|---|---|
-|`languageCode`|`"en"`|このファイルの言語コード。トップレベル言語 (例 `en`)またはサブ変数 (例 `en-AU`)で、ファイル名の `[language-code]` と一致する必要があります。|
-|`languageName`|`"English"`|言語名。|
-|`languageDirection`|`"ltr"`|RTL言語かどうか。 `"rtl"` に設定すると、コンテンツを右から左にリフローする。CongoはRTL言語とLTR言語の同時使用を完全にサポートしており、動的に両方の言語に調整します。|
+|`locale`|`"en"`|このファイルの言語コード。トップレベル言語 (例 `en`)またはサブ変数 (例 `en-AU`)で、ファイル名の `[language-code]` と一致する必要があります。|
+|`label`|`"English"`|言語名。|
+|`direction`|`"ltr"`|RTL言語かどうか。 `"rtl"` に設定すると、コンテンツを右から左にリフローする。CongoはRTL言語とLTR言語の同時使用を完全にサポートしており、動的に両方の言語に調整します。|
 |`weight`|`1`|多言語サイトを構築する際の優先順序。|
 |`title`|`"Congo"`|ウェブサイトのタイトル。サイトのヘッダーとフッターに表示されます。|
 |`copyright`|_Not set_|サイトのフッターに表示する著作権メッセージを含むMarkdown文字列。何も指定されない場合、Congoは `title` を使って自動的にコピーライト文字列を生成します。|

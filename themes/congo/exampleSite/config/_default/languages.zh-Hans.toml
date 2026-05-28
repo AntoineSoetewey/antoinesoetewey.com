@@ -1,6 +1,6 @@
-languageCode = "zh-Hans"
-languageName = "简体中文"
-languageDirection = "ltr"
+locale = "zh-Hans"
+label = "简体中文"
+direction = "ltr"
 weight = 2
 
 title = "Congo"

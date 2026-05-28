@@ -61,7 +61,9 @@ The theme currently supports the following languages out of the box:
 | Finnish               | `fi`      |
 | French                | `fr`      |
 | German                | `de`      |
+| Gujarati              | `gu`      |
 | Hebrew                | `he`      |
+| Hindi                 | `hi`      |
 | Hungarian             | `hu`      |
 | Indonesian            | `id`      |
 | Italian               | `it`      |
@@ -96,9 +98,9 @@ The default file can be used as a template to create additional languages, or re
 <!-- prettier-ignore-start -->
 |Name|Default|Description|
 |---|---|---|
-|`languageCode`|`"en"`|The Hugo language code for this file. It can be a top-level language (ie. `en`) or a sub-variant (ie. `en-AU`) and should match the language code in the filename.|
-|`languageName`|`"English"`|The name of the language.|
-|`languageDirection`|`"ltr"`|Whether or not this is an RTL language. Set to `"rtl"` to reflow content from right-to-left. Congo fully supports using RTL and LTR languages at the same time and will dynamically adjust to both.|
+|`locale`|`"en"`|The Hugo language code for this file. It can be a top-level language (ie. `en`) or a sub-variant (ie. `en-AU`) and should match the language code in the filename.|
+|`label`|`"English"`|The name of the language.|
+|`direction`|`"ltr"`|Whether or not this is an RTL language. Set to `"rtl"` to reflow content from right-to-left. Congo fully supports using RTL and LTR languages at the same time and will dynamically adjust to both.|
 |`weight`|`1`|The weight determines the order of languages when building multilingual sites.|
 |`title`|`"Congo"`|The title of the website. This will be displayed in the site header and footer.|
 |`copyright`|_Not set_|A Markdown string containing the copyright message to be displayed in the site footer. If none is provided, Congo will automatically generate a copyright string using the site `title`.|

@@ -1,6 +1,6 @@
-languageCode = "ja"
-languageName = "日本語"
-languageDirection = "ltr"
+locale = "ja"
+label = "日本語"
+direction = "ltr"
 weight = 2
 
 title = "Congo"

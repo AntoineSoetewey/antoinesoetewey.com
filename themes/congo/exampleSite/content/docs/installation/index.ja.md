@@ -21,7 +21,7 @@ Hugoの標準的な[Quick Start](https://gohugo.io/getting-started/quick-start/)
 Hugoを使ったことがない場合は、[インストール](https://gohugo.io/getting-started/installing)する必要があります。すでにインストールされているかは、 `hugo version` コマンドで確認できます。
 
 {{< alert >}}
-CongoはHugoの最新機能の一部を利用しているため、 **Hugoバージョン0.87.0** 以降を使用していることを確認してください。
+CongoはHugoの最新機能の一部を利用しているため、 **Hugoバージョン0.158.0** 以降を使用していることを確認してください。
 {{< /alert >}}
 
 [Hugo docs](https://gohugo.io/getting-started/installing)に、あなたのプラットフォーム用の詳しいインストール手順があります。

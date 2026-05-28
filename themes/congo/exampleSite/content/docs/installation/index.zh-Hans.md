@@ -21,7 +21,7 @@ tags: ["installation", "docs"]
 如果您以前没有使用过Hugo，您需要[将其安装到本地计算机上](https://gohugo.io/getting-started/installing)。您可以通过运行命令 `hugo version` 来检查是否已经安装。
 
 {{< alert >}}
-确保您使用的是 **Hugo版本0.87.0** 或更高版本，因为该主题利用了一些最新的Hugo功能。
+确保您使用的是 **Hugo版本0.158.0** 或更高版本，因为该主题利用了一些最新的Hugo功能。
 {{< /alert >}}
 
 您可以在[Hugo文档](https://gohugo.io/getting-started/installing)中找到有关您平台的详细安装说明。

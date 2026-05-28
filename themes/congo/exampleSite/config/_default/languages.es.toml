@@ -1,6 +1,6 @@
-languageCode = "es-MX"
-languageName = "Español (México)"
-languageDirection = "ltr"
+locale = "es-MX"
+label = "Español (México)"
+direction = "ltr"
 weight = 2
 
 title = "Congo"

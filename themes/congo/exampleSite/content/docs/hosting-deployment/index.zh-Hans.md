@@ -99,7 +99,7 @@ jobs:
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.147.8"
+  HUGO_VERSION = "0.161.1"
   NODE_ENV = "production"
   GO_VERSION = "1.20"
   TZ = "UTC"  # Set to preferred timezone

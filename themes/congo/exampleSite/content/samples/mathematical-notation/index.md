@@ -11,12 +11,6 @@ KaTeX can be used to render mathematical notation within articles.
 
 {{< katex >}}
 
-\(\text{Final Concentration of H}_2 = \frac{50 \ \text{m}^3}{1000 \ \text{m}^3 + V_{\text{N}\_2}} \times 100\% < 4\%\)
-
-$$
- \text{Final Concentration of H}_2 = \frac{50 \ \text{m}^3}{1000 \ \text{m}^3 + V_{\text{N}_2}} \times 100\% < 4\%
-$$
-
 Congo will only bundle the KaTeX assets into your project if you make use of mathematical notation. In order for this to work, simply include the [`katex` shortcode]({{< ref "docs/shortcodes#katex" >}}) within the article. Any KaTeX syntax on that page will then be automatically rendered.
 
 Use the online reference of [supported TeX functions](https://katex.org/docs/supported.html) for the available syntax.

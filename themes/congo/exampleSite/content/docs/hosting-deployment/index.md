@@ -100,7 +100,7 @@ Then in the root of your site repository, create a `netlify.toml` file:
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.147.8"
+  HUGO_VERSION = "0.161.1"
   NODE_ENV = "production"
   TZ = "UTC"  # Set to preferred timezone
 
