@@ -10,7 +10,7 @@ Avant cela, j’ai obtenu un doctorat en statistique à l'UCLouvain, avec un foc
 
 Mes [domaines de recherche](/fr/research/) incluent les (bio)statistiques, la science des données et le développement de méthodes pour analyser des ensembles de données complexes. Passionné par l’idée de rendre les statistiques accessibles à toutes et tous, j’utilise des langages de programmation statistique open-source, comme R, pour démocratiser l'utilisation et la compréhension des outils statistiques.  
 
-En parallèle de mes activités de recherche, j'[enseigne](/fr/teaching/) les statistiques et les probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à l'UNamur.  
+En parallèle de mes activités de recherche, j'[enseigne](/fr/teaching/) les statistiques et les probabilités en tant que chargé de cours invité à l'UCLouvain et à l'UNamur.  
 
 Pendant mon temps libre, je code en R, écris sur des sujets liés aux statistiques et leurs applications, et partage ces ressources sur mon [blog](https://statsandr.com/), dans un souci de vulgarisation et d’accessibilité.
 

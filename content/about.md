@@ -10,7 +10,7 @@ Before that, I obtained a PhD in statistics from UCLouvain, focusing on survival
 
 My [research interests](/research/) include (bio)statistics, data science, and the development of methods to analyze complex datasets. Passionate about making statistics accessible to everyone, I leverage open-source statistical programming languages like R to democratize the use and understanding of statistical tools.
 
-In parallel with my research, I [teach](/teaching/) statistics and probability at the undergraduate and master's levels as visiting lecturer at UCLouvain and UNamur.
+In parallel with my research, I [teach](/teaching/) statistics and probability as visiting lecturer at UCLouvain and UNamur.
 
 In my free time, I code in R, write about topics related to statistics and their applications, and share these resources on my [blog](https://statsandr.com/) to make them accessible and easy to understand.
 
