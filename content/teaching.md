@@ -9,11 +9,11 @@ layout: "simple"
 
 *UCLouvain:*
 
-- 2024 - Present: Multivariate statistical analysis (LINGE1222)
+- 2024 - 2026: Multivariate statistical analysis (LINGE1222)
 
 *UNamur:*
 
-- 2024 - Present: Statistics (ECGEB152)
+- 2024 - 2026: Statistics (ECGEB152)
 - 2023 - 2024: Advanced quantitative methods (EINGM105)
 
 ## Teaching assistant
@@ -46,7 +46,7 @@ layout: "simple"
 
 *Educational resources:*
 
-- Soetewey, A., Heuchenne, C. and Uyttendaele, N. Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis (online book, in progress)
+- Soetewey, A., Heuchenne, C. and Uyttendaele, N. Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis (in progress)
 
 
 <!--## Tutoring & consulting
