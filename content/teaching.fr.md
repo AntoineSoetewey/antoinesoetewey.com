@@ -46,7 +46,7 @@ layout: "simple"
 
 *Ressources pédagogiques :*
 
-- Soetewey, A., Heuchenne, C. et Uyttendaele, N. Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis (en cours)
+- Soetewey, A., Heuchenne, C. et Uyttendaele, N. Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis (en cours d'écriture)
 
 
 <!--## Tutorat & conseil
