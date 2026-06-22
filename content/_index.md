@@ -14,7 +14,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 Hello, I'm Antoine Soetewey, a postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels.
 
-Alongside my [research](/research/), I [teach](/teaching/) statistics as visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
+Alongside my [research](/research/), I [teach](/teaching/) statistics and probabilities as visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
 
 In my free time, I enjoy coding in R and sharing insights on my [blog](https://statsandr.com/).
 
