@@ -14,7 +14,7 @@ Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui d�
 
 Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en science des données et statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles.
 
-En parallèle de mes [recherches](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités en tant que chargé de cours invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
+En parallèle de mes [recherches](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et les probabilités en tant que chargé de cours invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
 
 Quand j'en ai l'occasion, je code en R et partage mes connaissances sur mon [blog](https://statsandr.com/).
 
