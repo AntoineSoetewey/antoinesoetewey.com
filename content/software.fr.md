@@ -12,7 +12,7 @@ Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (
 - [yll](https://cran.r-project.org/package=yll) : Calcule les années de vie perdues (YLL) standard selon le cadre de l'étude Global Burden of Disease, en comparant l'âge au décès à une courbe d'espérance de vie de référence.
 - [kindling](https://cran.r-project.org/package=kindling) : Fournit une interface de haut niveau pour le package `torch`, permettant de définir, entraîner et affiner des réseaux de neurones tout en réduisant le code répétitif et en facilitant l'intégration avec l'écosystème `tidymodels` (en collaboration avec Joshua Marie).
 - [AssociationExplorer2](https://cran.r-project.org/package=AssociationExplorer2) : Une application Shiny pour explorer interactivement les associations statistiques et les structures visuelles dans des jeux de données multivariés, avec prise en charge des variables numériques et catégorielles, des réseaux de corrélations et des pondérations d'enquête optionnelles.
-- [statim](https://github.com/joshuamarie/statim) : Fournit une interface déclarative de haut niveau pour l'inférence statistique en R, permettant de spécifier des tests via des pipelines composables et de les exécuter immédiatement, avec une syntaxe compatible tidyverse et des implémentations de tests extensibles (en collaboration avec Joshua Marie).
+- [statim](https://github.com/s7-stats/statim) : Fournit une interface déclarative de haut niveau pour l'inférence statistique en R, permettant de spécifier des tests via des pipelines composables et de les exécuter immédiatement, avec une syntaxe compatible tidyverse et des implémentations de tests extensibles (en collaboration avec Joshua Marie).
 
 ## Applications R Shiny
 
