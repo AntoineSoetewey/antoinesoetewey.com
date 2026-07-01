@@ -75,6 +75,17 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Comment peut-on prévoir l'évolution du COVID 19 en Belgique ? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">lien</a>]</li>
 </ul>
 
+## Encadrement d'étudiants
+
+**Doctorant**
+
+- Thaddée D'haegeleer (2025 -- présent, co-encadrement avec Prof. Cédric Heuchenne)
+
+**Étudiants en master**
+
+- Carnot Dongmo Mbane (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne et Dr. Hugues Annoye)
+- Saunier Blainda Juenang Payong (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne)
+
 ## Affiliations & engagements académiques
 
 - Réviseur pour *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)* et *Scientific Reports* (2024 -- Présent)

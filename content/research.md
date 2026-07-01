@@ -75,6 +75,17 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
     <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
+## Student supervision
+
+**PhD student**
+
+- Thaddée D'haegeleer (2025 -- present, co-supervision with Prof. Cédric Heuchenne)
+
+**Master students**
+
+- Carnot Dongmo Mbane (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne and Dr. Hugues Annoye)
+- Saunier Blainda Juenang Payong (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
+
 ## Affiliations & academic service
 
 - Reviewer for *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)* and *Scientific Reports* (2024 -- Present)
