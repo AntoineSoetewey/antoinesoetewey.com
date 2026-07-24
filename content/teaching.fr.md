@@ -7,8 +7,8 @@ layout: "simple"
 
 ## Chargé de cours invité
 
-- 2026 - 2027 : Probabilités et inférence statistique (UNamur, ECGEB252)
-- 2026 - 2027 : Biostatistiques et analyse critique de l'information (UCLouvain, LVETE1262)
+- 2026 - Présent : Probabilités et inférence statistique (UNamur, ECGEB252)
+- 2026 - Présent : Biostatistiques et analyse critique de l'information (UCLouvain, LVETE1262)
 - 2024 - 2026 : Analyse statistique multivariée (UCLouvain, LINGE1222)
 - 2024 - 2026 : Statistique (UNamur, ECGEB152)
 - 2023 - 2024 : Méthodes quantitatives avancées (UNamur, EINGM105)
