@@ -7,14 +7,11 @@ layout: "simple"
 
 ## Chargé de cours invité
 
-*UCLouvain :*
-
-- 2024 - 2026 : Analyse statistique multivariée (LINGE1222)
-
-*UNamur :*
-
-- 2024 - 2026 : Statistique (ECGEB152)
-- 2023 - 2024 : Méthodes quantitatives avancées (EINGM105)
+- 2026 - 2027 : Probabilités et inférence statistique (UNamur, ECGEB252)
+- 2026 - 2027 : Biostatistiques et analyse critique de l'information (UCLouvain, LVETE1262)
+- 2024 - 2026 : Analyse statistique multivariée (UCLouvain, LINGE1222)
+- 2024 - 2026 : Statistique (UNamur, ECGEB152)
+- 2023 - 2024 : Méthodes quantitatives avancées (UNamur, EINGM105)
 
 ## Assistant d'enseignement
 
