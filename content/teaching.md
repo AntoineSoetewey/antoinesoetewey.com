@@ -7,14 +7,11 @@ layout: "simple"
 
 ## Visiting lecturer
 
-*UCLouvain:*
-
-- 2024 - 2026: Multivariate statistical analysis (LINGE1222)
-
-*UNamur:*
-
-- 2024 - 2026: Statistics (ECGEB152)
-- 2023 - 2024: Advanced quantitative methods (EINGM105)
+- 2026 - Present : Probability and mathematical statistics (UNamur, ECGEB252)
+- 2026 - Present : Biostatistics and information's critical analysis (UCLouvain, LVETE1262)
+- 2024 - 2026: Multivariate statistical analysis (UCLouvain, LINGE1222)
+- 2024 - 2026: Statistics (UNamur, ECGEB152)
+- 2023 - 2024: Advanced quantitative methods (UNamur, EINGM105)
 
 ## Teaching assistant
 
