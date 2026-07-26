@@ -41,9 +41,9 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### Working papers
 
-- JVDI
-- kindling
-- JOSE
+- Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. *Submitted at The Journal of Veterinary Diagnostic Investigation.*
+- **Soetewey, A.** and Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. *Submitted at The Journal of Open Source Software.*
+- **Soetewey, A.** (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. *To appear at The Journal of Open Source Education.*
 
 ### Books
 
