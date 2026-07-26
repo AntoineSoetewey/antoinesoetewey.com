@@ -25,6 +25,8 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 
 ## Publications
 
+### Articles soumis à un comité de lecture
+
 <!--
 - **Soetewey, A.**, (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Journal of Open Source Education, xxx(xxx), xxx, https://doi.org/xxx
 !-->
@@ -32,19 +34,28 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 - **Soetewey, A.**, Heuchenne, C., Claes, A. et Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. *SoftwareX, 33*, 102483. [[doi.org/10.1016/j.softx.2025.102483](https://doi.org/10.1016/j.softx.2025.102483)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2025). Semi-Markov modeling for disease incidence risk and duration. *Biostatistics & Epidemiology, 9*(1). [[doi.org/10.1080/24709360.2025.2517916](https://doi.org/10.1080/24709360.2025.2517916)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2025). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. <i>European Actuarial Journal, 15</i>, 15-43. [[dx.doi.org/10.1007/s13385-024-00403-6](http://dx.doi.org/10.1007/s13385-024-00403-6)]
-- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *Thèse de doctorat*, UCLouvain, Belgique. [[pdf](http://hdl.handle.net/2078.1/291928)]
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. et **Soetewey, A.** (2023). Impact of a Food Rebalancing Program Associated with Plant-Derived Food Supplements on the Biometric, Behavioral, and Biological Parameters of Obese Subjects. *Nutrients*, *15*(22):4780. [[doi.org/10.3390/nu15224780](https://doi.org/10.3390/nu15224780)]
 - Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., **Soetewey, A.**, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. et Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [<a href="https://doi.org/10.1093/ofid/ofad229" target="_blank" rel="noopener">doi.org/10.1093/ofid/ofad229</a>]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [<a href="https://doi.org/10.1007/s13385-022-00308-2" target="_blank" rel="noopener">doi.org/10.1007/s13385-022-00308-2</a>]
 - **Soetewey, A.**, Legrand, C., Denuit, M. et Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>, 135-160. [<a href="https://doi.org/10.1007/s13385-020-00254-x" target="_blank" rel="noopener">doi.org/10.1007/s13385-020-00254-x</a>]
 
+### Documents de travail
+
+- Chevalier, N., **Soetewey, A.**, Matthys, H. et Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Soumis dans *The Journal of Veterinary Diagnostic Investigation.*
+- **Soetewey, A.** et Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Soumis dans *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
+- **Soetewey, A.** (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. A paraître dans *The Journal of Open Source Education.* [[doi.org/10.48550/arXiv.2603.28274](https://doi.org/10.48550/arXiv.2603.28274)]
+
+### Livres
+
+- **Soetewey, A.** et Heuchenne, C. (2026). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis. En révision dans *Springer Nature*.
+
+### Thèse de doctorat
+
+- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. UCLouvain, Belgique. [[hdl.handle.net/2078.5/263052](https://hdl.handle.net/2078.5/263052)]
+
 {{< alert "circle-info" >}}
 Pour une liste détaillée des publications, voir mon profil <a href="https://scholar.google.com/citations?user=1P7ThwUAAAAJ" target="_blank" rel="noopener">Google Scholar</a>, <a href="https://orcid.org/0000-0001-8159-0804" target="_blank" rel="noopener">ORCID</a> ou <a href="https://www.researchgate.net/profile/Antoine-Soetewey" target="_blank" rel="noopener">ResearchGate</a>.
 {{< /alert >}}
-
-## Livres
-
-- **Soetewey, A.**, Heuchenne, C. et Uyttendaele, N. (en cours). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis.
 
 ## Conférences & posters
 
