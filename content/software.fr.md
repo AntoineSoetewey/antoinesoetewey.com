@@ -31,7 +31,6 @@ Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (
 
 ## Autres projets
 
-- [Advanced Descriptive Analysis of Tabular Data](https://antoinesoetewey.quarto.pub/advanced-descriptive-analysis-of-tabular-data/) : Un livre en ligne couvrant des méthodes avancées pour l'analyse descriptive de données tabulaires.
 - [Coronavirus dashboard](https://github.com/AntoineSoetewey/coronavirus_dashboard) : Un tableau de bord R Shiny conçu pour suivre et visualiser l'évolution du COVID-19 en Belgique à partir de données épidémiologiques publiques.
 
 Voir mon [profil GitHub](https://github.com/AntoineSoetewey) {{< icon "github" >}} pour plus de projets.
