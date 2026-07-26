@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9e375f3-5da4-4d63-9906-3565bb8d7dd9/deploy-status)](https://app.netlify.com/projects/antoinesoetewey/deploys)
+
 # antoinesoetewey.com
 
 Welcome to the personal website of [Antoine Soetewey](https://www.antoinesoetewey.com/).
