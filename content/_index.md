@@ -1,5 +1,5 @@
 ---
-description: Personal website of Antoine Soetewey, postdoctoral researcher in statistics at UCLouvain Saint-Louis Brussels and HEC Liège
+description: Personal website of Antoine Soetewey, postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels
 title: 'Antoine Soetewey'
 ---
 
