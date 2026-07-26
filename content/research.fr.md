@@ -79,8 +79,8 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 ## Subventions & financements
 
-- Projet de recherche ODALON (Win2Wal 2023 - Num. 2310019 - ODALON3)
-- FWO et F.R.S.-FNRS dans le cadre du programme Excellence of Science (EOS), projet EOS 40007517.
+- La Région wallonne et le Service public de Wallonie (SPW) Recherche, dans le cadre du projet de recherche ODALON, projet Win2Wal 2023 Num. 2310019 ODALON3.
+- FWO et F.R.S.-FNRS, dans le cadre du programme Excellence of Science (EOS), projet EOS 40007517.
 
 ## Encadrement d'étudiants
 
