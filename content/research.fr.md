@@ -77,14 +77,10 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Séminaire conjoint de doctorat en statistique, mathématiques actuarielles et financières (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
 
-## Presse & médias
+## Subventions & financements
 
-<ul>
-    <li>Le droit à l'oubli en assurances peut-il être amélioré ? (UCLouvain) [<a href="https://youtu.be/sOWA4u44H7c?si=q3Q5cUDI9puCyyYQ" target="_blank" rel="noopener">link</a>]</li>
-    <li>La recherche : un métier, une expertise, de la passion (UCLouvain) [<a href="https://vimeo.com/924118223" target="_blank" rel="noopener">lien</a>]</li>
-    <li>Le Droit à l'oubli - Sommes-nous tous égaux face aux assurances ? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances" target="_blank" rel="noopener">lien</a>]</li>
-    <li>Comment peut-on prévoir l'évolution du COVID 19 en Belgique ? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/isba/news/modeling-the-evolution-of-the-covid-19-virus-in-belgium" target="_blank" rel="noopener">lien</a>]</li>
-</ul>
+- Projet de recherche ODALON (Win2Wal 2023 - Num. 2310019 - ODALON3)
+- FWO et F.R.S.-FNRS dans le cadre du programme Excellence of Science (EOS), projet EOS 40007517.
 
 ## Encadrement d'étudiants
 
@@ -103,3 +99,12 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 - Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* (2023 -- 2024)
 - Représentant des doctorants à l'*Ecole de statistique, biostatistique et sciences actuarielles, UCLouvain* (2020 -- 2022)
 - Membre de la *Société Royale Belge de Statistique* (2017 -- Présent)
+
+## Presse & médias
+
+<ul>
+    <li>Le droit à l'oubli en assurances peut-il être amélioré ? (UCLouvain) [<a href="https://youtu.be/sOWA4u44H7c?si=q3Q5cUDI9puCyyYQ" target="_blank" rel="noopener">link</a>]</li>
+    <li>La recherche : un métier, une expertise, de la passion (UCLouvain) [<a href="https://vimeo.com/924118223" target="_blank" rel="noopener">lien</a>]</li>
+    <li>Le Droit à l'oubli - Sommes-nous tous égaux face aux assurances ? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances" target="_blank" rel="noopener">lien</a>]</li>
+    <li>Comment peut-on prévoir l'évolution du COVID 19 en Belgique ? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/isba/news/modeling-the-evolution-of-the-covid-19-virus-in-belgium" target="_blank" rel="noopener">lien</a>]</li>
+</ul>
