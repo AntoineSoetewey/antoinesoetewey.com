@@ -16,7 +16,7 @@ Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en science des do
 
 En parallèle de mes [recherches](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et les probabilités en tant que chargé de cours invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
 
-Quand j'en ai l'occasion, je code en R et partage mes connaissances sur mon [blog](https://statsandr.com/).
+Pendant mon temps libre, je code en R et partage mes connaissances sur mon [blog](https://statsandr.com/).
 
 <br>
 
