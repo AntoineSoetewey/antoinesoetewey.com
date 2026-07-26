@@ -25,6 +25,8 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ## Publications
 
+### Peer-reviewed papers
+
 <!--
 - **Soetewey, A.**, (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Journal of Open Source Education, xxx(xxx), xxx, https://doi.org/xxx
 !-->
@@ -32,19 +34,28 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 - **Soetewey, A.**, Heuchenne, C., Claes, A. and Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. *SoftwareX, 33*, 102483. [[doi.org/10.1016/j.softx.2025.102483](https://doi.org/10.1016/j.softx.2025.102483)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2025). Semi-Markov modeling for disease incidence risk and duration. *Biostatistics & Epidemiology, 9*(1). [[doi.org/10.1080/24709360.2025.2517916](https://doi.org/10.1080/24709360.2025.2517916)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2025). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. <i>European Actuarial Journal, 15</i>, 15-43. [[dx.doi.org/10.1007/s13385-024-00403-6](http://dx.doi.org/10.1007/s13385-024-00403-6)]
-- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *PhD thesis*, UCLouvain, Belgium. [[pdf](http://hdl.handle.net/2078.1/291928)]
 - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and **Soetewey, A.** (2023). Impact of a Food Rebalancing Program Associated with Plant-Derived Food Supplements on the Biometric, Behavioral, and Biological Parameters of Obese Subjects. *Nutrients*, *15*(22):4780. [[doi.org/10.3390/nu15224780](https://doi.org/10.3390/nu15224780)]
 - Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., **Soetewey, A.**, Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. <i>Open Forum Infectious Diseases</i> (p. ofad229). Oxford University Press. [[doi.org/10.1093/ofid/ofad229](https://doi.org/10.1093/ofid/ofad229)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. <i>European Actuarial Journal, 12</i>, 813-837. [[doi.org/10.1007/s13385-022-00308-2](https://doi.org/10.1007/s13385-022-00308-2)]
 - **Soetewey, A.**, Legrand, C., Denuit, M. and Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. <i>European Actuarial Journal, 11</i>, 135-160. [[doi.org/10.1007/s13385-020-00254-x](https://doi.org/10.1007/s13385-020-00254-x)]
 
+### Working papers
+
+- JVDI
+- kindling
+- JOSE
+
+### Books
+
+- **Soetewey, A.** and Heuchenne, C. (2026). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis. *Under review at Springer Nature.*
+
+### PhD thesis
+
+- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *PhD thesis*, UCLouvain, Belgium. [[pdf](http://hdl.handle.net/2078.1/291928)]
+
 {{< alert "circle-info" >}}
 For a detailed list of publications see my [Google Scholar](https://scholar.google.com/citations?user=1P7ThwUAAAAJ), [ORCID](https://orcid.org/0000-0001-8159-0804) or [ResearchGate](https://www.researchgate.net/profile/Antoine-Soetewey) profile.
 {{< /alert >}}
-
-## Books
-
-- **Soetewey, A.**, Heuchenne, C. and Uyttendaele, N. (in progress). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis.
 
 ## Talks & posters
 
