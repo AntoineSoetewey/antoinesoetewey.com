@@ -22,15 +22,15 @@ Vous trouverez ci-dessous un aperçu des logiciels, outils et projets que j'ai (
 - [AssociationExplorer](https://github.com/AntoineSoetewey/AssociationExplorer) : Une application Shiny open-source pour explorer les associations statistiques dans des jeux de données multivariés à travers des réseaux de corrélations interactifs et des graphiques bivariés.
 - [Calculateur de prêt](https://github.com/AntoineSoetewey/mortgage-calculator) : Une application interactive pour calculer les mensualités, le coût total d'un emprunt et un tableau d'amortissement mensuel complet en fonction du montant, du taux d'intérêt et de la durée du prêt.
 
-## Sites web et blogs
+## Sites web & blogs
 
 - [Site personnel](https://antoinesoetewey.com/) : Mon site personnel présentant mes activités de recherche, d'enseignement et mes projets logiciels.
 - [Stats and R](https://statsandr.com/) : Un blog expliquant les concepts statistiques et leurs applications en R, avec pour objectif de rendre les statistiques accessibles au plus grand nombre.
-- [easystat.be](https://easystat.be/) : Un service de tutorat et de conseil proposant des cours particuliers en statistiques, probabilités et programmation R aux étudiants et chercheurs.
-- [Centre médical de Piétrebais](https://cmp1315.com/) : Site web d'un centre médical pluridisciplinaire à Piétrebais, en Belgique, présentant ses praticiens et proposant un système de prise de rendez-vous en ligne.
 
 ## Autres projets
 
 - [Coronavirus dashboard](https://github.com/AntoineSoetewey/coronavirus_dashboard) : Un tableau de bord R Shiny conçu pour suivre et visualiser l'évolution du COVID-19 en Belgique à partir de données épidémiologiques publiques.
+- [easystat.be](https://easystat.be/) : Un service de tutorat et de conseil proposant des cours particuliers en statistiques, probabilités et programmation R aux étudiants et chercheurs.
+- [Centre médical de Piétrebais](https://cmp1315.com/) : Site web d'un centre médical pluridisciplinaire à Piétrebais, en Belgique, présentant ses praticiens et proposant un système de prise de rendez-vous en ligne.
 
 Voir mon [profil GitHub](https://github.com/AntoineSoetewey) {{< icon "github" >}} pour plus de projets.
