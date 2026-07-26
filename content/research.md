@@ -47,7 +47,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### Books
 
-- **Soetewey, A.** and Heuchenne, C. (2026). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis. *Under review at Springer Nature.*
+- **Soetewey, A.** and Heuchenne, C. (2026). Advanced Descriptive Analysis of Tabular Data: Methods and Tools for Exploratory Analysis. Under review at *Springer Nature.*
 
 ### PhD thesis
 
