@@ -22,15 +22,15 @@ Below is an overview of the software, tools, and projects I have (co-)developed.
 - [AssociationExplorer](https://github.com/AntoineSoetewey/AssociationExplorer): An open-source Shiny application for exploring statistical associations in multivariate datasets through interactive correlation networks and bivariate plots.
 - [Mortgage calculator](https://github.com/AntoineSoetewey/mortgage-calculator): An interactive app to compute monthly loan payments, total borrowing costs, and a full month-by-month amortization schedule based on loan amount, interest rate, and loan duration.
 
-## Websites and blogs
+## Websites & blogs
 
 - [Personal website](https://antoinesoetewey.com/): My personal website presenting my research, teaching, and software projects.
 - [Stats and R](https://statsandr.com/): A blog explaining statistical concepts and their applications in R, with the goal of making statistics accessible to a broad audience.
-- [easystat.be](https://easystat.be/): A French-language tutoring and consulting service offering private lessons in statistics, probability, and R programming to students and researchers.
-- [Centre médical de Piétrebais](https://cmp1315.com/): Website of a multidisciplinary medical centre in Piétrebais, Belgium, presenting its practitioners and offering an integrated online appointment booking system.
 
-## Other projects
+## Other & freelance work
 
 - [Coronavirus dashboard](https://github.com/AntoineSoetewey/coronavirus_dashboard): An R Shiny dashboard built to monitor and visualize the evolution of COVID-19 in Belgium using publicly available epidemiological data.
+- [easystat.be](https://easystat.be/): A French-language tutoring and consulting service offering private lessons in statistics, probability, and R programming to students and researchers.
+- [Centre médical de Piétrebais](https://cmp1315.com/): Website of a multidisciplinary medical centre in Piétrebais, Belgium, presenting its practitioners and offering an integrated online appointment booking system.
 
 See my [GitHub profile](https://github.com/AntoineSoetewey) {{< icon "github" >}} for more projects.
