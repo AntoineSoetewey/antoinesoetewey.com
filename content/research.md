@@ -82,8 +82,8 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 <ul>
     <li>Can the right to be forgotten in insurance be improved? (UCLouvain) [<a href="https://youtu.be/sOWA4u44H7c?si=q3Q5cUDI9puCyyYQ" target="_blank" rel="noopener">link</a>]</li>
     <li>Research: a profession with expertise and passion (UCLouvain) [<a href="https://vimeo.com/924118223" target="_blank" rel="noopener">link</a>]</li>
-    <li>The right to be forgotten - Are we all equal when it comes to insurance? (UCLouvain) [<a href="https://uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances.html" target="_blank" rel="noopener">link</a>]</li>
-    <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://uclouvain.be/fr/instituts-recherche/lidam/actualites/how-can-we-predict-the-evolution-of-covid-19-in-belgium.html" target="_blank" rel="noopener">link</a>]</li>
+    <li>The right to be forgotten - Are we all equal when it comes to insurance? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/news/le-droit-a-l-oubli-sommes-nous-tous-egaux-face-aux-assurances" target="_blank" rel="noopener">link</a>]</li>
+    <li>How can we predict the evolution of COVID 19 in Belgium? (UCLouvain) [<a href="https://www.uclouvain.be/en/research-institutes/lidam/isba/news/modeling-the-evolution-of-the-covid-19-virus-in-belgium" target="_blank" rel="noopener">link</a>]</li>
 </ul>
 
 ## Student supervision
