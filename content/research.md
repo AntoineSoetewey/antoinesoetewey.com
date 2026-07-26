@@ -51,7 +51,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### PhD thesis
 
-- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. *PhD thesis*, UCLouvain, Belgium. [[hdl.handle.net/2078.5/263052](https://hdl.handle.net/2078.5/263052)]
+- **Soetewey, A.** (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. UCLouvain, Belgium. [[hdl.handle.net/2078.5/263052](https://hdl.handle.net/2078.5/263052)]
 
 {{< alert "circle-info" >}}
 For a detailed list of publications see my [Google Scholar](https://scholar.google.com/citations?user=1P7ThwUAAAAJ), [ORCID](https://orcid.org/0000-0001-8159-0804) or [ResearchGate](https://www.researchgate.net/profile/Antoine-Soetewey) profile.
