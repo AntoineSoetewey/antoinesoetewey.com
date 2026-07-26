@@ -25,7 +25,7 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 
 ## Publications
 
-### Articles soumis à un comité de lecture
+### Articles publiés dans des revues à comité de lecture
 
 <!--
 - **Soetewey, A.**, (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Journal of Open Source Education, xxx(xxx), xxx, https://doi.org/xxx
