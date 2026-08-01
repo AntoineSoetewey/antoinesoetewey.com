@@ -41,7 +41,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### Working papers
 
-- Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Submitted to *The Journal of Veterinary Diagnostic Investigation.*
+- Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Submitted to *Journal of Veterinary Diagnostic Investigation.*
 - **Soetewey, A.** and Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Submitted to *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
 - **Soetewey, A.** (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Forthcoming in *The Journal of Open Source Education.* [[doi.org/10.48550/arXiv.2603.28274](https://doi.org/10.48550/arXiv.2603.28274)]
 
@@ -93,12 +93,10 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 - Carnot Dongmo Mbane (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne and Dr. Hugues Annoye)
 - Saunier Blainda Juenang Payong (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
 
-## Affiliations & academic service
+## Academic service
 
 - Reviewer for *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports* and *BMC Cancer* (2024 -- Present)
-- Doctoral student representative at the *Thematic doctoral school of statistics and actuarial sciences, F.R.S.-FNRS* (2023 -- 2024)
-- Doctoral student representative at the *Louvain school of statistics, biostatistics and actuarial sciences, UCLouvain* (2020 -- 2022)
-- Member of the *Royal Statistical Society of Belgium* (2017 -- Present)
+- Doctoral student representative at the *Thematic Doctoral School of Statistics and Actuarial Sciences, F.R.S.-FNRS* and at the *Louvain School of Statistics, Biostatistics and Actuarial Sciences (LSBA), UCLouvain* (2020 -- 2024)
 
 ## Press & media
 

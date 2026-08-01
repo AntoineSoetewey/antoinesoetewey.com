@@ -41,7 +41,7 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 
 ### Documents de travail
 
-- Chevalier, N., **Soetewey, A.**, Matthys, H. et Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Soumis à *The Journal of Veterinary Diagnostic Investigation.*
+- Chevalier, N., **Soetewey, A.**, Matthys, H. et Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Soumis à *Journal of Veterinary Diagnostic Investigation.*
 - **Soetewey, A.** et Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Soumis à *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
 - **Soetewey, A.** (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. A paraître dans *The Journal of Open Source Education.* [[doi.org/10.48550/arXiv.2603.28274](https://doi.org/10.48550/arXiv.2603.28274)]
 
@@ -93,12 +93,10 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 - Carnot Dongmo Mbane (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne et Dr. Hugues Annoye)
 - Saunier Blainda Juenang Payong (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne)
 
-## Affiliations & engagements académiques
+## Engagements académiques
 
 - Réviseur pour *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports* et *BMC Cancer* (2024 -- Présent)
-- Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* (2023 -- 2024)
-- Représentant des doctorants à l'*Ecole de statistique, biostatistique et sciences actuarielles, UCLouvain* (2020 -- 2022)
-- Membre de la *Société Royale Belge de Statistique* (2017 -- Présent)
+- Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* et à l'*Ecole de Statistique, Biostatistique et Sciences Actuarielles (LSBA), UCLouvain* (2020 -- 2024)
 
 ## Presse & médias
 
