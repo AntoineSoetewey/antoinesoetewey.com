@@ -41,7 +41,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### Working papers
 
-- Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Submitted to *Journal of Veterinary Diagnostic Investigation.*
+- Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Submitted to *Journal of Veterinary Diagnostic Investigation.* [[hdl.handle.net/2078.5/279293](https://hdl.handle.net/2078.5/279293)]
 - **Soetewey, A.** and Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Submitted to *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
 - **Soetewey, A.** (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Forthcoming in *The Journal of Open Source Education.* [[doi.org/10.48550/arXiv.2603.28274](https://doi.org/10.48550/arXiv.2603.28274)]
 
