@@ -58,7 +58,7 @@ Voir tous les [cours](/fr/teaching/).
 
 ### Logiciels
 
-- R (RStudio, R Markdown & Quarto, R Shiny), Jamovi, JASP, GitHub/GitLab, LaTeX
+- R (RStudio, R Markdown & Quarto, R Shiny), Python, Jamovi, JASP, GitHub/GitLab, LaTeX
 - Développement web
 
 ### Langues
