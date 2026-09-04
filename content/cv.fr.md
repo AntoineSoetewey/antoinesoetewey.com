@@ -30,7 +30,7 @@ En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les 
 
 ### Recherche
 
-- 2024 -- Présent : **Chercheur postdoctoral** en science des données et statistique -- HEC Liège & UCLouvain Saint-Louis Bruxelles, Belgique
+- 2024 -- 2026 : **Chercheur postdoctoral** en science des données et statistique -- HEC Liège & UCLouvain Saint-Louis Bruxelles, Belgique
 - 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
 
 {{< alert "circle-info" >}}

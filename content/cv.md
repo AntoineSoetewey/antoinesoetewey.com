@@ -30,7 +30,7 @@ In parallel with my [research](/research/), I [teach](/teaching/) statistics and
 
 ### Research
 
-- 2024 -- Present: **Postdoctoral researcher** in data science and statistics -- HEC Liège & UCLouvain Saint-Louis Brussels, Belgium
+- 2024 -- 2026: **Postdoctoral researcher** in data science and statistics -- HEC Liège & UCLouvain Saint-Louis Brussels, Belgium
 - 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
 
 {{< alert "circle-info" >}}
