@@ -41,6 +41,7 @@ Ce doctorat est un travail conjoint avec Prof. Catherine Legrand et Prof. Michel
 
 ### Documents de travail
 
+- D'Haegeleer, T., Heuchenne, C. et **Soetewey, A.** (2026). Partial Association Explorer: Comparing Marginal and Conditional Dependence Structures in Mixed Social-Science Data. Soumis à *Social Science Computer Review*.
 - Moury, J., Vandevelde, V., **Soetewey, A.**, Thys, F. et Bulpa, P. (2026). Comparaison des prises en charge des urgences préhospitalières par des équipes paramédicalisées et médicalisées. Sous presse, *Revue Médicale de Liège*.
 - Chevalier, N., **Soetewey, A.**, Matthys, H. et Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Soumis à *Journal of Veterinary Diagnostic Investigation.* [[hdl.handle.net/2078.5/279293](https://hdl.handle.net/2078.5/279293)]
 - **Soetewey, A.** et Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Soumis à *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
