@@ -30,8 +30,9 @@ In parallel with my [research](/research/), I [teach](/teaching/) statistics and
 
 ### Research
 
-- 2026 -- Present: **Postdoctoral researcher** in data science and statistics -- UCLouvain, Belgium
-- 2024 -- 2026: **Postdoctoral researcher** in data science and statistics -- ULiège & UCLouvain Saint-Louis Brussels, Belgium
+- 2024 -- Present: **Postdoctoral researcher** in data science and statistics -- UCLouvain & ULiège, Belgium
+  + 2026 -- Present: Research on issues related to mortality (UCLouvain)
+  + 2024 -- 2026: ODALON and Beamm projects (ULiège & UCLouvain Saint-Louis Brussels)
 - 2017 -- 2024: **Doctoral researcher** in statistics -- UCLouvain, Belgium
 
 {{< alert "circle-info" >}}
