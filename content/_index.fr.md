@@ -1,5 +1,5 @@
 ---
-description: Site personnel d'Antoine Soetewey, chercheur postdoctoral en science des données et statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles
+description: Site personnel d'Antoine Soetewey, chercheur postdoctoral en science des données et statistique à l'UCLouvain
 title: 'Antoine Soetewey'
 ---
 
@@ -12,7 +12,7 @@ Je suis activement à la recherche d'un poste de postdoc, idéalement (i) qui d�
 
 <br>
 
-Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en science des données et statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles.
+Bonjour, je m'appelle Antoine Soetewey, chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité. J'ai obtenu mon doctorat en statistique à l'UCLouvain en 2024, avec une recherche centrée sur l'analyse de survie appliquée aux patients atteints de cancer.
 
 En parallèle de mes [recherches](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et les probabilités en tant que chargé de cours invité à l'UCLouvain et à UNamur. <!--J'aide également des professionnels et des entreprises à [analyser leurs données](https://datanalyze.be/fr/), et je donne des [cours privés](https://easystat.be/) à des étudiants et des chercheurs.-->
 

@@ -5,9 +5,11 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-Je participe aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model). À ce titre, je suis membre du *Center for Quantitative Methods and Operations Management (QuantOM)* à HEC Liège et du *Center for Applied Public Economics (CAPE)* à l'UCLouvain Saint-Louis Bruxelles.
+Je suis chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité.
 
-Le projet ODALON vise à développer une plateforme automatisant partiellement la production d’informations locales. Le projet Beamm, quant à lui, vise à développer un modèle de microsimulation pour simuler l’impact des mesures politiques sur la population belge.
+Lors de mon premier postdoctorat, de septembre 2024 à septembre 2026, j'ai contribué aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles.
+
+Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
 Mes intérêts de recherche portent sur les (bio)statistiques, la science des données et la modélisation prédictive, en utilisant un large éventail de méthodes allant des modèles statistiques traditionnels aux techniques avancées de machine learning. Je développe des analyses rigoureuses adaptées aux spécificités des données étudiées, en accordant une attention particulière à l’interprétabilité des résultats et à leur application concrète.
 

@@ -1,5 +1,5 @@
 ---
-description: Personal website of Antoine Soetewey, postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels
+description: Personal website of Antoine Soetewey, postdoctoral researcher in data science and statistics at UCLouvain
 title: 'Antoine Soetewey'
 ---
 
@@ -12,7 +12,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br> 
 
-Hello, I'm Antoine Soetewey, a postdoctoral researcher in data science and statistics at HEC Liège and UCLouvain Saint-Louis Brussels.
+Hello, I'm Antoine Soetewey, a postdoctoral researcher in data science and statistics at UCLouvain, working on issues related to mortality. I obtained my PhD in statistics from UCLouvain in 2024, with a focus on survival analysis applied to cancer patients.
 
 Alongside my [research](/research/), I [teach](/teaching/) statistics and probability as visiting lecturer at UCLouvain and UNamur. <!--I also help professionals and companies to [analyze their data](https://datanalyze.be/), and I give [private lessons](https://easystat.be/) to students and researchers.-->
 

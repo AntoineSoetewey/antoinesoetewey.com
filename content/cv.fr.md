@@ -12,7 +12,7 @@ Télécharger mon CV
 
 ## Résumé
 
-Je suis chercheur postdoctoral en science des données et statistique à HEC Liège et UCLouvain Saint-Louis Bruxelles, où je contribue aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model). Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
+Je suis chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité. De 2024 à 2026, j'ai été chercheur postdoctoral à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles, où j'ai contribué aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model). Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
 
 En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les statistiques et probabilités aux niveaux bachelier et master en tant que chargé de cours invité à l'UCLouvain et à UNamur.
 
@@ -30,7 +30,8 @@ En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les 
 
 ### Recherche
 
-- 2024 -- 2026 : **Chercheur postdoctoral** en science des données et statistique -- HEC Liège & UCLouvain Saint-Louis Bruxelles, Belgique
+- 2026 -- Présent : **Chercheur postdoctoral** en science des données et statistique -- UCLouvain, Belgique
+- 2024 -- 2026 : **Chercheur postdoctoral** en science des données et statistique -- ULiège & UCLouvain Saint-Louis Bruxelles, Belgique
 - 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
 
 {{< alert "circle-info" >}}
