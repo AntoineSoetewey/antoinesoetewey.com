@@ -6,7 +6,7 @@ title: About
 
 I am a postdoctoral researcher in data science and statistics at UCLouvain, working on issues related to mortality.
 
-From 2024 to 2026, I was a postdoctoral researcher at ULiège and UCLouvain Saint-Louis Brussels, where I contributed to the ODALON (Open multimodal Data for Automated LOcal News) project, which leverages data science to enhance journalism and enable the partial automation of local news, and the [Beamm](https://beamm.brussels/) (Belgian Arithmetic Microsimulation Model) project, which focuses on economic policy simulation.
+From 2024 to 2026, I was a postdoctoral researcher at ULiège and UCLouvain Saint-Louis Brussels, where I worked on the automation of local news (ODALON project) and on economic policy simulation ([Beamm](https://beamm.brussels/) project).
 
 Before that, I obtained a PhD in statistics from UCLouvain, focusing on survival analysis and the implementation of biostatistical methods applied to cancer patients. I also hold a Master in Economics from KU Leuven and a Master in Econometrics from Maastricht University.
 

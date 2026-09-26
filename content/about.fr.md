@@ -6,7 +6,7 @@ title: A propos
 
 Je suis chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité.
 
-De 2024 à 2026, j'ai été chercheur postdoctoral à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles, où j'ai contribué au projet ODALON (*Open multimodal Data for Automated LOcal News*), qui utilise la science des données pour améliorer le journalisme et permettre la production semi-automatisée d’informations locales, ainsi qu'au projet [Beamm](https://beamm.brussels/) (*Belgian Arithmetic Microsimulation Model*), qui se concentre sur la simulation de politiques économiques.
+De 2024 à 2026, j'ai été chercheur postdoctoral à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles, où j'ai travaillé sur l'automatisation de l'information locale (projet ODALON) et sur la simulation de politiques économiques (projet [Beamm](https://beamm.brussels/)).
 
 Avant cela, j’ai obtenu un doctorat en statistique à l'UCLouvain, avec un focus sur l’analyse de survie et l'implémentation de méthodes biostatistiques appliquées aux patients atteints de cancer. Je suis également titulaire d’un master en économie de la KU Leuven et d’un master en économétrie de Maastricht University.  
 

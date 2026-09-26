@@ -5,11 +5,11 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-I am a postdoctoral researcher in data science and statistics at UCLouvain, working on issues related to mortality.
+I am a postdoctoral researcher in data science and statistics at UCLouvain, working on issues related to mortality under the supervision of Prof. Catherine Legrand and Prof. Michel Denuit. More specifically, I work on the construction of mortality tables for the Belgian market based on statistics from the National Bank of Belgium (NBB).
 
-During my first postdoc, from September 2024 to September 2026, I contributed to the ODALON (Open multimodal Data for Automated LOcal News) and [Beamm](https://beamm.brussels/) (Belgian Arithmetic Microsimulation Model) projects at ULiège and UCLouvain Saint-Louis Brussels.
+During my first postdoc, from September 2024 to September 2026, I contributed to the ODALON (Open multimodal Data for Automated LOcal News) and [Beamm](https://beamm.brussels/) (Belgian Arithmetic Microsimulation Model) projects at ULiège and UCLouvain Saint-Louis Brussels. The ODALON project aims to develop a platform that leverages data science to partially automate the production of local news, while the Beamm project aims to develop a microsimulation model to simulate the impact of policy measures on the Belgian population.
 
-Before that, I obtained a PhD in statistics from UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients.
+Before that, I obtained a PhD in statistics from UCLouvain, also under the supervision of Prof. Legrand and Prof. Denuit. My [thesis](/files/PhD_thesis.pdf) focused on survival analysis and biostatistical methods applied to cancer patients, in order to estimate the time since diagnosis after which these patients can be considered cured, and to quantify their potential excess mortality so as to adapt the actuarial pricing of life insurance products.
 
 My research interests lie in (bio)statistics, data science, and predictive modeling, using a wide range of methods from traditional statistical models to advanced machine learning techniques. I develop rigorous analyses tailored to the specificities of the data studied, with particular attention paid to the interpretability of the results and their practical application.
 

@@ -31,7 +31,7 @@ En parallèle de ma [recherche](/fr/research/), j'[enseigne](/fr/teaching/) les 
 ### Recherche
 
 - 2024 -- Présent : **Chercheur postdoctoral** en science des données et statistique -- UCLouvain & ULiège, Belgique
-  + 2026 -- Présent : Recherche sur des questions liées à la mortalité (UCLouvain)
+  + 2026 -- Présent : Établissement de tables de mortalité relatives au marché belge sur base des statistiques de la BNB (UCLouvain)
   + 2024 -- 2026 : Projets ODALON et Beamm (ULiège & UCLouvain Saint-Louis Bruxelles)
 - 2017 -- 2024 : **Doctorant** en statistique -- UCLouvain, Belgique
 

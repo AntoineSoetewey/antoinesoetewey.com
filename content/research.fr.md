@@ -5,11 +5,11 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-Je suis chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité.
+Je suis chercheur postdoctoral en science des données et statistique à l'UCLouvain, où je travaille sur des questions liées à la mortalité sous la direction des professeurs Catherine Legrand et Michel Denuit. Plus précisément, je travaille à l'établissement de tables de mortalité relatives au marché belge sur base des statistiques de la Banque nationale de Belgique (BNB).
 
-Lors de mon premier postdoctorat, de septembre 2024 à septembre 2026, j'ai contribué aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles.
+Lors de mon premier postdoctorat, de septembre 2024 à septembre 2026, j'ai contribué aux projets ODALON (Open multimodal Data for Automated LOcal News) et [Beamm](https://beamm.brussels/) (BElgian Arithmetic Microsimulation Model) à l'ULiège et à l'UCLouvain Saint-Louis Bruxelles. Le projet ODALON vise à développer une plateforme utilisant la science des données pour automatiser partiellement la production d’informations locales, tandis que le projet Beamm vise à développer un modèle de microsimulation pour simuler l’impact des mesures politiques sur la population belge.
 
-Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, avec une recherche centrée sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer.
+Avant cela, j'ai obtenu un doctorat en statistique à l'UCLouvain, également sous la direction des professeurs Legrand et Denuit. Ma [thèse](/files/PhD_thesis.pdf) portait sur l'analyse de survie et les méthodes biostatistiques appliquées aux patients atteints de cancer, afin d'estimer le temps, à partir de la date du diagnostic, après lequel ces patients peuvent être considérés comme guéris, et de quantifier leur éventuelle surmortalité pour adapter la tarification actuarielle des produits d'assurance-vie.
 
 Mes intérêts de recherche portent sur les (bio)statistiques, la science des données et la modélisation prédictive, en utilisant un large éventail de méthodes allant des modèles statistiques traditionnels aux techniques avancées de machine learning. Je développe des analyses rigoureuses adaptées aux spécificités des données étudiées, en accordant une attention particulière à l’interprétabilité des résultats et à leur application concrète.
 
