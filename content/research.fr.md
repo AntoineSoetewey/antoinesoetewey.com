@@ -81,11 +81,6 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
     <li>Séminaire conjoint de doctorat en statistique, mathématiques actuarielles et financières (2018). University of Oldenburg, Germany [<a href="/files/Slides_Oldenburg_AntoineSoetewey.pdf">slides</a>]</li>
 </ul>
 
-## Subventions & financements
-
-- La Région wallonne et le Service public de Wallonie (SPW) Recherche, dans le cadre du projet de recherche ODALON, projet Win2Wal 2023 Num. 2310019 ODALON3.
-- FWO et F.R.S.-FNRS, dans le cadre du programme Excellence of Science (EOS), projet EOS 40007517.
-
 ## Encadrement d'étudiants
 
 **Doctorant**
@@ -101,6 +96,11 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 - Réviseur pour *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports* et *BMC Cancer* (2024 -- Présent)
 - Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* et à l'*Ecole de Statistique, Biostatistique et Sciences Actuarielles (LSBA), UCLouvain* (2020 -- 2024)
+
+## Subventions & financements
+
+- FWO et F.R.S.-FNRS, dans le cadre du programme Excellence of Science (EOS), projet EOS 40007517 (2017 -- 2024 & 2026 -- 2027)
+- La Région wallonne et le Service public de Wallonie (SPW) Recherche, dans le cadre du projet de recherche ODALON, projet Win2Wal 2023 Num. 2310019 ODALON3 (2024 -- 2026)
 
 ## Presse & médias
 
