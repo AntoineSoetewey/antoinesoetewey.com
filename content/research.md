@@ -85,7 +85,7 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 
 **PhD student**
 
-- Thaddée D'haegeleer (2025 -- present, co-supervision with Prof. Cédric Heuchenne)
+- Thaddée D'haegeleer (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
 
 **Master students**
 

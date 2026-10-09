@@ -85,7 +85,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 **Doctorant**
 
-- Thaddée D'haegeleer (2025 -- présent, co-encadrement avec Prof. Cédric Heuchenne)
+- Thaddée D'haegeleer (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne)
 
 **Étudiants en master**
 
