@@ -43,7 +43,7 @@ This PhD is a joint work with Prof. Catherine Legrand and Prof. Michel Denuit.
 
 ### Working papers
 
-- D'Haegeleer, T., Heuchenne, C. and **Soetewey, A.** (2026). Partial Association Explorer: Comparing Marginal and Conditional Dependence Structures in Mixed Social-Science Data. Submitted to *Social Science Computer Review*. [[hdl.handle.net/2078.5/280291](https://hdl.handle.net/2078.5/280291)]
+- D'Haegeleer, T., Heuchenne, C. and **Soetewey, A.** (2026). Partial Association Explorer: Comparing Marginal and Conditional Dependence Structures in Mixed Social-Science Data. Submitted to *The Journal of Open Source Software (JOSS)*. [[hdl.handle.net/2078.5/280291](https://hdl.handle.net/2078.5/280291)]
 - Moury, J., Vandevelde, V., **Soetewey, A.**, Michaux I., Bulpa, P. and Thys, F. (2026). Comparaison des prises en charge d'urgences préhospitalières entre équipes paramédicalisées et médicalisées. In press, *Revue Médicale de Liège*. [[hdl.handle.net/2078.5/281035](https://hdl.handle.net/2078.5/281035)]
 - Chevalier, N., **Soetewey, A.**, Matthys, H. and Depecker, M. (2026). Serum amyloid A concentrations in horses with acute equine piroplasmosis caused by Babesia *caballi* or Theileria *equi*. Submitted to *Journal of Veterinary Diagnostic Investigation.* [[hdl.handle.net/2078.5/279293](https://hdl.handle.net/2078.5/279293)]
 - **Soetewey, A.** and Marie, J. (2026). kindling: A Higher-Level torch Interface for Generating, Training, and Tuning Neural Networks in R. Submitted to *The Journal of Open Source Software.* [[doi.org/10.48550/arXiv.2607.03832](https://doi.org/10.48550/arXiv.2607.03832)]
