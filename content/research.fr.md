@@ -94,7 +94,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 ## Engagements académiques
 
-- Réviseur pour *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports* et *BMC Cancer* (2024 -- Présent)
+- Réviseur pour *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports*, *BMC Cancer* et *Frontiers in Nutrition* (2024 -- Présent)
 - Représentant des doctorants à l'*Ecole doctorale thématique de statistique et d'actuariat, F.R.S.-FNRS* et à l'*Ecole de Statistique, Biostatistique et Sciences Actuarielles (LSBA), UCLouvain* (2020 -- 2024)
 
 ## Subventions & financements
