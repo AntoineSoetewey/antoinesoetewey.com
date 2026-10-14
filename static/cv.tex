@@ -1,0 +1,303 @@
+% --- LaTeX CV Template - S. Venkatraman ---
+
+% --- Set document class and font size ---
+
+\documentclass[letterpaper, 11pt]{article}
+
+% --- Package imports ---
+
+\usepackage{hyperref, enumitem, longtable, amsmath, array}
+\usepackage{etaremune} % to reverse order of enumerate
+
+% --- Page layout settings ---
+
+% Set page margins
+\usepackage[left=0.7in, right=0.8in, bottom=.8in, top=0.8in, headsep=0in, footskip=.2in]{geometry}
+
+% Set line spacing
+\renewcommand{\baselinestretch}{1.2}
+
+% --- Page formatting settings ---
+
+% Set link colors
+\usepackage[dvipsnames]{xcolor}
+\hypersetup{colorlinks=true, linkcolor=MidnightBlue, urlcolor=MidnightBlue}
+
+% Set font to Libertine, including math support
+\usepackage{libertine}
+\usepackage[libertine]{newtxmath}
+
+% Remove page numbering
+% \pagenumbering{gobble}
+
+% Define font size and color for section headings
+\newcommand{\headingfont}{\Large\color{OliveGreen}}
+
+% --- CV section settings ---
+
+% Note: each section of this table (Education, Awards, Publications etc.) is 
+% stored in a two-column table. The left-hand column is narrow (1 inch) and is 
+% meant to store dates. The right-hand column is wide (5.2 inches) and stores 
+% the main text.  Sections in which each entry might have multiple lines 
+% (e.g., Education) are stored in a 'SectionTable' environment). Sections in 
+% which each entry might just have one line are stored in a 'SectionTableSingleSpace'
+% environment. The only difference between the two environments is the line 
+% spacing between each entry. Both environments take one argument, which is the
+% title of the section. See main document for how these environments are used.
+
+% Define settings for left-hand column in which dates are printed
+\newcolumntype{R}{>{\raggedleft}p{1in}}
+
+% Define 'SectionTable' environment
+\newenvironment{SectionTable}[1]{
+	\renewcommand*{\arraystretch}{1.7}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{5.2in}} & #1 \\}
+{\end{longtable}\vspace{-.3cm}}
+
+% Define 'SectionTableSingleSpace' environment
+\newenvironment{SectionTableSingleSpace}[1]{
+	\renewcommand*{\arraystretch}{1.2}
+	\setlength{\tabcolsep}{10pt}
+	\begin{longtable}{Rp{5.2in}} & #1 \\[0.6em]}
+{\end{longtable}\vspace{-.3cm}}
+
+% --- Document starts here ---
+
+\begin{document}
+
+% --- Name and contact information ---
+
+\begin{SectionTable}{\Huge Antoine Soetewey} &
+\href{https://antoinesoetewey.com/}{antoinesoetewey.com}
+$\;\boldsymbol{\cdot}\;$ \href{mailto:antoine.soetewey@uclouvain.be}{antoine.soetewey@uclouvain.be} % \href{mailto:ant.soetewey@gmail.com}{ant.soetewey@gmail.com} $\;\boldsymbol{\cdot}\;$ \href{tel:0032477280521}{+32 477 280 521}
+\end{SectionTable}
+
+% --- Section: Summary ---
+
+\begin{SectionTable}{\headingfont Summary}
+\end{SectionTable}
+
+\noindent I am a postdoctoral researcher in data science and statistics at UCLouvain, working on issues related to mortality. Before that, I obtained a PhD in statistics at UCLouvain, where my research focused on survival analysis and biostatistical methods applied to cancer patients. In parallel with my research, I teach statistics and probability as a visiting lecturer at UCLouvain and UNamur. % In my spare time, I write about statistics and code in R via my blog \href{https://statsandr.com/}{statsandr.com}.
+
+% --- Section: Education ---
+
+\begin{SectionTable}{\headingfont Education}
+
+2024 & 
+\textbf{PhD in statistics} -- UCLouvain, Belgium % \newline
+\\
+
+2016 & 
+\textbf{MSc in econometrics} -- Maastricht University, Netherlands % \newline
+\\
+
+2015 & 
+\textbf{MSc in economics} -- KU Leuven, Belgium % \newline
+\\
+
+2014 &
+\textbf{Exchange program} -- University of Illinois at Urbana-Champaign, USA
+\\
+
+2013 & 
+\textbf{BSc in economics} -- UCLouvain, Belgium
+% \\
+
+% --- Un-comment the next few lines if you want to include some courses you've taken ---
+
+%& \textbf{Selected coursework}
+%\begin{itemize}[itemsep=0pt, leftmargin=*]
+%\item \textit{Statistics}: Asymptotic statistics, Mathematical statistics, Functional data analysis, High-dimensional statistics, Information theory
+%\item \textit{Mathematics}: Measure theory, Functional analysis, Measure-theoretic probability with martingales
+%\end{itemize}
+
+\end{SectionTable}
+
+% --- Section: Awards, scholarships, etc ---
+
+% \begin{SectionTable}{\headingfont Honors and scholarships}
+% 2021 & 
+% Award 1 (Organization that gave you the award)\newline
+% \textit{Maybe this award needs a short description}. \\
+
+% 2020 &
+% Award 2 (Organization that gave you the award; \href{https://en.wikibooks.org/wiki/LaTeX/Hyperlinks}{link if you want}) \\
+
+%2019 &
+%Award 3 (Organization that gave you the award) \\
+
+%2018 &
+%Award 4 (Organization that gave you the award) \\
+
+%2017 &
+%Award 5 (Organization that gave you the award)
+% \end{SectionTable}
+
+% --- Section: Research experience ---
+
+\begin{SectionTable}{\headingfont Research experience}
+
+2024 -- Present &
+\textbf{Postdoctoral researcher} in data science and statistics -- UCLouvain \& ULiège, Belgium \\
+
+2017 -- 2024 &
+\textbf{Doctoral researcher} in statistics -- UCLouvain, Belgium
+
+%Month Year -- Month Year &
+%\textbf{Title of project or lab where research was conducted} \newline
+%Mentors: Professor B (University). \newline
+%Description of your work. Summary of findings available \href{https://en.wikibooks.org/wiki/LaTeX/Hyperlinks}{here}. Sed dolor lacus, imperdiet non, ornare non, commodo eu, neque. Integer pretium semper justo. \\
+\end{SectionTable}
+
+% --- Section: Teaching experience ---
+
+\begin{SectionTable}{\headingfont Teaching experience}
+
+2023 -- Present & 
+\textbf{Visiting lecturer} in statistics -- UCLouvain \& UNamur, Belgium \\
+2017 -- 2024 & 
+\textbf{Teaching assistant} in statistics -- UCLouvain, Belgium \\
+2018 -- 2024 & \textbf{Instructor} for UCLouvain's university certificates in statistics -- SMCS, Belgium
+
+\end{SectionTable}
+
+% --- Section: Industry experience ---
+
+% \newpage
+
+\begin{SectionTable}{\headingfont Industry experience}
+
+2018 -- 2024 & 
+\textbf{Consultant} in statistics and data analysis -- SMCS, Belgium\newline
+- Statistical consulting for researchers and academics\\ % \newline
+% - Professionals and companies -- \href{https://datanalyze.be/}{datanalyze.be}\\
+
+2016 -- 2017 &
+\textbf{Data scientist} -- Business \& Decision, Belgium \newline
+- Involved in several projects focusing on data science and data visualization
+
+% Apr -- Jun 2015 &
+% \textbf{European public affairs intern} -- BNP Paribas, Belgium \\
+
+% Jan -- Mar 2015 &
+% \textbf{Audit intern} -- Deloitte, Luxembourg \\
+
+\end{SectionTable}
+
+% --- Section: Leadership experience ---
+
+% \begin{SectionTable}{\headingfont Leadership experience}
+
+% 2017 -- Present &
+% \textbf{International tennis chair umpire} -- International Tennis Federation \newline
+% - Work regularly as a chair or line umpire on major tennis events across the world\\
+
+% 2016 -- Present &
+% \textbf{Committee member} -- Association Francophone de Tennis, Belgium \\
+
+% \end{SectionTable}
+
+% --- Section: Professional society memberships ---
+
+\begin{SectionTable}{\headingfont Academic service}
+
+2024 -- Present &
+Reviewer for \textit{Open Forum Infectious Diseases (OFID)}, \textit{SoftwareX}, \textit{The Journal of Open Source Software (JOSS)}, \textit{Scientific Reports}, \textit{BMC Cancer}, \textit{Frontiers in Nutrition} and \textit{Journal of Robotic Surgery (JORS)} %\newline
+% \textit{Short description or conferences you attended.}
+\\
+2020 -- 2024 &
+Doctoral student representative at the \textit{Thematic Doctoral School of Statistics and Actuarial Sciences, F.R.S.-FNRS} and at the \textit{Louvain School of Statistics, Biostatistics and Actuarial Sciences (LSBA), UCLouvain}
+% \\
+% 2017 -- Present & 
+% Member of the \textit{Royal Statistical Society of Belgium}
+\end{SectionTable}
+
+% --- Section: Student supervision ---
+\begin{SectionTableSingleSpace}{\headingfont Student supervision}
+\textbf{PhD student}\\
+& - Thaddée D'haegeleer (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)\newline\\
+
+\textbf{Master students}\\
+& - Carnot Dongmo Mbane (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne and Dr. Hugues Annoye)\\
+& - Saunier Blainda Juenang Payong (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
+\end{SectionTableSingleSpace}
+
+% --- Section: Technical skills & languages ---
+\begin{SectionTable}{\headingfont Technical skills \& languages}
+\textbf{Software}\\
+& R, Python, GitHub, SQL, Jamovi, JASP, Web development \\
+% - See examples of projects at \href{https://antoinesoetewey.com/software/}{antoinesoetewey.com/software}\\
+
+\textbf{Languages}
+& French (native), English (fluent), Dutch (basic)
+\end{SectionTable}
+
+% --- Section: Other interests/hobbies ---
+
+% \begin{SectionTable}{\headingfont Other interests}
+% & Some of your hobbies, etc.
+% \end{SectionTable}
+
+% --- Section: Publications ---
+\newpage
+
+\begin{SectionTableSingleSpace}{\headingfont Publications}
+\textbf{Peer-reviewed papers}\\
+% & - Soetewey, A., (2026). Statistics 101, 201, and 202: Three Shiny Apps for Teaching Probability Distributions, Inferential Statistics, and Simple Linear Regression. Journal of Open Source Education, xxx(xxx), xxx. \href{https://doi.org/xxx}{doi.org/xxx}\\
+& - Truong, H.C., Pham, Q.D., Phan, T.V., Vo, D.T.T., Nguyen, P.D., Nguyen, H.T., Le, N.N.T., Trinh, T.H., Nguyen, Q.D., Nguyen, N.T., Lam, T.T., Soetewey, A., Nguyen, T.V., Nguyen, T.V. and Speybroeck, N. (2026). Effectiveness of pneumococcal conjugate vaccines against invasive pneumococcal disease in Vietnamese children prior to national introduction: A matched case-control study. \textit{Vaccine, 77}, 128349. \href{https://doi.org/10.1016/j.vaccine.2026.128349}{doi.org/10.1016/j.vaccine.2026.128349}\\
+& - Soetewey, A., Heuchenne, C., Claes, A. and Descampe, A. (2026). AssociationExplorer: A user-friendly shiny application for exploring associations and visual patterns. \textit{SoftwareX, 33}, 102483. \href{https://doi.org/10.1016/j.softx.2025.102483}{doi.org/10.1016/j.softx.2025.102483}\\
+& - Soetewey, A., Legrand, C., Denuit, M. and Silversmit, G. (2025). Semi-Markov modeling for disease incidence risk and duration. \textit{Biostatistics \& Epidemiology, 9}(1). \href{https://doi.org/10.1080/24709360.2025.2517916}{doi.org/10.1080/24709360.2025.2517916}\\
+& - Soetewey, A., Legrand, C., Denuit, M. and Silversmit, G. (2025). Right to be forgotten for mortgage insurance issued to cancer survivors: Critical assessment and new proposal. \textit{European Actuarial Journal, 15}, 15-43. \href{https://doi.org/10.1007/s13385-024-00403-6}{doi.org/10.1007/s13385-024-00403-6}\\
+& - Houben, J.J., Carpentier, Y., Paulissen, G., Van Snick, G. and Soetewey, A. (2023). Impact of a Food Rebalancing Program Associated with Plant-Derived Food Supplements on the Biometric, Behavioral, and Biological Parameters of Obese Subjects. \textit{Nutrients, 15}(22):4780. \href{https://doi.org/10.3390/nu15224780}{doi.org/10.3390/nu15224780}\\
+& - Truong, H.C., Van Phan, T., Nguyen, H.T., Truong, K.H., Do, V.C., Pham, N.N.M., Ho, T.V., Phan, T.T.Q., Hoang, T.A., Soetewey, A., Ho, T.N.L., Pham, Q.D., Luong, Q.C., Vo, D.T.T., Nguyen, T.V. and Speybroeck, N. (2023). Childhood Bacterial Meningitis Surveillance in Southern Vietnam: Trends and Vaccination Implications from 2012 to 2021. \textit{Open Forum Infectious Diseases} (p. ofad229). Oxford University Press. \href{https://doi.org/10.1093/ofid/ofad229}{doi.org/10.1093/ofid/ofad229}\\
+& - Soetewey, A., Legrand, C., Denuit, M. and Silversmit, G. (2022). Semi-Markov modeling for cancer insurance. \textit{European Actuarial Journal, 12}, 813-837. \href{https://doi.org/10.1007/s13385-022-00308-2}{doi.org/10.1007/s13385-022-00308-2}\\
+& - Soetewey, A., Legrand, C., Denuit, M. and Silversmit, G. (2021). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. \textit{European Actuarial Journal, 11}, 135-160. \href{https://doi.org/10.1007/s13385-020-00254-x}{doi.org/10.1007/s13385-020-00254-x}\newline\\
+
+\textbf{PhD thesis}
+& Soetewey, A. (2024). Waiting period from diagnosis for mortgage insurance issued to cancer survivors. \textit{UCLouvain}, supervisors: Prof. Catherine Legrand \& Prof. Michel Denuit. \href{https://hdl.handle.net/2078.5/263052}{hdl.handle.net/2078.5/263052}\newline\\
+
+& See all communications and working papers at \href{https://antoinesoetewey.com/research/}{antoinesoetewey.com/research}
+\end{SectionTableSingleSpace}
+
+% --- Section: Courses list ---
+\newpage
+
+\begin{SectionTableSingleSpace}{\headingfont Teaching}
+
+& \textbf{Visiting lecturer} \\
+2026 -- Present & Probability and mathematical statistics (UNamur, ECGEB252) \\
+2026 -- Present & Biostatistics and information's critical analysis (UCLouvain, LVETE1262) \\
+2024 -- 2026 & Multivariate statistical analysis (UCLouvain, LINGE1222) \\
+2024 -- 2026 & Statistics (UNamur, ECGEB152) \\
+2023 -- 2024 & Advanced quantitative methods (UNamur, EINGM105)\\
+% \end{SectionTableSingleSpace}
+
+% \begin{SectionTableSingleSpace}{}
+& \textbf{\newline Teaching assistant (UCLouvain)}\\
+% & \textit{UCLouvain:}\\
+2023 -- 2024 & Data exploration and introduction to statistical inference (LMAFY1101) \\
+2022 -- 2024 & Statistics and data sciences with R: Advanced programming (LDATS2030) \\
+2022 -- 2024 & Economics and management statistics II (LECGE1224) \\
+2022 -- 2024 & Analysis of survival and duration data (LSTAT2220) \\
+2021 -- 2024 & Biostatistics and information's critical analysis (LVETE1262) \\
+2017 -- 2024 & Statistical processing of data (WFARM1247) \\
+2021 -- 2022 & Econometrics (LINGE1221) \\
+2020 -- 2021 & Statistics and data sciences (LEPL1109) \\
+2018 -- 2019 & Data analysis (LSTAT2110) \\
+2019 -- 2023 & Discrete data analysis (LSTAT2100) \\
+2017 -- 2023 & Statistics (LESPO2102) \\
+2017 -- 2021 & Multivariate statistical analysis (LINGE1222) \\
+2017 -- 2020 & Probability and statistics (LFSAB1105) \\
+2017 -- 2018 & Further statistics (LINGE1214)\\
+
+& \textbf{\newline University certificates (UCLouvain)}\\
+2023 & Introduction to LaTeX\\
+2021 -- 2023 & Introduction to data analysis with R\\
+2018 -- 2021 & Junior data analyst\\
+2019 -- 2020 & Practice of statistics with R\\
+\end{SectionTableSingleSpace}
+
+% --- End of CV! ---
+
+\end{document}
