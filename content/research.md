@@ -94,7 +94,7 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 
 ## Academic service
 
-- Reviewer for *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports*, *BMC Cancer* and *Frontiers in Nutrition* (2024 -- Present)
+- Reviewer for *Open Forum Infectious Diseases (OFID)*, *SoftwareX*, *The Journal of Open Source Software (JOSS)*, *Scientific Reports*, *BMC Cancer*, *Frontiers in Nutrition* and *Journal of Robotic Surgery (JORS)* (since 2024)
 - Doctoral student representative at the *Thematic Doctoral School of Statistics and Actuarial Sciences, F.R.S.-FNRS* and at the *Louvain School of Statistics, Biostatistics and Actuarial Sciences (LSBA), UCLouvain* (2020 -- 2024)
 
 ## Grants & funding
