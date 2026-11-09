@@ -83,14 +83,7 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 
 ## Student supervision
 
-**PhD student**
-
-- Thaddée D'haegeleer (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
-
-**Master students**
-
-- Carnot Dongmo Mbane (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne and Dr. Hugues Annoye)
-- Saunier Blainda Juenang Payong (2025 -- 2026, co-supervision with Prof. Cédric Heuchenne)
+- Co-supervision, with Prof.~Cédric Heuchenne, of a PhD student and of two master's theses (2025 -- 2026)
 
 ## Academic service
 

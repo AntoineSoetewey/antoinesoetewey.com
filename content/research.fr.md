@@ -83,14 +83,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 ## Encadrement d'étudiants
 
-**Doctorant**
-
-- Thaddée D'haegeleer (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne)
-
-**Étudiants en master**
-
-- Carnot Dongmo Mbane (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne et Dr. Hugues Annoye)
-- Saunier Blainda Juenang Payong (2025 -- 2026, co-encadrement avec Prof. Cédric Heuchenne)
+- Co-direction, avec le professeur Cédric Heuchenne, d'une thèse de doctorat et de deux mémoires de master (2025 -- 2026)
 
 ## Engagements académiques
 
