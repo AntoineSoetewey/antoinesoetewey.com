@@ -83,7 +83,7 @@ For a detailed list of publications see my [Google Scholar](https://scholar.goog
 
 ## Student supervision
 
-- Co-supervision, with Prof.~Cédric Heuchenne, of a PhD student and of two master's theses (2025 -- 2026)
+- Co-supervision of a PhD student and of two master's theses (2025 -- 2026)
 
 ## Academic service
 

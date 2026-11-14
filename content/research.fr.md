@@ -83,7 +83,7 @@ Pour une liste détaillée des publications, voir mon profil <a href="https://sc
 
 ## Encadrement d'étudiants
 
-- Co-direction, avec le professeur Cédric Heuchenne, d'une thèse de doctorat et de deux mémoires de master (2025 -- 2026)
+- Co-direction d'une thèse de doctorat et de deux mémoires de master (2025 -- 2026)
 
 ## Engagements académiques
 
